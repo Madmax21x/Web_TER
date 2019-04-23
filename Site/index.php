@@ -259,7 +259,7 @@ include("entete.php");
 
         <div class="field is-horizontal">
           <div class="field-label">
-            <!--Left empty for spacing -->
+            <!-- Left empty for spacing -->
           <!-- </div>
           <div class="field-body">
             <div class="field">
