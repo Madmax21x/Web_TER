@@ -14,14 +14,14 @@ GLOBAL
   margin-right: 0;
   height: 70px;
   line-height: 70px;
-  background-color: rgba(0,0,0,0);
+  background-color: #bdc3c7;
   position: fixed;
   top : 0;
   z-index: 999;
 }
 
 .header .header-logo {
-  color: #636e72;
+  color: #FFFFFF;
   font-family: 'Montserrat', sans-serif;
   float: left;
   margin-left: 30px;
@@ -35,7 +35,7 @@ GLOBAL
 
 .header .header-menu a {
   margin-right: 15px;
-  color: #636e72;
+  color: #FFFFFF;
 }
 
 .header .header-menu a:hover {
