@@ -274,7 +274,7 @@ include("entete.php");
       </footer>
       </div>
     </center>  -->
-    
+
     <!-- portfolio -->
     <div class="block">
       <h2 class="subtitle heading-site">Mon portfolio</h2>
