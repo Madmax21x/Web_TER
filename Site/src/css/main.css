@@ -46,7 +46,7 @@ GLOBAL
 banner
 */
 .banner {
-  margin-top: -25px;
+  margin-top: 25px;
 }
 
 .banner .banner-image {
@@ -61,6 +61,8 @@ banner
   top: 50%;
   color: #FFFFFF;
 }
+
+
 
 .banner .banner-content h1,
 .banner .banner-content h2 {
@@ -91,7 +93,6 @@ h2{
 /*
 footer
 */
-
 
 .footer .footer-informations {
   text-align: center;
