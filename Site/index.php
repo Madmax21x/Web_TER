@@ -44,7 +44,7 @@ include("entete.php");
         </div>
       </div>
     </div>
-    
+
     <!-- portfolio -->
     <div class="block">
       <h2 class="subtitle heading-site">Mon portfolio</h2>
@@ -99,7 +99,7 @@ include("entete.php");
 
     <!-- portfolio -->
 
-      <center>
+      <!-- <center>
         <div class="footer-informations">
           <p> Université de Bordeaux</p>
           <p> 33 076 Bordeaux CEDEX</p>
@@ -111,13 +111,20 @@ include("entete.php");
             </div>
           </div>
         </div>
-    </center>
+    </center> -->
     <!-- Contact -->
+
+
 
     <!-- banner -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
     <script src="src/js/main.js"></script>
+
+
   </body>
 
   <!-- body -->
 </html>
+<?php
+include("pied.php");
+?>
