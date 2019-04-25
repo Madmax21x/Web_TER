@@ -22,32 +22,10 @@ include("entete.php");
     include("formulaire.php");
     ?>
 
-    <!-- section: à propos -->
-    <div class="block">
-      <h2 class="subtitle heading-site">A propos</h2>
-      <br/>
-      <div class="container about">
-        <div class="columns">
-            <div class="column about-single-element">
-              <i class="fab fa-python icon"></i>
-              <p>Projet basé sur un code Python</p>
-            </div>
-
-            <div class="column about-single-element">
-              <i class="fas fa-users icon"></i>
-              <p>Un travail d'équipe</p>
-              </div>
-            <div class="column about-single-element">
-              <i class="fab fa-twitter icon"></i>
-              <p>Utilisation des APIs de </p>
-            </div>
-        </div>
-      </div>
-    </div>
-
+    <br/>
+    <br/>
     <!-- portfolio -->
     <div class="block">
-      <h2 class="subtitle heading-site">Mon portfolio</h2>
       <div class="container">
         <div class="tile is-ancestor">
           <div class="tile is-vertical is-8">
@@ -99,22 +77,28 @@ include("entete.php");
 
     <!-- portfolio -->
 
-      <!-- <center>
-        <div class="footer-informations">
-          <p> Université de Bordeaux</p>
-          <p> 33 076 Bordeaux CEDEX</p>
-          <div class="info" style="margin-left: 46%; font-size: 30px;">
-            <div class="field is-horizontal">
-              <a href="#" style="margin-right: 15px; "><i class="fab fa-twitter"></i></a>
-              <a href="#" style="margin-right: 15px;"><i class="fab fa-facebook-square"></i></a>
-              <a href="#" style="margin-right: 15px;"><i class="fab fa-instagram"></i></a>
+    <!-- section: à propos -->
+    <div class="block">
+      <h2 class="subtitle heading-site">A propos</h2>
+      <br/>
+      <div class="container about">
+        <div class="columns">
+            <div class="column about-single-element">
+              <i class="fab fa-python icon"></i>
+              <p>Projet basé sur un code Python</p>
             </div>
-          </div>
+
+            <div class="column about-single-element">
+              <i class="fas fa-users icon"></i>
+              <p>Un travail d'équipe</p>
+              </div>
+            <div class="column about-single-element">
+              <i class="fab fa-twitter icon"></i>
+              <p>Utilisation des APIs de </p>
+            </div>
         </div>
-    </center> -->
-    <!-- Contact -->
-
-
+      </div>
+    </div>
 
     <!-- banner -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
