@@ -36,7 +36,7 @@
         <nav class="header-menu">
           <a href="index.php">Accueil</a>
           <a href="services.php">Nos services</a>
-          <a href="travaux.php">Nos travaux</a>
+          <a href="travaux.php">Nos ressources</a>
           <a href="presse.php">Presse</a>
           <a href="contact.php">Contact</a>
         </nav>
