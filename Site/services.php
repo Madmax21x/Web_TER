@@ -24,11 +24,11 @@ include("formulaire.php");
   <br/>
   <div class="container about">
     <div class="columns">
-        <div class="column about-single-element-1" style="column-width: 270px;">
+        <div class="column about-single-element-1">
           <img src="src/img/reseau.jpg" class="banner-image" style="position: relative;">
         </div>
 
-        <div class="column about-single-element-1" style="text-align:justify; column-width: 500px;">
+        <div class="column about-single-element-1" style="text-align:justify;">
           <p>L’émergence et la multiplication des réseaux sociaux ont révolutionné notre
              manière de partager, dénoncer, nous exprimer, informer… Les individus partagent
              de plus en plus leurs quotidiens, leurs centres d'intérêts, leurs émotions, leurs valeurs,
@@ -74,17 +74,46 @@ include("formulaire.php");
           clients qu'on ne le faisait avant."</span></p>
           <br/>
           <p style="font-weight:bold;">Romain Damian, Data Scientist chez Liegey Muller Pons à Paris.</p>
-
-
       </div>
-
       </div>
     </div>
   </div>
 </div>
 
 
+<div class="block">
+  <br/>
+  <br/>
+  <h2 class="subtitle heading-site-1" style= "margin-left: 10%; font-size: 30px;">L'e-réputation à travers les réseaux sociaux</h2>
+  <br/>
+  <div class="container about">
+    <div class="columns">
 
+        <div class="column about-single-element-1" style="text-align:justify;">
+          <p>L'e-réputation est la perception qu'ont les internautes d'une entreprise,
+            de sa marque ou de ses employés. C'est une représentation que les internautes
+            se constituent en fonction des flux d'informations qu'ils rencontrent sur internet.
+            On s'intéresse surtout aux informations trouvées sur les réseaux sociaux.
+            Maîtriser son e-réputation sur les réseaux sociaux est devenu une nécessité absolue
+            pour les entreprises et les marques.
+
+            Lorsqu'un internaute tape le nom d'une marque ou d'une entreprise sur internet, il tombe
+            facilement sur des résultats issus des réseaux sociaux. Ces résultats représentent l'image
+            de la marque et la réputation de l'entreprise. Les réseaux sociaux permettent aux consommateurs
+            d'être mieux informés sur les produits et les services qu'ils recherchent. Ils peuvent facilement
+            vérifier ce qu'ont laissé comme avis (ou commentaires) d'autres utilisateurs et en prendre
+            compte avant leur achat. Or ce que les internautes découvrent sur une marque, ils peuvent le
+            dénoncer et tout peut se savoir. Le plus gros risque que peut craindre une entreprise sur les
+            réseaux sociaux c'est le bad bazz.
+       </p>
+    </div>
+
+    <div class="column about-single-element-1">
+      <img src="src/img/logos.jpg" class="banner-image" style="position: relative; width: 350px; margin-left: 20%;">
+    </div>
+
+  </div>
+</div>
 
 
 
