@@ -66,7 +66,7 @@ include("formulaire.php");
 
       <div class="column about-single-element-1" style="text-align:center; ">
         <br/>
-        <p><span class="italique" style="font-style: italic; text-align:center;">"Un grand avantage des réseaux sociaux pour le
+        <p><span class="italique" style="font-style: italic;">"Un grand avantage des réseaux sociaux pour le
           marketing est quand même que cela permet de parler directement aux consommateurs si besoin,
           comme un espèce de chat public.
           C'est ce que fait beaucoup Décathlon par exemple (la polémique autour de leur hijab
@@ -115,6 +115,51 @@ include("formulaire.php");
   </div>
 </div>
 
+<div class="block">
+  <br/>
+  <br/>
+  <div class="container about">
+    <div class="columns">
+
+        <div class="column about-single-element-1" style="text-align:center;">
+          <p><span class="italique" style="font-style: italic;">"La priorité du matin quand tu arrives au travail,
+            c’est de répondre aux avis de TripAdvisor. On est à 10 avis par jour sur les gros jours. On a 4500 avis sur TripAdvisor,
+            8000 sur Google...Il faut avoir une bonne réputation sur TripAdvisor
+            pour ne pas prendre du retard en ligne. Ça a une énorme importance. Je réponds aux avis, puis tous les mois j’envoie
+            les 5 meilleurs avis et les 5 pires avis du mois, qui font un peu office des avis du mois, sachant qu’il y a d’autres
+            enquêtes de satisfaction à côté.</span></p>
+            <p><span class="italique" style="font-style: italic; text-align:center;">
+            Les avis Tripadvisor servent vraiment de baromètre. On a eu une mauvaise note ce mois-ci qu’est-ce qu’il s’est passé?
+            C’est vraiment la différence entre une structure récente et une structure comme le Louvre qui a une histoire que nous
+            ne l'avons pas. On est obligé de s’améliorer grace à ces avis et c’est pour ça qu’on n'a pas de très bonnes notes. Un
+            des reproches qu’on nous fait c’est que quand il y a du monde, l’expérience est horrible ici et les gros WE quand on
+            sait qu’il va y avoir du monde, on sait que le lundi on va s’en prendre sur TripAdvisor, donc on anticipe, on met un
+            petit message « soyez sympa, venez plus tôt, faites un coup de fil … ».  On anticipe les besoins de nos clients grace
+             aux avis.
+
+          </span></p>
+          <p><span class="italique" style="font-style: italic; text-align:center;">
+            Les 20 % du budget marketing sont consacrés au suivi des réseaux sociaux. Je pense que le budget est conséquent.
+            Mon poste a été créé la deuxième année, donc il y a eu une prise de conscience de l’importance des réseaux sociaux." 
+
+
+        </span></p>
+          <br/>
+          <p style="font-weight:bold;">Maxime, Profession à la Cité du Vin.</p>
+
+
+    </div>
+
+    <div class="column about-single-element-1" style="text-align:center;">
+      <p> <span class="italique" style="font-style: italic; text-align:center;">
+        "Ce qui est important, c'est qu'il y a 2 types de structures: ceux qui existaient avant les réseaux
+        sociaux, comme le Louvre, et des structures comme nous. Des structures comme le Louvre
+        ont des avis bien supérieurs à la nôtre parce qu’ils ont amélioré leurs musées avant
+        les avis, alors que nous c’est grace aux avis sur TripAdvisor qu’on s’améliore."</span></p>
+        <br/>
+        <p style="font-weight:bold;">Nom, Développeur SI & Multimédia à la Cité du Vin.</p>
+  </div>
+</div>
 
 
 
