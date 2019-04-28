@@ -20,6 +20,17 @@ include("entete.php");
 <br/>
 <br/>
 
+
+
+<div class ="block" >
+  <div class="banner" >
+      <div class="banner-content-1" style="position: absolute; top: 45%; left: 45%;" >
+          <button class="button is-link" id="open_modal">Contactez-nous!</button>
+  </div>
+</div>
+<?php
+include("formulaire.php");
+?>
 <div class="block">
   <div class="container about">
     <div class="columns">
@@ -40,3 +51,6 @@ include("entete.php");
     </div>
   </div>
 </div>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+<script src="src/js/main.js"></script>
