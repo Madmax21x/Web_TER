@@ -140,24 +140,24 @@ include("formulaire.php");
           </span></p>
           <p><span class="italique" style="font-style: italic; text-align:center;">
             Les 20 % du budget marketing sont consacrés au suivi des réseaux sociaux. Je pense que le budget est conséquent.
-            Mon poste a été créé la deuxième année, donc il y a eu une prise de conscience de l’importance des réseaux sociaux." 
+            Mon poste a été créé la deuxième année, donc il y a eu une prise de conscience de l’importance des réseaux sociaux."
 
 
         </span></p>
           <br/>
-          <p style="font-weight:bold;">Maxime, Profession à la Cité du Vin.</p>
+          <p style="font-weight:bold;">Maxime Chabaud, Community and content Manager à la Cité du Vin.</p>
 
 
     </div>
 
     <div class="column about-single-element-1" style="text-align:center;">
       <p> <span class="italique" style="font-style: italic; text-align:center;">
-        "Ce qui est important, c'est qu'il y a 2 types de structures: ceux qui existaient avant les réseaux
+        "Ce qui est important, c'est qu'il y a 2 types de structures: celles qui existaient avant les réseaux
         sociaux, comme le Louvre, et des structures comme nous. Des structures comme le Louvre
         ont des avis bien supérieurs à la nôtre parce qu’ils ont amélioré leurs musées avant
         les avis, alors que nous c’est grace aux avis sur TripAdvisor qu’on s’améliore."</span></p>
         <br/>
-        <p style="font-weight:bold;">Nom, Développeur SI & Multimédia à la Cité du Vin.</p>
+        <p style="font-weight:bold;">Timothée Binet, Développeur SI & Multimédia à la Cité du Vin.</p>
   </div>
 </div>
 
