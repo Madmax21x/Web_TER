@@ -161,6 +161,42 @@ include("formulaire.php");
   </div>
 </div>
 
+<div class="block">
+  <br/>
+  <br/>
+  <h2 class="subtitle heading-site-1" style= "margin-left: 5%; font-size: 30px;">L'e-réputation dans la stratégie des entreprises</h2>
+  <br/>
+  <div class="container about">
+    <div class="columns">
+        <div class="column about-single-element-1">
+          <img src="src/img/chess.jpg" class="banner-image" style="position: relative;">
+        </div>
+
+        <div class="column about-single-element-1" style="text-align:justify;">
+          <p>L'e-réputation d'une entreprise peut être anticipée, modifiée et maîtrisée
+            comme n'importe quel autre type de publicité. La gestion de l'e-réputation
+            doit être pris en compte dans la stratégie d'une organisation.
+            Les entreprises doivent donc veiller constamment sur leur e-réputation, pour
+            pouvoir en tirer du bénéfice.
+            Une entreprise doit construire elle-même son e-réputation et contrôler soi-même
+            ses informations. Elle doit par ailleurs la protéger pour éviter qu'elle soit
+            entachée par des avis peu élogieux. Il faut essayer d'être toujours informé en
+            temps réel d'un changement de situation et savoir vite réagir. Un seul avis
+            négatif suffit pour changer la perception qu'on les internautes sur la marque de
+            l'entreprise. Lorsque les internautes cherchent de l'information sur une entreprise,
+            c'est pour trouver plus de crédibilité en la marque et un mauvais avis peut faire
+            perdre des clients potentiels à l'entreprise. </p>
+            <p>Les internautes sont libres de partager leurs avis et leurs opinions sur les
+              réseaux. C'est ce qui rend le contôle plus difficile pour une entreprise. Lorsque
+              ces avis deviennent très nombreux, il devient difficile pour une entreprise de gérer
+              son e-réputation sans avoir recours à des techniques d'automatisation. En effet,
+            afin d'étudier son e-réputation l'entreprise doit d'abord être en capacité de
+          récupérer sur les réseaux toutes les données qui la concernent pour pouvoir les analyser.</p>
+
+    </div>
+  </div>
+</div>
+
 
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
