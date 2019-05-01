@@ -93,6 +93,8 @@ include("formulaire.php");
           <p>L'e-réputation est la perception qu'ont les internautes d'une entreprise,
             de sa marque ou de ses employés. C'est une représentation que les internautes
             se constituent en fonction des flux d'informations qu'ils rencontrent sur internet.
+            Désormais, la réputation d'une entreprise peut se mesurer en nombre d’avis, de
+            recommandations ou de citations spontanément émis sur la marque dans les conversations en ligne.
             On s'intéresse surtout aux informations trouvées sur les réseaux sociaux.
             Maîtriser son e-réputation sur les réseaux sociaux est devenu une nécessité absolue
             pour les entreprises et les marques.
@@ -109,6 +111,7 @@ include("formulaire.php");
     </div>
 
     <div class="column about-single-element-1">
+      <br/>
       <img src="src/img/logos.jpg" class="banner-image" style="position: relative; width: 350px; margin-left: 20%;">
     </div>
 
