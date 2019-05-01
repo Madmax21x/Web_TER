@@ -224,6 +224,28 @@ include("formulaire.php");
   </div>
 </div>
 
+<div class="block">
+  <br/>
+  <br/>
+  <br/>
+  <h2 class="subtitle heading-site-1" style= "margin-left: 5%; font-size: 30px;">Le rôle de l'e-réputation dans le choix du consommateur</h2>
+  <br/>
+  <div class="container about">
+    <div class="columns">
+        <div class="column about-single-element-1" style="text-align:justify;">
+          <p>La manière dont les êtres individus prennent leurs décisions a été largement étudiée par Herbert Simon..<p/></div>
+        <div class="column about-single-element-1">
+          <img src="src/img/choice.jpg" class="banner-image" style="position: relative; width:400px; margin-left:20%;">
+        </div>
+
+
+
+
+    </div>
+  </div>
+</div>
+
+
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
 <script src="src/js/main.js"></script>
