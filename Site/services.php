@@ -25,7 +25,7 @@ include("formulaire.php");
   <div class="container about">
     <div class="columns">
         <div class="column about-single-element-1">
-          <img src="src/img/reseau.jpg" class="banner-image" style="position: relative;">
+          <img src="src/img/reseau.jpg" class="banner-image" style="position: relative; width:500px; margin-left:5%;">
         </div>
 
         <div class="column about-single-element-1" style="text-align:justify;">
@@ -135,13 +135,7 @@ include("formulaire.php");
             des reproches qu’on nous fait c’est que quand il y a du monde, l’expérience est horrible ici et les gros WE quand on
             sait qu’il va y avoir du monde, on sait que le lundi on va s’en prendre sur TripAdvisor, donc on anticipe, on met un
             petit message « soyez sympa, venez plus tôt, faites un coup de fil … ».  On anticipe les besoins de nos clients grace
-             aux avis.
-
-          </span></p>
-          <p><span class="italique" style="font-style: italic; text-align:center;">
-            Les 20 % du budget marketing sont consacrés au suivi des réseaux sociaux. Je pense que le budget est conséquent.
-            Mon poste a été créé la deuxième année, donc il y a eu une prise de conscience de l’importance des réseaux sociaux."
-
+             aux avis."
 
         </span></p>
           <br/>
@@ -169,13 +163,13 @@ include("formulaire.php");
   <div class="container about">
     <div class="columns">
         <div class="column about-single-element-1">
-          <img src="src/img/chess.jpg" class="banner-image" style="position: relative;">
+          <img src="src/img/chess.jpg" class="banner-image" style="position: relative; width:500px; margin-left:5%;">
         </div>
 
         <div class="column about-single-element-1" style="text-align:justify;">
           <p>L'e-réputation d'une entreprise peut être anticipée, modifiée et maîtrisée
             comme n'importe quel autre type de publicité. La gestion de l'e-réputation
-            doit être pris en compte dans la stratégie d'une organisation.
+            doit être prise en compte dans la stratégie d'une organisation.
             Les entreprises doivent donc veiller constamment sur leur e-réputation, pour
             pouvoir en tirer du bénéfice.
             Une entreprise doit construire elle-même son e-réputation et contrôler soi-même
@@ -186,17 +180,46 @@ include("formulaire.php");
             l'entreprise. Lorsque les internautes cherchent de l'information sur une entreprise,
             c'est pour trouver plus de crédibilité en la marque et un mauvais avis peut faire
             perdre des clients potentiels à l'entreprise. </p>
+
+    </div>
+  </div>
+</div>
+
+<div class="block">
+  <br/>
+  <br/>
+  <div class="container about">
+    <div class="columns">
+        <div class="column about-single-element-1" style="text-align:justify;">
             <p>Les internautes sont libres de partager leurs avis et leurs opinions sur les
               réseaux. C'est ce qui rend le contôle plus difficile pour une entreprise. Lorsque
               ces avis deviennent très nombreux, il devient difficile pour une entreprise de gérer
               son e-réputation sans avoir recours à des techniques d'automatisation. En effet,
             afin d'étudier son e-réputation l'entreprise doit d'abord être en capacité de
           récupérer sur les réseaux toutes les données qui la concernent pour pouvoir les analyser.</p>
+          <p>Les réseaux sociaux sont un formidable laboratoire pour tester la perception réelle
+            des messages de communication de la marque. Ils peuvent être le déclencheur d’une
+            vraie prise de conscience, celle de la nécessité de réaliser un plan marketing autrement
+             : plus humblement, plus à l’écoute du consommateur, en mode collaboratif.</p>
 
     </div>
+
+    <div class="column about-single-element-1" style="text-align:center;">
+    </span></p>
+    <p><span class="italique" style="font-style: italic; text-align:center;">
+      "Les 20 % du budget marketing sont consacrés au suivi des réseaux sociaux. Je pense que le budget est conséquent.
+      Mon poste a été créé la deuxième année, donc il y a eu une prise de conscience de l’importance des réseaux sociaux."
+
+
+  </span></p>
+    <br/>
+    <p style="font-weight:bold;">Maxime Chabaud, Community and content Manager à la Cité du Vin.</p>
+
+
+
+</div>
   </div>
 </div>
-
 
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
