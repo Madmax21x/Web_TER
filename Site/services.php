@@ -228,22 +228,75 @@ include("formulaire.php");
   <br/>
   <br/>
   <br/>
-  <h2 class="subtitle heading-site-1" style= "margin-left: 5%; font-size: 30px;">Le rôle de l'e-réputation dans le choix du consommateur</h2>
+  <h2 class="subtitle heading-site-1" style= "margin-left: 5%; font-size: 30px;">Le comportement et le choix du consommateur</h2>
   <br/>
   <div class="container about">
     <div class="columns">
         <div class="column about-single-element-1" style="text-align:justify;">
-          <p>La manière dont les êtres individus prennent leurs décisions a été largement étudiée par Herbert Simon..<p/></div>
-        <div class="column about-single-element-1">
-          <img src="src/img/choice.jpg" class="banner-image" style="position: relative; width:400px; margin-left:20%;">
-        </div>
+          <p>Il est intéressant d'étudier le comportement du consommateur. <span style="font-weight:bold;">Herbert Simon</span>,
+            un économiste et sociologue américain a étudié la manière dont les individus prennent
+            leurs décisions.
+            Les individus sont rationnels, c’est-à-dire qu’ils ont des buts et agissent
+            en fonction de leur réalisation. Or cette rationalité n’est pas absolue, elle
+            est limitée. Cette notion de rationalité limitée montre que
+            les individus ne sont pas capables de traiter l'ensemble des informations à leur
+            disposition et qu’ils prennent leurs décisions en fonction des buts qu’ils visent
+            et de leur environnement. Ces buts sont souvent concrets, à court terme et influencent leur
+            comportement et leurs stratégies. <p/>
+        <p> Dans la plupart des cas, confronté à un choix, l’individu construit un modèle simplifié
+          de la réalité, une définition de la situation à son échelle et avec ses moyens. Celle-ci
+          est d’abord essentiellement fondée sur son expérience passée. Souvent il se replie sur
+          des solutions déjà utilisées dans des circonstances qui lui
+          apparaissent grossièrement similaires et qui s’étaient révélées satisfaisantes. Mais si la
+          situation apparaît différente, il va chercher une solution nouvelle.</p>
 
-
-
-
-    </div>
-  </div>
 </div>
+
+
+        <div class="column about-single-element-1">
+          <img src="src/img/decision.jpg" class="banner-image" style="position: relative; margin-right:10%; width:500px ; margin-left:10%; margin-top:3%;">
+        </div>
+      </div>
+      </div>
+      </div>
+
+        <div class="block">
+          <br/>
+          <div class="container about">
+            <div class="columns">
+                <div class="column about-single-element-1" style="text-align:justify;">
+            <p>Les questions du jugement et du choix sont centrales dans la problématique de la
+              décision d’achat. Le processus de choix est d'autant plus important que la décision
+              que l'individu va prendre. L’analyse psychologique du processus d’achat du consommateur
+              vient renforcer la vision de la rationalité. La première phase du choix du consommateur
+              se fonde sur la sensation et la perception. Mais la perception n'est pas neutre. Le
+              consommateur sélectionne les informations qu'il voit. Dans son article <span style="font-weight:bold;">"Constructive costumer
+              choice processes"</span>, <span style="font-weight:bold;">James R. Bettman</span> propose les quatre motivations les plus actives dans la
+              prise de décision des consommateurs: <span class="italique" style="font-style: italic;">
+              maximisation de la pertinance du choix, minimisation de l'effort cognitif, minimisation
+            des émotions négatives, maximisation de la facilité de justifier son choix.</span>
+        </p>
+        <p>Le comportement des consommateurs a évolué avec la multiplication des e-commerces et
+          des réseaux sociaux. Désormais la plupart des consommateurs se renseignent en ligne
+          avant d'acheter en magasin. </p>
+            </div>
+
+          <div class="column about-single-element-1" style="text-align:justify;">
+            <p>L’abondance d’informations disponibles sur Internet conduit
+              l’internaute à rechercher l’environnement qui lui ressemble le plus pour sa prise de décision.
+            En effet, les réseaux sociaux hébergent des communautés (groupes) en ligne : communautés
+          d'état (femmes enceintes, patients, étudiants..), communautés de passion (sport, arts…),
+          communautés d’objectif (partage d’appartement, fraudeurs…), communauté d’usage (jeux vidéos,
+          logiciels..) ou encore communautés de valeur (religion, politique..). Au sein de ces communautés
+        les gens partagent les mêmes valeurs et les centres d'intérêt. Les consommateurs peuvent alors
+        avoir recours à ces communautés pour s'en inspirer dans leurs choix de consommation. L'existence
+      de ces groupes est un très bon moyen pour les entreprises pour construire des cibles marketing.</p>
+          </div>
+
+        </div>
+      </div>
+    </div>
+
 
 
 
