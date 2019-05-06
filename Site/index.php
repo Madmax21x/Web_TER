@@ -35,13 +35,13 @@ include("entete.php");
               <div class="tile is-parent is-vertical">
                 <article class="tile is-child notification ">
                   <p class="title">Vertical...</p>
-                  <p class="subtitle">- Les réseaux sociaux et les consommateurs</p>
-                  <p class="subtitle">- Le comportement et le choix du consommateur</p>
+                  <p class="subtitle"><a href="services.php#reseaux" style="text-decoration:none">- Les réseaux sociaux et les consommateurs</a></p>
+                  <p class="subtitle"><a href="services.php#conso" style="text-decoration:none">- Le comportement et le choix du consommateur</a></p>
                 </article>
                 <article class="tile is-child notification is-warning">
                   <p class="title">...tiles</p>
-                  <p class="subtitle">- L'e-réputation à travers les réseaux sociaux</p>
-                  <p class="subtitle">- L'e-réputation dans la stratégie des entreprises</p>
+                  <p class="subtitle"><a href="services.php#e_reputation" style="text-decoration:none">- L'e-réputation à travers les réseaux sociaux</a></p>
+                  <p class="subtitle"><a href="services.php#strategy" style="text-decoration:none">- L'e-réputation dans la stratégie des entreprises</a></p>
                 </article>
               </div>
               <div class="tile is-parent">
