@@ -32,7 +32,8 @@
     <div class="block">
 
       <header class="header">
-        <a href="#" class="header-logo"> API - Twitter</a>
+        <a href="index.php"><img src="src/img/logo_pie2eat.png" class="header-logo" style="position: relative; width:50px; margin-left:1%; margin-top: 1%"></a>
+        <a href="index.php" class="header-logo"> Pie2Eat </a>
         <nav class="header-menu">
           <a href="index.php">Accueil</a>
           <a href="services.php">Nos services</a>
