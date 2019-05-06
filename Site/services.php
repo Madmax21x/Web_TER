@@ -68,7 +68,7 @@ include("formulaire.php");
         <br/>
         <p><span class="italique" style="font-style: italic;">"Un grand avantage des réseaux sociaux pour le
           marketing est quand même que cela permet de parler directement aux consommateurs si besoin,
-          comme un espèce de chat public.
+          comme un espèce de tchat public.
           C'est ce que fait beaucoup Décathlon par exemple (la polémique autour de leur hijab
           pour la course à pied), et ça permet une gestion de la clientèle beaucoup plus proche des
           clients qu'on ne le faisait avant."</span></p>
@@ -106,7 +106,7 @@ include("formulaire.php");
             vérifier ce qu'ont laissé comme avis (ou commentaires) d'autres utilisateurs et en prendre
             compte avant leur achat. Or ce que les internautes découvrent sur une marque, ils peuvent le
             dénoncer et tout peut se savoir. Le plus gros risque que peut craindre une entreprise sur les
-            réseaux sociaux c'est le bad bazz.
+            réseaux sociaux c'est le bad buzz.
        </p>
     </div>
 
