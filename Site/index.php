@@ -66,14 +66,14 @@ include("entete.php");
           <div class="tile is-parent">
             <article class="tile is-child notification is-primary">
               <div class="content">
-                <a href="https://siecledigital.fr/2019/01/22/quel-avenir-pour-le-social-listening/" target="_blank" rel="noopener noreferrer"><p class="title">Quel avenir pour le Social Listening ?</p></a>
+                <a href="https://siecledigital.fr/2019/01/22/quel-avenir-pour-le-social-listening/" target="_blank" rel="noopener noreferrer" style="text-decoration:none"><p class="title">Quel avenir pour le Social Listening ?</p>
                 <p class="subtitle">par @siecledigital</p>
                 <div class="content">
                   <!-- Content -->
                   <p>Les solutions SaaS de Social Listening utilisées par les directions marketing reposant sur des data appartenant aux réseaux sociaux, qu’en est-il de leur avenir ?</p>
                   <p> Comment les outils s’adaptent-ils à une data devenue plus rare et plus onéreuse ? </p>
                   <figure class="image is-4by3">
-                    <a href="https://siecledigital.fr/2019/01/22/quel-avenir-pour-le-social-listening/" target="_blank" rel="noopener noreferrer"><img src="src/img/social_network_article.jpg"></a>
+                    <img src="src/img/social_network_article.jpg"></a>
                   </figure>
                 </div>
               </div>
