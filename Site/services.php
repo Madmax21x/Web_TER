@@ -297,6 +297,7 @@ include("formulaire.php");
     <br/>
     </span></p>
     <div style="text-align:center;">
+      <br/>
     <p><span class="italique" style="font-style: italic; text-align:center;">
       "Les 20 % du budget marketing sont consacrés au suivi des réseaux sociaux. Je pense que le budget est conséquent.
       Mon poste a été créé la deuxième année, donc il y a eu une prise de conscience de l’importance des réseaux sociaux."
@@ -304,9 +305,6 @@ include("formulaire.php");
   </span></p>
     <br/>
     <p style="font-weight:bold;">Maxime Chabaud, Community and content Manager à la Cité du Vin.</p>
-
-
-
 
   </div>
   </div>
@@ -322,6 +320,7 @@ include("formulaire.php");
       <div class="container about">
         <div class="columns">
             <div class="column about-single-element-1">
+              <br/>
               <img src="src/img/big_data.jpg" class="banner-image" style="position: relative; width:500px; margin-left:5%;">
 
             </div>
@@ -332,6 +331,16 @@ include("formulaire.php");
                 En effet, ces données permettent de connaître le ressenti des clients à l’égard d’un
                 produit, d’un service, ou d’une campagne marketing, mais aussi de vérifier le niveau de
                 satisfaction des clients, ou encore de surveiller la concurrence.
+              </p>Mais ces données peuvent être aussi utilisées pour mieux connaître ses clients, leurs
+              préferences. En effet, toute interaction avec le réseaux sociaux (like, commentaire, partage,
+               publications, …)) laissent des traces. A partir de ces données, il est possible de déterminer
+               ce qu'aiment les clients et de prédire ce qu'ils vont aimer. En étudiant le profil ses clients,
+               les entreprises peuvent connaître le profil socio-démographique des personnes intéressées par leurs offres.
+               Ils peuvent récupérer des données générales comme l'âge, le sexe, la géolocalisation, mais
+               aussi des données plus précises comme les préfrences politiques, religieuses.. Ainsi, l'analyse du
+               Social Data peut permettre aux entreprises de cibler les bonnes personnes, au bon moment avec une
+               offre améliorée et personnalisée.
+              <p>
               </p>
         </div>
       </div>
@@ -343,13 +352,49 @@ include("formulaire.php");
       <div class="container about">
         <div class="columns">
             <div class="column about-single-element-1" style="text-align:justify;">
-              </div>
+            <p>L'analyse du Social data permet également aux entreprises de cibler les personnes
+              susceptibles d'être intéressées par leurs offres. Il suffirait de trouver des internautes
+              qui ont un profil et des centres d'intérêts similaires à leurs abonnés. Ainsi les entreprises pourraient
+              faire des campagnes de pub très ciblées sur des segments de population susceptibles d'aimer leurs produits.<p/>
+            <p>En général, les données qu'on trouve sur les réseaux sociaux sont de bonne qualité, même si on verra dans
+              la suite que ceci peut être discutable. <p/>
+              <div style="text-align:center; ">
+              <br/>
+              <p><span class="italique" style="font-style: italic;">"On a un wifi public et donc un portail
+                pour se connecter dessus, il faut juste mettre son adresse mail, sauf que la plupart du tout
+                les gens ils mettent une adresse mail quelconque qui respecte juste le format. Sauf que derrière
+                si on envoie un mail à tous ces gens on aura 20 % des adresses qui seront fausses, ce qui fait
+                que quand on envoie une campagne d’e-mailing énorme et si on a 20% des mails qui n’aboutissent pas,
+                 ça joue sur notre réputation et on nous considère comme des « spameurs », alors que les mails sont
+                 très importants pour faire de la promotion. La solution c’est de mettre les boutons Facebook et
+                 Google, pour que les gens ils se connectent avec leurs comptes. Ca va plus vite et on sait que
+                 le mail est bon et on a de meilleures données."</span></p>
+                <br/>
+                <p style="font-weight:bold;">Timothée Binet, Développeur SI & Multimédia à la Cité du Vin.</p>
+          </div>
+        </div>
 
           <div class="column about-single-element-1" style="text-align:center; ">
-            <br/>
-            <p><span class="italique" style="font-style: italic;"></span></p>
+            <p><span class="italique" style="font-style: italic;">"Aujourd’hui, il existe des entreprises qui font
+              leur business que sur la multiplicité de tous les réseaux, les moyens de communication...
+              Mais finalement ce sont des solutions qui permettent d’agréger toutes les données (mais
+              ça a une limite morale). On connait les utilisateurs à la perfection. Il y a tous les
+              processus de transformation dès lors où on récupère une adresse mail sans rien sur la
+              personne jusqu’à avoir nom, prénom, âge, localisation, etc.. C’est des choses qui existent
+               mais qui sont très compliquées à mettre en place. On a 75000 contacts, des fois on envoie
+               des mails à 50000 personnes. Il y a plein de sources pour avoir ces contacts: les gens
+               qui se connectent à notre wifi, qui viennent visiter, qui achètent notre billetterie en
+               ligne. Il y a un degré de qualification de ces gens: soit on a leurs mails, soit leurs
+               noms, prénoms. Comme ça on peut communiquer avec eux, faire venir à la Cité du Vin s’ils
+               sont pas venus. Plus on avance et plus les réseaux sociaux et ça ça match car on arrive à
+               plus faire le lien entre les mails et Facebook. On peut juste récupérer des adresses mails
+               et les donner à Facebook qui va nous donner un amalgame. C’est ce qui fait qu’aujourd’hui
+               Facebook est leader sur le marketing et la pub. Tu leur dit j’ai une adresse mail, ce gars
+               il est de Bordeaux, il est venu à la Cité du Vin, je veux la même personne. Il peut te
+               trouver les 50000 personnes qui ressemblent aux 50000 personnes de tes contacts."</span></p>
               <br/>
-              <p style="font-weight:bold;">Romain Damian, Data Scientist chez Liegey Muller Pons à Paris.</p>
+              <p style="font-weight:bold;">Maxime Chabaud, Community and content Manager à la Cité du Vin.</p>
+
           </div>
           </div>
         </div>
