@@ -40,7 +40,8 @@ include("entete.php");
                 </article>
                 <article class="tile is-child notification is-warning">
                   <p class="title">...tiles</p>
-                  <p class="subtitle">Bottom tile</p>
+                  <p class="subtitle">- L'e-réputation à travers les réseaux sociaux</p>
+                  <p class="subtitle">- L'e-réputation dans la stratégie des entreprises</p>
                 </article>
               </div>
               <div class="tile is-parent">
@@ -55,10 +56,9 @@ include("entete.php");
             </div>
             <div class="tile is-parent">
               <article class="tile is-child notification is-danger">
-                <p class="title">Wide tile</p>
-                <p class="subtitle">Aligned with the right tile</p>
-                <div class="content">
-                  <!-- Content -->
+                <p class="subtitle"><em>"Les 20 % du budget marketing sont consacrés au suivi des réseaux sociaux. Je pense que le budget est conséquent ... il y a eu une prise de conscience de l’importance des réseaux sociaux."</em></p>
+                <div class="content" style="text-align: right;">
+                  <p><strong>Maxime Chabaud</strong> - Community and content Manager à la Cité du Vin</p>
                 </div>
               </article>
             </div>
@@ -67,7 +67,7 @@ include("entete.php");
             <article class="tile is-child notification is-primary">
               <div class="content">
                 <a href="https://siecledigital.fr/2019/01/22/quel-avenir-pour-le-social-listening/" target="_blank" rel="noopener noreferrer"><p class="title">Quel avenir pour le Social Listening ?</p></a>
-                <p class="subtitle">With even more content</p>
+                <p class="subtitle">par @siecledigital</p>
                 <div class="content">
                   <!-- Content -->
                   <p>Les solutions SaaS de Social Listening utilisées par les directions marketing reposant sur des data appartenant aux réseaux sociaux, qu’en est-il de leur avenir ?</p>
