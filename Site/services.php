@@ -234,7 +234,7 @@ include("formulaire.php");
     <div class="columns">
         <div class="column about-single-element-1" style="text-align:justify;">
           <p>Il est intéressant d'étudier le comportement du consommateur. <span style="font-weight:bold;">Herbert Simon</span>,
-            un économiste et sociologue américain a étudié la manière dont les individus prennent
+            un économiste et sociologue américain qui a étudié la manière dont les individus prennent
             leurs décisions.
             Les individus sont rationnels, c’est-à-dire qu’ils ont des buts et agissent
             en fonction de leur réalisation. Or cette rationalité n’est pas absolue, elle
