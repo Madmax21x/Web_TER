@@ -68,7 +68,7 @@ include("formulaire.php");
         <br/>
         <p><span class="italique" style="font-style: italic;">"Un grand avantage des réseaux sociaux pour le
           marketing est quand même que cela permet de parler directement aux consommateurs si besoin,
-          comme un espèce de chat public.
+          comme un espèce de tchat public.
           C'est ce que fait beaucoup Décathlon par exemple (la polémique autour de leur hijab
           pour la course à pied), et ça permet une gestion de la clientèle beaucoup plus proche des
           clients qu'on ne le faisait avant."</span></p>
@@ -185,7 +185,7 @@ include("formulaire.php");
             vérifier ce qu'ont laissé comme avis (ou commentaires) d'autres utilisateurs et en prendre
             compte avant leur achat. Or ce que les internautes découvrent sur une marque, ils peuvent le
             dénoncer et tout peut se savoir. Le plus gros risque que peut craindre une entreprise sur les
-            réseaux sociaux c'est le bad bazz.
+            réseaux sociaux c'est le bad buzz.
        </p>
     </div>
 
@@ -282,12 +282,13 @@ include("formulaire.php");
             des messages de communication de la marque. Ils peuvent être le déclencheur d’une
             vraie prise de conscience, celle de la nécessité de réaliser un plan marketing autrement
              : plus humblement, plus à l’écoute du consommateur, en mode collaboratif.</p>
+          <p>Certaines entreprises sont plus conscientes que d'autres des opportunités que leurs réservent les réseaux
+            sociaux. On distingue alors deux types d'entreprises: les data conscious et les moins avertis. </p>
 
     </div>
 
-    <div class="column about-single-element-1">
-    <p>Certaines entreprises sont plus conscientes que d'autres des opportunités que leurs réservent les réseaux
-      sociaux. On distingue alors deux types d'entreprises: les data conscious et les moins avertis. Les data conscious
+    <div class="column about-single-element-1" style="text-align:justify;">
+    <p>Les data conscious
       sont ceux qui sont conscients de la richesse des données clients exploitables en recherche d’insights
       sur les réseaux sociaux et qui les utilisent dans leur communication, dans leur développement produit
       et fluidification de la relation client. Les moins avertis sont ceux en totale découverte. Ils sont présents
