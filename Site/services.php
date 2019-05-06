@@ -304,11 +304,10 @@ include("formulaire.php");
     <br/>
     <p style="font-weight:bold;">Maxime Chabaud, Community and content Manager à la Cité du Vin.</p>
 
-    <div/>
 
 
 
-</div>
+  </div>
   </div>
 </div>
 
