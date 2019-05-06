@@ -339,7 +339,7 @@ include("formulaire.php");
               </p>Mais ces données peuvent être aussi utilisées pour mieux connaître ses clients, leurs
               préferences. En effet, toute interaction avec le réseaux sociaux (like, commentaire, partage,
                publications,..) laissent des traces. A partir de ces données, il est possible de déterminer
-               ce qu'aiment les clients et de prédire ce qu'ils vont aimer. En étudiant le profil ses clients,
+               ce qu'aiment les clients et de prédire ce qu'ils vont aimer. En étudiant le profil leurs clients,
                les entreprises peuvent connaître le profil socio-démographique des personnes intéressées par leurs offres.
                Ils peuvent récupérer des données générales comme l'âge, le sexe, la géolocalisation, mais
                aussi des données plus précises comme les préfrences politiques, religieuses.. Ainsi, l'analyse du
@@ -406,6 +406,30 @@ include("formulaire.php");
       </div>
     </div>
 
+
+    <div class="block">
+      <br/>
+      <br/>
+      <h2 class="subtitle heading-site-1" style= "margin-left: 5%; font-size: 30px;">Les API des réseaux sociaux</h2>
+      <br/>
+      <div class="container about">
+        <div class="columns">
+
+          <div class="column about-single-element-1" style="text-align:justify;">
+            <p>
+              
+            </p>
+          </div>
+
+          <div class="column about-single-element-1">
+            <br/>
+            <img src="src/img/api.jpg" class="banner-image" style="position: relative; width:500px; margin-left:5%;">
+
+          </div>
+
+
+      </div>
+    </div>
 
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
