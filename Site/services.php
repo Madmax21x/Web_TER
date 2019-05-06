@@ -295,15 +295,16 @@ include("formulaire.php");
       opportunités business s’y trouvent.
     <br/>
     </span></p>
+    <div style="text-align:center;">
     <p><span class="italique" style="font-style: italic; text-align:center;">
       "Les 20 % du budget marketing sont consacrés au suivi des réseaux sociaux. Je pense que le budget est conséquent.
       Mon poste a été créé la deuxième année, donc il y a eu une prise de conscience de l’importance des réseaux sociaux."
-
 
   </span></p>
     <br/>
     <p style="font-weight:bold;">Maxime Chabaud, Community and content Manager à la Cité du Vin.</p>
 
+    <div/>
 
 
 
