@@ -16,11 +16,16 @@ include("entete.php");
 <?php
 include("formulaire.php");
 ?>
-
+<div>
+  <p><a href="#reseaux" style="text-decoration:none;"><i class="far fa-lightbulb-on icon" style="font-size: 60px; margin-left:10%;margin-top:7%;"></i>
+    Pourquoi s'intéresser aux réseaux sociaux?</p></a>
+    <p><a href="#" style="text-decoration:none;"><i class="far fa-lightbulb-on icon" style="font-size: 60px; margin-left:10%;"></i>
+      Quels sont les services que nous vous proposons?</p></a>
+</div>
 <div class="block">
   <br/>
   <br/>
-  <h2 class="subtitle heading-site-1" style= "margin-left: 10%; font-size: 30px;">Les réseaux sociaux et les consommateurs</h2>
+  <h2 id="reseaux" class="subtitle heading-site-1" style= "margin-left: 10%; font-size: 30px;">Les réseaux sociaux et les consommateurs</h2>
   <br/>
   <div class="container about">
     <div class="columns">
@@ -84,7 +89,7 @@ include("formulaire.php");
   <br/>
   <br/>
   <br/>
-  <h2 class="subtitle heading-site-1" style= "margin-left: 10%; font-size: 30px;">Le comportement et le choix du consommateur</h2>
+  <h2 id="conso" class="subtitle heading-site-1" style= "margin-left: 10%; font-size: 30px;">Le comportement et le choix du consommateur</h2>
   <br/>
   <div class="container about">
     <div class="columns">
@@ -158,7 +163,7 @@ include("formulaire.php");
 <div class="block">
   <br/>
   <br/>
-  <h2 class="subtitle heading-site-1" style= "margin-left: 10%; font-size: 30px;">L'e-réputation à travers les réseaux sociaux</h2>
+  <h2 id="e_reputation" class="subtitle heading-site-1" style= "margin-left: 10%; font-size: 30px;">L'e-réputation à travers les réseaux sociaux</h2>
   <br/>
   <div class="container about">
     <div class="columns">
@@ -237,7 +242,7 @@ include("formulaire.php");
 <div class="block">
   <br/>
   <br/>
-  <h2 class="subtitle heading-site-1" style= "margin-left: 5%; font-size: 30px;">L'e-réputation dans la stratégie des entreprises</h2>
+  <h2 id="strategy" class="subtitle heading-site-1" style= "margin-left: 5%; font-size: 30px;">L'e-réputation dans la stratégie des entreprises</h2>
   <br/>
   <div class="container about">
     <div class="columns">
@@ -333,7 +338,7 @@ include("formulaire.php");
                 satisfaction des clients, ou encore de surveiller la concurrence.
               </p>Mais ces données peuvent être aussi utilisées pour mieux connaître ses clients, leurs
               préferences. En effet, toute interaction avec le réseaux sociaux (like, commentaire, partage,
-               publications, …)) laissent des traces. A partir de ces données, il est possible de déterminer
+               publications,..) laissent des traces. A partir de ces données, il est possible de déterminer
                ce qu'aiment les clients et de prédire ce qu'ils vont aimer. En étudiant le profil ses clients,
                les entreprises peuvent connaître le profil socio-démographique des personnes intéressées par leurs offres.
                Ils peuvent récupérer des données générales comme l'âge, le sexe, la géolocalisation, mais
