@@ -11,9 +11,11 @@ include("entete.php");
       <div class="banner">
           <img src="src/img/bg1.jpg" alt="Plusieurs ordinateurs" class="banner-image">
           <div class="banner-content">
-              <h1 class="title is-1">Bienvenue sur notre site</h1>
+              <h1 class="title is-1">Bienvenue chez</h1>
+              <h1 class="title is-1">Pie2Eat<img src="src/img/logo_pie2eat.png" class="header-logo" style="position: relative; width:50px;"></h1>
               <h2 class="subtitle">Découvrez nos offres et nos travaux! </h2>
               <button class="button is-link" id="open_modal">Contactez-nous!</button>
+
       </div>
     </div>
 
@@ -31,9 +33,10 @@ include("entete.php");
           <div class="tile is-vertical is-8">
             <div class="tile">
               <div class="tile is-parent is-vertical">
-                <article class="tile is-child notification is-primary">
+                <article class="tile is-child notification ">
                   <p class="title">Vertical...</p>
-                  <p class="subtitle">Top tile</p>
+                  <p class="subtitle">- Les réseaux sociaux et les consommateurs</p>
+                  <p class="subtitle">- Le comportement et le choix du consommateur</p>
                 </article>
                 <article class="tile is-child notification is-warning">
                   <p class="title">...tiles</p>
@@ -42,8 +45,8 @@ include("entete.php");
               </div>
               <div class="tile is-parent">
                 <article class="tile is-child notification is-info">
-                  <p class="title">Middle tile</p>
-                  <p class="subtitle">With an image</p>
+                  <p class="title">Python un outil multifonction </p>
+                  <p class="subtitle">Découvrez son utilisation ...</p>
                   <figure class="image is-4by3">
                     <img src="src/img/2.jpg">
                   </figure>
@@ -61,12 +64,17 @@ include("entete.php");
             </div>
           </div>
           <div class="tile is-parent">
-            <article class="tile is-child notification is-success">
+            <article class="tile is-child notification is-primary">
               <div class="content">
-                <p class="title">Tall tile</p>
+                <a href="https://siecledigital.fr/2019/01/22/quel-avenir-pour-le-social-listening/" target="_blank" rel="noopener noreferrer"><p class="title">Quel avenir pour le Social Listening ?</p></a>
                 <p class="subtitle">With even more content</p>
                 <div class="content">
                   <!-- Content -->
+                  <p>Les solutions SaaS de Social Listening utilisées par les directions marketing reposant sur des data appartenant aux réseaux sociaux, qu’en est-il de leur avenir ?</p>
+                  <p> Comment les outils s’adaptent-ils à une data devenue plus rare et plus onéreuse ? </p>
+                  <figure class="image is-4by3">
+                    <a href="https://siecledigital.fr/2019/01/22/quel-avenir-pour-le-social-listening/" target="_blank" rel="noopener noreferrer"><img src="src/img/social_network_article.jpg"></a>
+                  </figure>
                 </div>
               </div>
             </article>
@@ -94,7 +102,7 @@ include("entete.php");
               </div>
             <div class="column about-single-element">
               <i class="fab fa-twitter icon"></i>
-              <p>Utilisation des APIs de </p>
+              <p>Utilisation des APIs de twitter</p>
             </div>
         </div>
       </div>
