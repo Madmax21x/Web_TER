@@ -491,7 +491,7 @@ include("formulaire.php");
       <div class="container about">
         <div class="columns">
           <div class="column about-single-element-1">
-            <img src="src/img/open.jpg" class="is-rounded" style="position: relative; width:500px; margin-left:5%; margin-right:5%;">
+            <img src="src/img/open2.jpg" class="is-rounded" style="position: relative; width:500px; margin-left:5%; margin-right:5%;">
           </div>
 
           <div class="column about-single-element-1" style="text-align:justify;">
@@ -570,7 +570,7 @@ include("formulaire.php");
           </div>
 
           <div class="column about-single-element-1">
-            <img src="src/img/network.jpg" class="is-rounded" style="position: relative; width:450px; margin-left:10%; margin-right:10%;">
+            <img src="src/img/network.jpg" class="is-rounded" style="position: relative; width:500px; margin-left:10%; margin-right:10%;">
           </div>
 
       </div>
