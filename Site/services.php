@@ -16,10 +16,10 @@ include("entete.php");
 <?php
 include("formulaire.php");
 ?>
-<div>
-  <p><a href="#reseaux" style="text-decoration:none;"><i class="far fa-lightbulb-on icon" style="font-size: 60px; margin-left:10%;margin-top:7%;"></i>
+<div style="font-size: 20px;">
+  <p><a href="#reseaux" style="text-decoration:none; color: #636e72;"><i class="far fa-lightbulb-on icon" style="font-size: 60px; margin-left:10%;margin-top:7%;"></i>
     Pourquoi s'intéresser aux réseaux sociaux?</p></a>
-    <p><a href="#" style="text-decoration:none;"><i class="far fa-lightbulb-on icon" style="font-size: 60px; margin-left:10%;"></i>
+    <p><a href="#" style="text-decoration:none; color: #636e72;"><i class="far fa-lightbulb-on icon" style="font-size: 60px; margin-left:10%;"></i>
       Quels sont les services que nous vous proposons?</p></a>
 </div>
 <div class="block">
@@ -417,7 +417,7 @@ include("formulaire.php");
 
           <div class="column about-single-element-1" style="text-align:justify;">
             <p>
-              
+
             </p>
           </div>
 
