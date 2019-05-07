@@ -430,8 +430,7 @@ include("formulaire.php");
           </div>
 
           <div class="column about-single-element-1">
-            <img src="src/img/api.jpg" class="banner-image" style="position: relative; width:500px; margin-left:5%;">
-
+            <img src="src/img/api.jpg" class="is-rounded" style="position: relative; width:450px; margin-left:10%; margin-right:10%;">
           </div>
 
 
@@ -450,7 +449,7 @@ include("formulaire.php");
               mise en oeuvre par une "librairie" (bibliothèque logicielle) qui peut être utilisée par d'autres
               programmes. Une librairie fournit une solution à un problème informatique en faisant abstraction de
               son fonctionnement. L'interface de programmation permet de voir les fonctionnalités offertes par
-            le logicile sans montrer les détails de son fonctionnement. Les interfaces de programmation permettent
+            le logiciel sans montrer les détails de son fonctionnement. Les interfaces de programmation permettent
           de gagner du temps par la collaboration. Les programmeurs peuvent utiliser des bibliothèques existantes
         pour la création de leurs applications au lieu de créer leurs propres logiciels. Pour utiliser un logiciel tierce,
         il suffit de connaître le nom des fonctions et les paramètres à rentrer. Un exemple d'interface connue
