@@ -47,11 +47,19 @@ include("entete.php");
               </div>
               <div class="tile is-parent">
                 <article class="tile is-child notification is-info">
-                  <p class="title">Python un outil multifonction </p>
+                  <p class="title"><a href="travaux.php" style="text-decoration:none">Python un outil multifonction </p>
                   <p class="subtitle">Découvrez son utilisation ...</p>
                   <figure class="image is-4by3">
                     <img src="src/img/2.jpg">
                   </figure>
+                  <br/>
+                  <br/>
+                  <div class="columns is-centered">
+                    <figure class="image is-128x128">
+                      <img src="src/img/python_logo.png">
+                    </figure>
+                  </a>
+                  <div>
                 </article>
               </div>
             </div>
