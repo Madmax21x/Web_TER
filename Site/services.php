@@ -410,24 +410,60 @@ include("formulaire.php");
     <div class="block">
       <br/>
       <br/>
-      <h2 class="subtitle heading-site-1" style= "margin-left: 5%; font-size: 30px;">Les API des réseaux sociaux</h2>
+      <h2 class="subtitle heading-site-1" style= "margin-left: 5%; font-size: 30px;">Les APIs des réseaux sociaux</h2>
       <br/>
       <div class="container about">
         <div class="columns">
 
           <div class="column about-single-element-1" style="text-align:justify;">
-            <p>
-
+            <p>Aujourd'hui les API font l'objet de vifs débats entre commerciaux, responsables
+              informatiques et développeurs. Le débat porte surtout sur les API publiques ouvertes.</p>
+            <p>L’acronyme API (pour Application Programming Interface) signifie Interface de
+              programmation d’applications. Les APIs se définissent comme un ensemble de
+              fonctions informatiques par lesquelles deux logiciels vont interagir sans
+              intermédiation humaine. Par application, on comprend tout service avec lequel un développeur
+              ou une autre application souhaite interagir: une application de partage d'images, un portail
+              Open Data.. L'interface c'est ce qui permet d'interagir avec l'application. Quant au
+              programme, c'est une fonction informatique à laquelle un développeur donne des instructions.
+              Il peut par exemple permettre de récuprérer des données à intervalles régulières..
             </p>
           </div>
 
           <div class="column about-single-element-1">
-            <br/>
             <img src="src/img/api.jpg" class="banner-image" style="position: relative; width:500px; margin-left:5%;">
 
           </div>
 
 
+      </div>
+    </div>
+
+    <div class="block">
+      <br/>
+      <br/>
+      <div class="container about">
+        <div class="columns">
+            <div class="column about-single-element-1" style="text-align:justify;">
+            <p>Une interface de programmation est une façade clairement délimitée par laquelle un logiciel
+              offre des services à d'autres logiciels. L'objectif est de fournir une porte d'accès à une
+              fonctionnalité en cachant les détails de la mise en oeuvre. Une interface de programmation est
+              mise en oeuvre par une "librairie" (bibliothèque logicielle) qui peut être utilisée par d'autres
+              programmes. Une librairie fournit une solution à un problème informatique en faisant abstraction de
+              son fonctionnement. L'interface de programmation permet de voir les fonctionnalités offertes par
+            le logicile sans montrer les détails de son fonctionnement. Les interfaces de programmation permettent
+          de gagner du temps par la collaboration. Les programmeurs peuvent utiliser des bibliothèques existantes
+        pour la création de leurs applications au lieu de créer leurs propres logiciels. Pour utiliser un logiciel tierce,
+        il suffit de connaître le nom des fonctions et les paramètres à rentrer. Un exemple d'interface connue
+      est la Windows API qui est une collection de fonctions qui permet à des programmeurs de créer des applications
+    pour les systèmes d'exploitation Windows.</p>
+              </div>
+
+
+          <div class="column about-single-element-1" style="text-align:center; ">
+
+          </div>
+          </div>
+        </div>
       </div>
     </div>
 
