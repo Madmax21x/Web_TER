@@ -30,7 +30,7 @@ include("formulaire.php");
   <div class="container about">
     <div class="columns">
         <div class="column about-single-element-1">
-          <img src="src/img/reseau.jpg" class="banner-image" style="position: relative; width:500px; margin-left:5%;">
+          <img src="src/img/reseau.jpg" class="banner-image" style="position: relative; width:500px; margin-left:5%; margin-right:5%;">
         </div>
 
         <div class="column about-single-element-1" style="text-align:justify;">
@@ -366,8 +366,8 @@ include("formulaire.php");
               <div style="text-align:center; ">
               <br/>
               <p><span class="italique" style="font-style: italic;">"On a un wifi public et donc un portail
-                pour se connecter dessus, il faut juste mettre son adresse mail, sauf que la plupart du tout
-                les gens ils mettent une adresse mail quelconque qui respecte juste le format. Sauf que derrière
+                pour se connecter dessus, il faut juste mettre son adresse mail, sauf que la plupart
+                des gens mettent une adresse mail quelconque qui respecte juste le format. Sauf que derrière
                 si on envoie un mail à tous ces gens on aura 20 % des adresses qui seront fausses, ce qui fait
                 que quand on envoie une campagne d’e-mailing énorme et si on a 20% des mails qui n’aboutissent pas,
                  ça joue sur notre réputation et on nous considère comme des « spameurs », alors que les mails sont
@@ -410,13 +410,13 @@ include("formulaire.php");
     <div class="block">
       <br/>
       <br/>
-      <h2 class="subtitle heading-site-1" style= "margin-left: 5%; font-size: 30px;">Les APIs des réseaux sociaux</h2>
+      <h2 class="subtitle heading-site-1" style= "margin-left: 5%; font-size: 30px;">Qu'est-ce qu'une API?</h2>
       <br/>
       <div class="container about">
         <div class="columns">
 
           <div class="column about-single-element-1" style="text-align:justify;">
-            <p>Aujourd'hui les API font l'objet de vifs débats entre commerciaux, responsables
+            <p>Aujourd'hui, les API font l'objet de vifs débats entre commerciaux, responsables
               informatiques et développeurs. Le débat porte surtout sur les API publiques ouvertes.</p>
             <p>L’acronyme API (pour Application Programming Interface) signifie Interface de
               programmation d’applications. Les APIs se définissent comme un ensemble de
@@ -430,7 +430,7 @@ include("formulaire.php");
           </div>
 
           <div class="column about-single-element-1">
-            <img src="src/img/api.jpg" class="is-rounded" style="position: relative; width:450px; margin-left:10%; margin-right:10%;">
+            <img src="src/img/question.jpg" class="is-rounded" style="position: relative; width:450px; margin-left:10%; margin-right:10%;">
           </div>
 
 
@@ -452,13 +452,30 @@ include("formulaire.php");
             le logiciel sans montrer les détails de son fonctionnement. Les interfaces de programmation permettent
           de gagner du temps par la collaboration. Les programmeurs peuvent utiliser des bibliothèques existantes
         pour la création de leurs applications au lieu de créer leurs propres logiciels. Pour utiliser un logiciel tierce,
-        il suffit de connaître le nom des fonctions et les paramètres à rentrer. Un exemple d'interface connue
+        il suffit de connaître les noms des fonctions et les paramètres à rentrer. Les programmeurs peuvent ainsi écrire
+        leurs programmes en important les bibliothèques et en utilisant donc les APIs. Les APIs permettent donc à un programmeur
+        de consommer un service à travers un programme. Pour un développeur, utiliser les APIs
+        doit être plus rapide et plus commode que de coder une autre solution. Un exemple d'interface connue
       est la Windows API qui est une collection de fonctions qui permet à des programmeurs de créer des applications
     pour les systèmes d'exploitation Windows.</p>
+
               </div>
 
 
-          <div class="column about-single-element-1" style="text-align:center; ">
+          <div class="column about-single-element-1" style="text-align:justify; ">
+            <p>Bien que les APIs connaissent une popularité croissante depuis quelques années, c’est une technologie
+              qui existait bien avant. Dès 1985, Microsoft a utilisé le pouvoir des APIs pour développer un
+              avantage concurrentiel. Il a rendu ses APIs accessibles aux développeurs extérieurs qui ont
+                développé des applications pour MS Windows. Le nombre d'utilisateurs choisissant Microsoft a
+                fortement augmenté grâce au nombre d'applications disponibles. Mais en plus, ceci a encouragé
+                d'autres développeurs à vouloir toucher cette même base d'utilisateurs.</p>
+            <p>Les APIs ne se limitent pas au Web. Plusieurs types d'APIs existent. On distingue les APIs
+              de système d'exploitation qui permettent aux logiciels d'interagir aves le périphériques (webcam),
+              mais aussi de reconnaître nos gestes sur un écran tactile par exemple. Il y a aussi les APIs de
+              langage de programmation qui permettent aux développeurs d'utiliser des fonctions prédéfinies.
+             On distingue également les APIs du Web. On peut citer par exemple l'utilisation de l'API
+              Google Maps par d'autres services comme le service Airbnb ou Leboncoin qui transforment les adresses
+              des biens en points géolocalisés.</p>
 
           </div>
           </div>
@@ -466,6 +483,98 @@ include("formulaire.php");
       </div>
     </div>
 
+    <div class="block">
+      <br/>
+      <br/>
+      <h2 class="subtitle heading-site-1" style= "margin-left: 5%; font-size: 30px;">Les APIs: ouvertes ou fermées</h2>
+      <br/>
+      <div class="container about">
+        <div class="columns">
+          <div class="column about-single-element-1">
+            <img src="src/img/open.jpg" class="is-rounded" style="position: relative; width:500px; margin-left:5%; margin-right:5%;">
+          </div>
+
+          <div class="column about-single-element-1" style="text-align:justify;">
+            <p>Avec l'essor des APIs du Web, les entreprises prennent l'habitude d'importer les
+              données des autres systèmes via leurs APIs au lieu de les produire eux-mêmes et
+              parallèlement exporter leurs données vers d'autres systèmes. On peut prendre
+              l'exemple de Stripe, Twilio et Algolia en France qui ont dévéloppé des technologies
+              de paiement, de télécommunicatoin et de moteur de recherche et les ont "exportés"
+              via des APIs au reste du monde. Des millions de sociétés les ont intégré, plutôt que
+              de créer leur propre technologie. Par exemple, Uber utilise la carte de Google via
+              Google Maps, le processing de paiement via Stripe,  envoie les SMS via Twilio...
+              Mais a son tour, Uber ouvre des APIs pour que des hôtels, des restaurants,
+              des sites de voyage intègrent leurs APIs pour pouvoir commander des chauffeurs depuis
+              leur application respective.</p>
+
+          </div>
+      </div>
+    </div>
+
+
+    <div class="block">
+      <br/>
+      <br/>
+      <div class="container about">
+        <div class="columns">
+            <div class="column about-single-element-1" style="text-align:justify;">
+              <p>On distingue les APIs fermées des APIs ouvertes. Les APIs fermées permettent le
+                partage de données ou de fonctionnalités internes à une entreprise ou des développeurs
+                internes ou prestataires. Par ailleurs, en interne les APIs permettent aux entreprises
+                d'automatiser des actions existantes et de les rendre plus agiles. Les applications
+                développées par ces développeurs sont alors
+                à usage interne et n’exposent l’ensemble de la base de données ni aux usagers, ni
+                au grand public. Certaines entreprises comme Netflix préfèrent réduire l'accès à leurs APIs
+                et réserver les informations sur leurs utlisateurs à un petit nombre de partenaires.
+                En effet, une API fermée permet à une organisation de conserver la main sur ses
+                données et ses informations partagées. De plus les données échangées via une API peuvent
+                être de naturesensible (donées personnelles, données bancaires..). Une API fermée permet
+                donc d'identifier et de traiter en amont les problèmes de sécurité.
+                </p>
+
+              </div>
+
+
+          <div class="column about-single-element-1" style="text-align:justify; ">
+            <p>Beaucoup d'entreprises décident d'ouvrir leurs APIs au grand public pour
+              pénétrer et capter un marché d'utilisateurs. Ils donnent ainsi accès à leurs
+              données et permettent à d'autres entreprises d'innover en utilisant leurs données.
+              En effet, la plupart des grosses entreprises qui ont énormément de données, fonctionnent
+              avec de vieux systèmes et ne savent pas en extraire de la valeur. Mais beaucoup
+              d'entreprises comme Linkedin démarrent avec un accès ouvert et gratuit pour gagner
+              des marchés et des utilisateurs, puis réduissent l'accès afin de monétiser l'audience
+              qu'ils ont gagné.</p>
+          </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+
+    <div class="block">
+      <br/>
+      <br/>
+      <h2 class="subtitle heading-site-1" style= "margin-left: 5%; font-size: 30px;">Les APIs des réseaux sociaux</h2>
+      <br/>
+      <div class="container about">
+        <div class="columns">
+
+          <div class="column about-single-element-1" style="text-align:justify;">
+            <p>Désormais, les utilisateurs modernes d'API (consommateurs et entreprises) attendent
+               une expérience omnicanale qui soit à la fois sociale et personnelle.
+                Aucune entreprise ne peut plus suivre un processus de canal universel. Beaucoup d'entreprises
+                insèrent les réseaux sociaux dans leurs modèles opérationnels grâce à l'utilisation
+                des APIs.
+              --> citer office de tourisme</p>
+          </div>
+
+          <div class="column about-single-element-1">
+            <img src="src/img/network.jpg" class="is-rounded" style="position: relative; width:450px; margin-left:10%; margin-right:10%;">
+          </div>
+
+      </div>
+    </div>
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
 <script src="src/js/main.js"></script>
