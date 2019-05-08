@@ -436,7 +436,7 @@ include("formulaire.php");
     <div class="block">
       <br/>
       <br/>
-      <h2 class="subtitle heading-site-1" style= "margin-left: 5%; font-size: 30px;">Qu'est-ce qu'une API?</h2>
+      <h2 id="api" class="subtitle heading-site-1" style= "margin-left: 5%; font-size: 30px;">Qu'est-ce qu'une API?</h2>
       <br/>
       <div class="container about">
         <div class="columns">
@@ -554,7 +554,7 @@ include("formulaire.php");
                 et réserver les informations sur leurs utlisateurs à un petit nombre de partenaires.
                 En effet, une API fermée permet à une organisation de conserver la main sur ses
                 données et ses informations partagées. De plus les données échangées via une API peuvent
-                être de naturesensible (donées personnelles, données bancaires..). Une API fermée permet
+                être de nature sensible (donées personnelles, données bancaires..). Une API fermée permet
                 donc d'identifier et de traiter en amont les problèmes de sécurité.
                 </p>
 
@@ -591,16 +591,66 @@ include("formulaire.php");
                une expérience omnicanale qui soit à la fois sociale et personnelle.
                 Aucune entreprise ne peut plus suivre un processus de canal universel. Beaucoup d'entreprises
                 insèrent les réseaux sociaux dans leurs modèles opérationnels grâce à l'utilisation
-                des APIs.
-              --> citer office de tourisme</p>
+                des APIs. Dans la suite, on va s'intéresser qu'aux APIs des réseaux sociaux.
+
+            <p>La force d’un réseau social c’est la donnée qu’il possède au sujet de ses utilisateurs.
+               Bon nombre de réseaux sociaux proposent une API pour récupérer cette donnée et en faire
+               ainsi d’autres services ou alors améliorer un service existant. Bien que les accès soient
+              de plus en plus limités en accord avec les récents choix politiques (RGPD), il reste encore
+              possible d'obtenir des données via les réseaux sociaux.</p>
           </div>
 
           <div class="column about-single-element-1">
-            <img src="src/img/network.jpg" class="is-rounded" style="position: relative; width:500px; margin-left:10%; margin-right:10%;">
+            <img src="src/img/network.jpg" class="is-rounded" style="position: relative; width:500px; height:300px; margin-left:10%; margin-right:10%;">
           </div>
 
       </div>
     </div>
+  </div>
+
+  <div class="block">
+    <br/>
+    <div class="container about">
+      <div class="columns">
+          <div class="column about-single-element-1" style="text-align:justify;">
+            <p>Twitter, par exemple, continue à donner accès à différentes versions de son API. Certaines
+              versions restent publiques et gratuites, mais il existe une version premium plus intéressante.
+              L'API Twitter est l'une des plus simples d'accès. Sa version gratuite peut être utilisée selon
+              deux modes: "search" et "stream". Le premier permet de chercher des tweets publiés dans les
+              sept derniers jours avec un nombre limité de requêtes, alors que la version payante donne accès
+              à tous les tweets depuis 2006. Le mode "stream" permet de récupérer et stocker des tweets
+              en temps réel. La version gratuite permet de faire des requêtes à partir d'un nom d'utilisateur ou
+              un hashtag et de récupérer l'ensemble des informations du tweet: contenu, date, description,
+            géolocalisation, etc..</p>
+            <p>Les entreprise peuvent utiliser ces données pour l'étude de leur e-réputations. Twitter développe
+              des applications comme TweetDeck qui grace aux APIs Twitter permet de consulter et gérer un
+              ou plusieurs comptes Twitter, via une interface graphique composée de plusieurs colonnes.</p>
+            </div>
+
+
+        <div class="column about-single-element-1" style="text-align:justify; ">
+          <div style="text-align:center;">
+          <p><span class="italique" style="font-style: italic; text-align:center;">
+            "Pour l’e-réputation, on utilise l’outil TweetDeck, où on va concentrer tous les flux
+            en fonction de différents hashtags pour voir s’il n’y a pas un début de crise sur un
+            produit, où si à Bordeaux il se passe quelque chose d’intéressant que l’on doit relier
+             à notre communauté. Cela fait un an qu’on l’a mis en place, c’est gratuit. On va par
+             exemple sélectionner les noms d’utilisateurs de nos collaborateurs pour voir ce qu’ils
+             vont partager, pour les retweeter sur notre compte. Après on a une liste où on a les
+             tweets de nos internautes qui nous ont mentionné dans leurs tweets, pour pouvoir leur
+             répondre. On va aussi mettre des super veilles, que l’on configure avec des mots clés:
+             « place de la bourse », « grosse cloche », « les incontournables », etc..  On suit ce
+             que dit la presse, les bloggers, notre président quand il s’exprime sur les réseaux
+             sociaux, le maire de Bordeaux.."
+        </span></p>
+          <br/>
+          <p style="font-weight:bold;">Loïc Graniczny, Chargé de projet web & digital à l'Office de Tourisme à Bordeaux</p>
+
+        </div>
+        </div>
+      </div>
+    </div>
+  </div>
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
 <script src="src/js/main.js"></script>
