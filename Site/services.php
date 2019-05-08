@@ -11,15 +11,25 @@ include("entete.php");
       </div>
     </div>
 
-    <div class="container">
+    <!-- <div class="container">
       <div style="font-size: 20px;">
         <p><a href="#reseaux" style="text-decoration:none; color: #636e72;"><i class="far fa-lightbulb-on icon" style="font-size: 60px; margin-left:10%;margin-top:7%;"></i>
           Pourquoi s'intéresser aux réseaux sociaux?</p></a>
           <p><a href="#" style="text-decoration:none; color: #636e72;"><i class="far fa-lightbulb-on icon" style="font-size: 60px; margin-left:10%;"></i>
             Quels sont les services que nous vous proposons?</p></a>
       </div>
+    </div> -->
+
+    <div class="container">
+      <div>
+        <br/>
+        <h1 class="title is-1" style="color:#718093; text-align: center; margin-top: 7%; "><i class="fas fa-question-circle"></i> Pourquoi s'intéresser aux réseaux sociaux?</h1>
+      </div>
     </div>
+
+
     <div class="block">
+      <br/>
       <br/>
       <br/>
       <h2 id="reseaux" class="subtitle heading-site-1" style= "margin-left: 10%; font-size: 30px;">Les réseaux sociaux et les consommateurs</h2>
@@ -731,6 +741,12 @@ include("entete.php");
         </div>
       </div>
 
+      <div class="container">
+        <div>
+          <br/>
+          <h1 id="services" class="title is-1" style="color:#718093; text-align: center; margin-top: 7%; "><i class="fas fa-question-circle"></i> Quels sont les services que nous vous proposons?</h1>
+        </div>
+      </div>
 
 <?php
 include("pied.php");
