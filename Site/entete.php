@@ -29,17 +29,50 @@
   <!-- body -->
   <body>
     <!-- header -->
-    <div class="block">
-      <header class="header">
-        <a href="index.php"><img src="src/img/logo_pie2eat.png" class="header-logo" style="position: relative; width:50px; margin-left:1%; margin-top: 1%"></a>
-        <a href="index.php" class="header-logo"> Pie2Eat </a>
-        <nav class="header-menu">
-          <a href="index.php">Accueil</a>
-          <a href="services.php">Nos services</a>
-          <a href="travaux.php">Nos ressources</a>
-          <a href="presse.php">Presse</a>
-          <a href="contact.php">Contact</a>
-        </nav>
-      </header>
+    <div class="container-fluid">
+      <nav class="navbar is-fixed-top is-light" role="navigation" aria-label="main navigation">
+        <div class="navbar-brand">
+          <a class="navbar-item" href="index.php">
+            <img src="src/img/test_2.png" alt="Logo Pie2Eat">
+            <img src="src/img/Pie2Eat_text.png" alt="Logo Pie2Eat">
+          </a>
+
+          <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="False" data-target="navMenu">
+            <span aria-hidden="true"></span>
+            <span aria-hidden="true"></span>
+            <span aria-hidden="true"></span>
+          </a>
+        </div>
+
+        <div id="navMenu" class="navbar-menu">
+          <div class="navbar-start">
+            <a class="navbar-item" href="index.php">Accueil</a>
+
+            <a class="navbar-item" href="services.php">Nos services</a>
+
+            <div class="navbar-item has-dropdown is-hoverable">
+              <a class="navbar-link">Nos ressources</a>
+
+              <div class="navbar-dropdown">
+                <a class="navbar-item" href="travaux.php">Nos travaux</a>
+                <a class="navbar-item" href="presse.php">Presse</a>
+                <a class="navbar-item" href="contact.php">Contact</a>
+                <hr class="navbar-divider">
+                <a class="navbar-item">Report an issue</a>
+              </div>
+            </div>
+          </div>
+          <div class="navbar-end">
+            <div class="navbar-item">
+              <div class="buttons">
+                <a class="button is-link">
+                  <strong>Pie2Eat</strong>
+                </a>
+                
+              </div>
+            </div>
+          </div>
+        </div>
+      </nav>
     </div>
     <!-- header -->
