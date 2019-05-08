@@ -1,3 +1,6 @@
+<?php
+include("formulaire.php");
+?>
 <!DOCTYPE html>
 <html lang="fr" dir="ltr">
   <!-- head -->
@@ -65,10 +68,9 @@
           <div class="navbar-end">
             <div class="navbar-item">
               <div class="buttons">
-                <a class="button is-link">
-                  <strong>Pie2Eat</strong>
+                <a class="button is-link" id="open_modal">
+                  <strong>Contactez-nous!</strong>
                 </a>
-                
               </div>
             </div>
           </div>
