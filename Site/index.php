@@ -1,11 +1,6 @@
 <?php
 include("entete.php");
 ?>
-<!DOCTYPE html>
-<html lang="fr" dir="ltr">
-
-
-
     <!-- banner -->
     <div class ="block">
       <div class="banner">
@@ -122,9 +117,7 @@ include("entete.php");
     <script src="src/js/main.js"></script>
 
 
-  </body>
 
-  <!-- body -->
 </html>
 <?php
 include("pied.php");
