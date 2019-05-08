@@ -30,7 +30,7 @@ include("entete.php");
                   <p class="subtitle"><a href="services.php#api" style="text-decoration:none">- Qu'est-ce qu'une API?</a></p>
                 </article>
                 <article class="tile is-child notification is-warning">
-                  <p class="title"><a href="services.php#e_reputation" style="text-decoration:none">Quels sont les services que nous vous proposons?</a></p></p>
+                  <p class="title"><a href="services.php#services" style="text-decoration:none">Quels sont les services que nous vous proposons?</a></p></p>
 
                   <p class="subtitle"><a href="services.php#e_reputation" style="text-decoration:none">- L'e-réputation à travers les réseaux sociaux</a></p>
                   <p class="subtitle"><a href="services.php#strategy" style="text-decoration:none">- L'e-réputation dans la stratégie des entreprises</a></p>
