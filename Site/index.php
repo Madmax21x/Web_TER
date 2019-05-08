@@ -31,7 +31,7 @@ include("entete.php");
                 <article class="tile is-child notification ">
                   <p class="title"><a href="services.php#reseaux" style="text-decoration:none">Pourquoi s'intéresser aux réseaux sociaux?</a></p></p>
                   <p class="subtitle"><a href="services.php#reseaux" style="text-decoration:none">- Les réseaux sociaux et les consommateurs</a></p>
-                  <p class="subtitle"><a href="services.php#conso" style="text-decoration:none">- Le comportement et le choix du consommateur</a></p>
+                  <p class="subtitle"><a href="services.php#api" style="text-decoration:none">- Qu'est-ce qu'une API?</a></p>
                 </article>
                 <article class="tile is-child notification is-warning">
                   <p class="title"><a href="services.php#e_reputation" style="text-decoration:none">Quels sont les services que nous vous proposons?</a></p></p>

@@ -436,7 +436,7 @@ include("formulaire.php");
     <div class="block">
       <br/>
       <br/>
-      <h2 class="subtitle heading-site-1" style= "margin-left: 5%; font-size: 30px;">Qu'est-ce qu'une API?</h2>
+      <h2 id="api" class="subtitle heading-site-1" style= "margin-left: 5%; font-size: 30px;">Qu'est-ce qu'une API?</h2>
       <br/>
       <div class="container about">
         <div class="columns">
@@ -554,7 +554,7 @@ include("formulaire.php");
                 et réserver les informations sur leurs utlisateurs à un petit nombre de partenaires.
                 En effet, une API fermée permet à une organisation de conserver la main sur ses
                 données et ses informations partagées. De plus les données échangées via une API peuvent
-                être de naturesensible (donées personnelles, données bancaires..). Une API fermée permet
+                être de nature sensible (donées personnelles, données bancaires..). Une API fermée permet
                 donc d'identifier et de traiter en amont les problèmes de sécurité.
                 </p>
 
@@ -591,16 +591,149 @@ include("formulaire.php");
                une expérience omnicanale qui soit à la fois sociale et personnelle.
                 Aucune entreprise ne peut plus suivre un processus de canal universel. Beaucoup d'entreprises
                 insèrent les réseaux sociaux dans leurs modèles opérationnels grâce à l'utilisation
-                des APIs.
-              --> citer office de tourisme</p>
+                des APIs. Dans la suite, on va s'intéresser qu'aux APIs des réseaux sociaux.
+
+            <p>La force d’un réseau social c’est la donnée qu’il possède au sujet de ses utilisateurs.
+               Bon nombre de réseaux sociaux proposent une API pour récupérer cette donnée et en faire
+               ainsi d’autres services ou alors améliorer un service existant. Bien que les accès soient
+              de plus en plus limités en accord avec les récents choix politiques (RGPD), il reste encore
+              possible d'obtenir des données via les réseaux sociaux.</p>
           </div>
 
           <div class="column about-single-element-1">
-            <img src="src/img/network.jpg" class="is-rounded" style="position: relative; width:500px; margin-left:10%; margin-right:10%;">
+            <img src="src/img/network.jpg" class="is-rounded" style="position: relative; width:500px; height:300px; margin-left:10%; margin-right:10%;">
           </div>
 
       </div>
     </div>
+  </div>
+
+  <div class="block">
+    <br/>
+    <div class="container about">
+      <div class="columns">
+          <div class="column about-single-element-1" style="text-align:justify;">
+            <p>Twitter, par exemple, continue à donner accès à différentes versions de son API. Certaines
+              versions restent publiques et gratuites, mais il existe une version premium plus intéressante.
+              L'API Twitter est l'une des plus simples d'accès. Sa version gratuite peut être utilisée selon
+              deux modes: "search" et "stream". Le premier permet de chercher des tweets publiés dans les
+              sept derniers jours avec un nombre limité de requêtes, alors que la version payante donne accès
+              à tous les tweets depuis 2006. Le mode "stream" permet de récupérer et stocker des tweets
+              en temps réel. La version gratuite permet de faire des requêtes à partir d'un nom d'utilisateur ou
+              un hashtag et de récupérer l'ensemble des informations du tweet: contenu, date, description,
+            géolocalisation, etc..</p>
+            <p>Les entreprise peuvent utiliser ces données pour l'étude de leur e-réputations. Twitter développe
+              des applications comme TweetDeck qui grace aux APIs Twitter permet de consulter et gérer un
+              ou plusieurs comptes Twitter, via une interface graphique composée de plusieurs colonnes.</p>
+            </div>
+
+
+        <div class="column about-single-element-1" style="text-align:justify; ">
+          <div style="text-align:center;">
+          <p><span class="italique" style="font-style: italic; text-align:center;">
+            "Pour l’e-réputation, on utilise l’outil TweetDeck, où on va concentrer tous les flux
+            en fonction de différents hashtags pour voir s’il n’y a pas un début de crise sur un
+            produit, où si à Bordeaux il se passe quelque chose d’intéressant que l’on doit relier
+             à notre communauté. Cela fait un an qu’on l’a mis en place, c’est gratuit. On va par
+             exemple sélectionner les noms d’utilisateurs de nos collaborateurs pour voir ce qu’ils
+             vont partager, pour les retweeter sur notre compte. Après on a une liste où on a les
+             tweets de nos internautes qui nous ont mentionné dans leurs tweets, pour pouvoir leur
+             répondre. On va aussi mettre des super veilles, que l’on configure avec des mots clés:
+             « place de la bourse », « grosse cloche », « les incontournables », etc..  On suit ce
+             que dit la presse, les bloggers, notre président quand il s’exprime sur les réseaux
+             sociaux, le maire de Bordeaux.."
+        </span></p>
+          <br/>
+          <p style="font-weight:bold;">Loïc Graniczny, Chargé de projet web & digital à l'Office de Tourisme à Bordeaux</p>
+
+        </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="block">
+    <br/>
+    <br/>
+    <h2 class="subtitle heading-site-1" style= "margin-left: 5%; font-size: 30px;">Linkfluence et Talkwalker</h2>
+    <br/>
+    <div class="container about">
+      <div class="columns">
+
+        <div class="column about-single-element-1">
+          <img src="src/img/linkfluence.jpg" class="is-rounded" style="position: relative; width:300px; margin-left:5%; margin-right:5%;">
+          <br/>
+          <img src="src/img/talkwalker.jpg" class="is-rounded" style="position: relative; width:300px; margin-left:35%; margin-right:5%;">
+
+        </div>
+
+        <div class="column about-single-element-1" style="text-align:justify;">
+          <p>Linkfluence est une start-up française spécialisée dans l'écoute et l'analyse du web social.
+            Depuis 2011, la start-up s'occupe de la mise en place des outils de veille de l'opinion
+            sur Internet. Elle a développé une suite logicielle, Radarly, qui analyse en temps
+            réel les données extraites à travers les APIs des médias en ligne, des blogs, des forums
+            et des réseaux sociaux. Le logiciel en extrait des indicateurs de sentiment et exploite les informations
+            de géolocalisation, d'âge et de genre.
+           </p>
+          <p>Une autre agence de veille et d'analyse des médias sociaux est Talkwalker, une entreprise
+            fondée en 2009 à Luxembourg.
+        </div>
+
+
+    </div>
+  </div>
+
+  <div class="block">
+    <br/>
+    <br/>
+    <div class="container about">
+      <div class="columns">
+        <div class="column about-single-element-1" style="text-align:justify; ">
+          <div style="text-align:center;">
+          <p><span class="italique" style="font-style: italic; text-align:center;">
+            "On utilise un autre outil de veille qui s’appelle TalkWalker qui est très
+            intéressant pour l’e-réputation. Chaque mois on va sortir un rapport avec les
+            articles de blog et de presse les plus consultés pour savoir ce qu’il se dit
+            sur la métropole. TalkWalker c’est payant, de l’ordre de 4000 euros/an. C’est
+            un outil onéreux mais hyper pratique, car on peut faire des veilles par rapport
+            à des mots clés. Ca on l’utilise, c’est vraiment le top, vraiment pratique.
+            C’est assez cher donc c’est souvent les gros groupes qui l’ont. On fait une veille
+            avec des hashtags, comme ça on peut connaître la performance des hashtags, les sentiments,
+            pour savoir si un hashtag est positif ou négatif. Je l’utilise chaque mois pour faire
+            mes rapports pour les réseaux sociaux. On peut voir les publications qui ont le mieux
+             fonctionné, avec le plus de likes, le plus de commentaires. On l’utilise tous les mois, toutes les semaines.. Ca permet de connaître mieux
+             l’audience, les tendances."
+        </span></p>
+
+        </div>
+        </div>
+
+        <div class="column about-single-element-1" style="text-align:justify; ">
+          <div style="text-align:center;">
+          <p><span class="italique" style="font-style: italic; text-align:center;">
+            "Tous les mois on fait un rapport où on donne les top
+            et les flop des réseaux sociaux, pour réorienter en performance notre stratégie
+            et proposer un contenu plus pertinent et utile pour nos cibles. TalkWalker me fait
+            gagner un temps fou. Je regarde l’engagement, mais c’est pas que les likes, les partages,
+            je regarde aussi les clicks. Ce n’est pas parce qu’on a pas de likes que la publication
+            n’est pas intéressante. On peut aussi voir les tendances. Je ne vais pas beaucoup les utiliser,
+             mais on peut voir par exemple, qu’elles sont positives. Il y a des mots clés qui sont parlants,
+              qui reviennent. </span></p>
+            <p><span class="italique" style="font-style: italic; text-align:center;">L’internaute sans savoir donne toutes les informations. C’est pour cela que sur notre
+              prochain site on va proposer un contenu d’expérience avec des visites types, etc.. On est
+              en plein dessus, pour l’instant je ne peux pas vous en dire plus, revenez l’année prochaine! "
+        </span></p>
+
+        <br/>
+        <p style="font-weight:bold;">Loïc Graniczny, Chargé de projet web & digital à l'Office de Tourisme à Bordeaux</p>
+
+        </div>
+        </div>
+
+      </div>
+    </div>
+  </div>
+
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
 <script src="src/js/main.js"></script>
