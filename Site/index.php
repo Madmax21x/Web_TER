@@ -9,15 +9,11 @@ include("entete.php");
               <h1 class="title is-1">Bienvenue chez</h1>
               <h1 class="title is-1">Pie2Eat<img src="src/img/logo_pie2eat.png" class="header-logo" style="position: relative; width:50px;"></h1>
               <h2 class="subtitle">Découvrez nos offres et nos travaux! </h2>
-              <button class="button is-link" id="open_modal">Contactez-nous!</button>
-
       </div>
     </div>
 
 
-    <?php
-    include("formulaire.php");
-    ?>
+
 
     <br/>
     <br/>
