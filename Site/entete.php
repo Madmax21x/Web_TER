@@ -1,12 +1,10 @@
-<?php
-include("formulaire.php");
-?>
 <!DOCTYPE html>
 <html lang="fr" dir="ltr">
   <!-- head -->
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" href="src/img/icon1.png">
     <title>Site TER API</title>
 
     <!-- css -->
@@ -37,17 +35,17 @@ include("formulaire.php");
         <div class="navbar-brand">
           <a class="navbar-item" href="index.php">
             <img src="src/img/test_2.png" alt="Logo Pie2Eat">
-            <img src="src/img/Pie2Eat_text.png" alt="Logo Pie2Eat">
+            <img src="src/img/pie2Eat.png" alt="Text Pie2Eat">
           </a>
 
-          <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="False" data-target="navMenu">
+          <a role="button" class="navbar-burger" data-target="navMenu" aria-label="menu" aria-expanded="false">
             <span aria-hidden="true"></span>
             <span aria-hidden="true"></span>
             <span aria-hidden="true"></span>
           </a>
         </div>
 
-        <div id="navMenu" class="navbar-menu">
+        <div class="navbar-menu" id="navMenu">
           <div class="navbar-start">
             <a class="navbar-item" href="index.php">Accueil</a>
 
@@ -77,4 +75,9 @@ include("formulaire.php");
         </div>
       </nav>
     </div>
+<?php
+include("formulaire.php")
+?>
+    <script src="src/js/main.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
     <!-- header -->

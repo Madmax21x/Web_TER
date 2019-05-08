@@ -7,7 +7,7 @@ include("entete.php");
           <img src="src/img/bg1.jpg" alt="Plusieurs ordinateurs" class="banner-image">
           <div class="banner-content">
               <h1 class="title is-1">Bienvenue chez</h1>
-              <h1 class="title is-1">Pie2Eat<img src="src/img/logo_pie2eat.png" class="header-logo" style="position: relative; width:50px;"></h1>
+              <h1 class="title is-1">Pie2Eat <img src="src/img/icon2.png" class="header-logo" style="position: relative; width:50px;"></h1>
               <h2 class="subtitle">Découvrez nos offres et nos travaux! </h2>
       </div>
     </div>
