@@ -44,7 +44,8 @@ include("formulaire.php");
          de l'amusement chez les autres internautes. Il faut du contenu qui capte l'attention à travers le
          visuel (images, vidéos, gifs..). Les réseaux sociaux permettent aux individus de confronter
          leurs opinions et de débattre autour d’un sujet d’actualité ou partager de l'information.
-       </p>
+      Les réseaux sociaux ont changé notre façon de consommer. Il devient indispensable
+         pour les entreprises de changer leurs manières de communiquer.</p>
     </div>
   </div>
 </div>
@@ -55,21 +56,34 @@ include("formulaire.php");
   <div class="container about">
     <div class="columns">
         <div class="column about-single-element-1" style="text-align:justify;">
-          <p>Les réseaux sociaux ont changé notre façon de consommer. Il devient indispensable
-            pour les entreprises de changer leurs manières de communiquer. La communication se fait
+          <p> La communication se fait
             désormais dans les deux sens. Les publicités ne suffisent plus. La voix des consommateurs
             est plus qu'importante. Désormais les marques communiquent, les internautes interpellent
              et il faut que les marques répondent en retour. Les réseaux sociaux permettent de communiquer
            avec une masse, un groupe, ou une communauté.
          Ils présentent de nombreux avantages pour les entreprises qui franchissent le pas. </p>
-          C'est un très bon moyen pour rencontrer et se rapprocher de ses clients. Les réseaux sociaux soutiennent
+         <div style="text-align:center;">
+
+           <p><span class="italique" style="font-style: italic;">"On a une stratégie qui est omnicanale, on va communiquer sur plusieurs sites..
+           On est sur plusieures plateformes: Facebook, Twitter et Instagram pour les principales.
+           Sur Facebook, on essaie de bien équilibrer entre du contenu commercial (pas plus de 30%),
+           du contenuu d’inspiration (il faut jouer sur les émotions) et du contenu pratique pour
+           essayer de se rendre utile et indispensable. Ce n’est pas qu’une plateforme qu’on utilise
+           pour faire de la pub, bien qu’on utilise beaucoup de campagnes sponsorisées sur Facebook.
+           On va laisser les internautes partager les publications et c’est les amis des amis qui vont les voir, les aimer.."</span></p>
+           <br/>
+           <p style="font-weight:bold;">Loïc Graniczny, Chargé de projet web & digital à l'Office de Tourisme à Bordeaux</p>
+        </div>
+
+      </div>
+
+      <div class="column about-single-element-1" style="text-align:justify; ">
+        <p>C'est un très bon moyen pour rencontrer et se rapprocher de ses clients. Les réseaux sociaux soutiennent
         les entreprises dans l'amélioration de l'image de leurs marques, l'accroissement de la notoriété
       et de la visibilité. L'activité sur réseaux sociaux peut impacter positivement la
     fidélisation des clients, créer de la récurrence d'achat et de la valeur pour l'entreprise. Les
   réseaux sociaux ont un impact réel sur le comportement d'achat des internautes... </p>
-      </div>
-
-      <div class="column about-single-element-1" style="text-align:center; ">
+        <div style="text-align: center;">
         <br/>
         <p><span class="italique" style="font-style: italic;">"Un grand avantage des réseaux sociaux pour le
           marketing est quand même que cela permet de parler directement aux consommateurs si besoin,
@@ -80,6 +94,7 @@ include("formulaire.php");
           <br/>
           <p style="font-weight:bold;">Romain Damian, Data Scientist chez Liegey Muller Pons à Paris.</p>
       </div>
+    </div>
       </div>
     </div>
   </div>
@@ -236,6 +251,17 @@ include("formulaire.php");
         les avis, alors que nous c’est grace aux avis sur TripAdvisor qu’on s’améliore."</span></p>
         <br/>
         <p style="font-weight:bold;">Timothée Binet, Développeur SI & Multimédia à la Cité du Vin.</p>
+        <br/>
+        <p> <span class="italique" style="font-style: italic; text-align:center;">
+          "Sur les avis, on fait pas mal de modération sur les commentaires sur les
+          réseaux, où on va créer un dialogue direct avec l’internaute, lui demander
+           ce qu’il a aimé dans sa visite, quand est-ce qu’il revient à Bordeaux.
+           On voit aussi des commentaires d’internautes qui ne sont pas encore partis
+           qui demandent ce qu’il y a à faire sur Bordeaux, on leur propose alors
+           d’aller voir notre site avec la page des incontournables."</span></p>
+        <br/>
+        <p style="font-weight:bold;">Loïc Graniczny, Chargé de projet web & digital à l'Office de Tourisme à Bordeaux</p>
+
   </div>
 </div>
 
