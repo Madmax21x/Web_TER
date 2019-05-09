@@ -1,7 +1,8 @@
 <?php
 include("entete.php");
 ?>
-?>
+    <script src="src/js/main.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
     <div class ="block" >
       <div class="banner" >
         <img src="src/img/bg12.jpg" class="banner-image" style="position: relative;">
