@@ -8,11 +8,11 @@ include("entete.php");
     <h1 class="title is-1" style="color: #1abc9c; text-align: center; margin-top: 15%; ">Contactez-nous!</h1>
 
     <center>
-    <div class="info" style="margin-left: 46%; font-size: 30px;">
+    <div class="info" style="font-size: 30px; margin-left:45%; margin-right:45%;">
       <div class="field is-horizontal">
-        <a href="#" style="margin-right: 15px; "><i class="fab fa-twitter"></i></a>
+        <a href="#" style="margin-right: 15px;"><i class="fab fa-twitter"></i></a>
         <a href="#" style="margin-right: 15px;"><i class="fab fa-facebook-square"></i></a>
-        <a href="#" style="margin-right: 15px;"><i class="fab fa-instagram"></i></a>
+        <a href="#"><i class="fab fa-instagram"></i></a>
       </div>
     </div>
     </center>
@@ -25,7 +25,6 @@ include("entete.php");
     <div class ="block" >
       <div class="banner" >
           <div class="banner-content-1" style="position: absolute; top: 45%; left: 45%;" >
-              <button class="button is-link" id="open_modal">Contactez-nous!</button>
       </div>
     </div>
     <div class="block">

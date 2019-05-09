@@ -82,7 +82,8 @@ include("entete.php");
         </div>
       </div>
     </div>
-
+  </div>
+</div>
     <!-- portfolio -->
 
     <!-- section: à propos -->
