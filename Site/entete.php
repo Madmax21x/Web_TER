@@ -4,6 +4,7 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Site de la sartup Pie2Eat sur les API des réseaux sociaux." />
     <link rel="icon" href="src/img/icon1.png">
     <title>TER API - Pie2Eat</title>
 
