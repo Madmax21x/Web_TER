@@ -1,7 +1,7 @@
 <?php
 include("entete.php");
 ?>
-?>
+
     <div class ="block" >
       <div class="banner" >
         <img src="src/img/bg12.jpg" class="banner-image" style="position: relative;">
