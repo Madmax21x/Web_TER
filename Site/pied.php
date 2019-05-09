@@ -9,10 +9,10 @@
   <!-- body -->
   <center>
     <footer style="bottom: 0; margin-bottom:0; position: relative; margin-top: 30px;">
-    <div class="footer-informations" style="margin-bottom: 30px;">
+    <div class="footer-informations" style="margin-bottom: 100px;">
       <p> Université de Bordeaux</p>
       <p> 33 076 Bordeaux CEDEX</p>
-      <div class="info" style="margin-left:45%; margin-right:45%;" >
+      <div class="info" style="margin-left: 47%; margin-right: 43%;">
         <div class="field is-horizontal">
           <a href="#" style="margin-right: 15px; "><i class="fab fa-twitter"></i></a>
           <a href="#" style="margin-right: 15px;"><i class="fab fa-facebook-square"></i></a>
