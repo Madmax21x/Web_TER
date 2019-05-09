@@ -22,6 +22,8 @@
     <meta name='description' content='Description de votre site'>
     <meta name="keywords" content="webdesign, webdeveloppeur">
     <!-- meta SEO -->
+    <script src="src/js/main.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
 
 
   </head>
@@ -38,7 +40,7 @@
             <img src="src/img/pie2Eat.png" alt="Text Pie2Eat">
           </a>
 
-          <a role="button" class="navbar-burger" data-target="navMenu" aria-label="menu" aria-expanded="false">
+          <a role="button" class="navbar-burger burger" data-target="navMenu" aria-label="menu" aria-expanded="false">
             <span aria-hidden="true"></span>
             <span aria-hidden="true"></span>
             <span aria-hidden="true"></span>
