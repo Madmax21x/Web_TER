@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="icon" href="src/img/icon1.png">
-    <title>Site TER API</title>
+    <title>TER API - Pie2Eat</title>
 
     <!-- css -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.4/css/bulma.min.css">
@@ -22,6 +22,8 @@
     <meta name='description' content='Description de votre site'>
     <meta name="keywords" content="webdesign, webdeveloppeur">
     <!-- meta SEO -->
+    <script src="src/js/main.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
 
 
   </head>
@@ -38,7 +40,7 @@
             <img src="src/img/pie2Eat.png" alt="Text Pie2Eat">
           </a>
 
-          <a role="button" class="navbar-burger" data-target="navMenu" aria-label="menu" aria-expanded="false">
+          <a role="button" class="navbar-burger burger" data-target="navMenu" aria-label="menu" aria-expanded="false">
             <span aria-hidden="true"></span>
             <span aria-hidden="true"></span>
             <span aria-hidden="true"></span>
@@ -59,7 +61,7 @@
                 <a class="navbar-item" href="presse.php">Presse</a>
                 <a class="navbar-item" href="contact.php">Contact</a>
                 <hr class="navbar-divider">
-                <a class="navbar-item">Report an issue</a>
+                <a class="navbar-item" href="abstract.php">Abstract</a>
               </div>
             </div>
           </div>

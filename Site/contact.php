@@ -1,7 +1,8 @@
 <?php
 include("entete.php");
 ?>
-
+    <script src="src/js/main.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
     <!-- Contact -->
 
     <h1 class="title is-1" style="color: #1abc9c; text-align: center; margin-top: 15%; ">Contactez-nous!</h1>

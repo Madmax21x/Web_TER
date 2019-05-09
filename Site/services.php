@@ -1,7 +1,8 @@
 <?php
 include("entete.php");
 ?>
-
+    <script src="src/js/main.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
     <div class ="block" >
       <div class="banner" >
         <img src="src/img/bg12.jpg" class="banner-image" style="position: relative;">
@@ -291,7 +292,7 @@ include("entete.php");
                 ses informations. Elle doit par ailleurs la protéger pour éviter qu'elle soit
                 entachée par des avis peu élogieux. Il faut essayer d'être toujours informé en
                 temps réel d'un changement de situation et savoir vite réagir. Un seul avis
-                négatif suffit pour changer la perception qu'on les internautes sur la marque de
+                négatif suffit pour changer la perception qu'ont les internautes sur la marque de
                 l'entreprise. Lorsque les internautes cherchent de l'information sur une entreprise,
                 c'est pour trouver plus de crédibilité en la marque et un mauvais avis peut faire
                 perdre des clients potentiels à l'entreprise. </p>
@@ -370,8 +371,8 @@ include("entete.php");
                     produit, d’un service, ou d’une campagne marketing, mais aussi de vérifier le niveau de
                     satisfaction des clients, ou encore de surveiller la concurrence.
                   </p>Mais ces données peuvent être aussi utilisées pour mieux connaître ses clients, leurs
-                  préferences. En effet, toute interaction avec le réseaux sociaux (like, commentaire, partage,
-                  publications,..) laissent des traces. A partir de ces données, il est possible de déterminer
+                  préferences. En effet, toute interaction avec les réseaux sociaux (like, commentaire, partage,
+                  publications,..) laisse des traces. A partir de ces données, il est possible de déterminer
                   ce qu'aiment les clients et de prédire ce qu'ils vont aimer. En étudiant le profil leurs clients,
                   les entreprises peuvent connaître le profil socio-démographique des personnes intéressées par leurs offres.
                   Ils peuvent récupérer des données générales comme l'âge, le sexe, la géolocalisation, mais
@@ -418,13 +419,13 @@ include("entete.php");
                   Mais finalement ce sont des solutions qui permettent d’agréger toutes les données (mais
                   ça a une limite morale). On connait les utilisateurs à la perfection. Il y a tous les
                   processus de transformation dès lors où on récupère une adresse mail sans rien sur la
-                  personne jusqu’à avoir nom, prénom, âge, localisation, etc.. C’est des choses qui existent
+                  personne jusqu’à avoir nom, prénom, âge, localisation, etc.. Ce sont des choses qui existent
                   mais qui sont très compliquées à mettre en place. On a 75000 contacts, des fois on envoie
                   des mails à 50000 personnes. Il y a plein de sources pour avoir ces contacts: les gens
                   qui se connectent à notre wifi, qui viennent visiter, qui achètent notre billetterie en
                   ligne. Il y a un degré de qualification de ces gens: soit on a leurs mails, soit leurs
-                  noms, prénoms. Comme ça on peut communiquer avec eux, faire venir à la Cité du Vin s’ils
-                  sont pas venus. Plus on avance et plus les réseaux sociaux et ça ça match car on arrive à
+                  noms, prénoms. Comme ça on peut communiquer avec eux, les faire venir à la Cité du Vin s’ils
+                  sont pas venus. Plus on avance et plus les réseaux sociaux, ça match, car on arrive à
                   plus faire le lien entre les mails et Facebook. On peut juste récupérer des adresses mails
                   et les donner à Facebook qui va nous donner un amalgame. C’est ce qui fait qu’aujourd’hui
                   Facebook est leader sur le marketing et la pub. Tu leur dit j’ai une adresse mail, ce gars
