@@ -749,6 +749,35 @@ include("entete.php");
         </div>
       </div>
 
+      <div class="block">
+        <br/>
+        <br/>
+        <div class="container about">
+          <div class="columns">
+            <div class="column about-single-element-1" style="text-align:justify; ">
+              <h2 class="subtitle heading-site-1" style= "margin-left: 5%; font-size: 30px;">Pie2Eat fait l'étude de votre e-réputation</h2>
+              <div style="text-align:center;">
+                <p> Pie2Eat vous aide à soigner votre e-réputation en identifiant les
+                  commentaires et les tweets négatifs sur votre marque. Elle vous aide à
+                  savoir comment votre marque est-elle perçue sur les réseaux et en
+                  particulier sur Twitter. </p>
+                <p>Pie2Eat identifie tous les tweets où votre nom a été mentionné.</p>
+
+
+            </div>
+            </div>
+
+            <div class="column about-single-element-1" style="text-align:justify; ">
+              <div>
+                <img src="src/img/network.jpg" class="is-rounded" style="position: relative; width:500px; height:300px; margin-left:10%; margin-right:10%;">
+            </div>
+            </div>
+
+          </div>
+        </div>
+      </div>
+
+
 <?php
 include("pied.php");
 ?>
