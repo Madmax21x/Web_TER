@@ -63,7 +63,7 @@ include("entete.php");
               <p class="title">
                 Les risques de réputation liés aux réseaux sociaux</p>
               <p class="subtitle">
-                By Bolero
+                @Bolero
               </p>
             </div>
             <footer class="card-footer">
@@ -87,7 +87,7 @@ include("entete.php");
               Réseaux sociaux et comportement d'achat sur Internet.
             </p>
             <p class="subtitle">
-              By Upmybiz
+              @Upmybiz
             </p>
           </div>
           <footer class="card-footer">
@@ -108,7 +108,7 @@ include("entete.php");
               Consommateur et numérique : quel impact sur les comportements d’achat ?
             </p>
             <p class="subtitle">
-              By Zencom
+              @Zencom
             </p>
           </div>
           <footer class="card-footer">
@@ -267,31 +267,73 @@ include("entete.php");
 
   </div>
 
+  <div class="columns">
 
+    <div class="column">
+      <div class="card notification is-dark">
+        <div class="card-content">
+          <p class="title">
+            Agence e-réputation
+          </p>
+          <p class="subtitle">
+            @Yabawt
+          </p>
+        </div>
+        <footer class="card-footer">
+          <p class="card-footer-item">
+            <span>
+              Voir le lien <a href="http://www.yabawt.com/agence-e-reputation/">ici</a>
+            </span>
+          </p>
+        </footer>
+      </div>
     </div>
 
-    <h1 class="title is-1" style="color: #1abc9c; text-align: center; margin-top: 7%; ">Références</h1>
+    <div class="column">
 
-      <div class="container">
-      <br/>
-      <br/>
-      <div class="columns">
-        <div class="column is-two-thirds notification is-light" style="margin-right:1%;">Réseaux sociaux et comportement d'achat sur Internet.</div>
-        <div class="column notification is-light" style="text-align: center; margin-right:1%;">By Upmybiz</div>
-        <div class="column notification is-light" style="text-align: center;"><a href="https://www.upmybiz.com/reseaux-sociaux-et-impact-comportement-achat/">Lien</a></div>
+      <div class="card">
+        <div class="card-content">
+          <p class="title">
+            Social Insights for Global Brands
+          </p>
+          <p class="subtitle">
+            @linkfluence
+          </p>
+        </div>
+        <footer class="card-footer">
+          <p class="card-footer-item">
+            <span>
+              Voir le lien <a href="https://www.linkfluence.com/fr/">ici</a>
+            </span>
+          </p>
+        </footer>
       </div>
-      <div class="columns">
-        <div class="column is-two-thirds notification is-light" style="margin-right:1%;">Réseaux sociaux et comportement d'achat sur Internet.</div>
-        <div class="column notification is-light" style="text-align: center; margin-right:1%;">By Upmybiz</div>
-        <div class="column notification is-light" style="text-align: center;"><a href="https://www.upmybiz.com/reseaux-sociaux-et-impact-comportement-achat/">Lien</a></div>
-      </div>
-      <div class="columns">
-        <div class="column is-two-thirds notification is-light" style="margin-right:1%;">Réseaux sociaux et comportement d'achat sur Internet.</div>
-        <div class="column notification is-light" style="text-align: center; margin-right:1%;">By Upmybiz</div>
-        <div class="column notification is-light" style="text-align: center;"><a href="https://www.upmybiz.com/reseaux-sociaux-et-impact-comportement-achat/">Lien</a></div>
-      </div>
-
     </div>
+
+    <div class="column">
+      <div class="card notification is-light">
+        <div class="card-content">
+          <p class="title">Exploiter les données de réseaux sociaux en 5 étapes</p>
+          <p class="subtitle">
+            By Ecosystème Digital et Data, Social networks
+          </p>
+        </div>
+        <footer class="card-footer">
+          <p class="card-footer-item">
+            <span>
+              Voir le lien <a href="https://www.linkfluence.com/fr/social-data-research">ici</a>
+            </span>
+          </p>
+        </footer>
+      </div>
+    </div>
+
+</div>
+
+
+  </div>
+
+
 
 
 <?php
