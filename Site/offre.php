@@ -178,7 +178,7 @@ include("entete.php");
         <div class="column about-single-element-1" style="text-align:center; top:50%;">
           <h2 class="subtitle heading-site-1" style= "margin-left: 5%; font-size: 30px;">Pie2Eat vous informe sur les tendances du moment</h2>
             <p>Pie2Eat vous aide à comprendre vos consommateurs, connaître leurs préférences.
-              Elle identifie les tendances du moment, sur lesquelles vous devriez vous baser
+              Selon la géographie choisie, elle identifie les tendances du moment, sur lesquelles vous devriez vous baser
               pour proposer une offre adaptée à la demande des consommateurs. La team Pie2Eat
               vous aide à anticiper les demandes des consommateurs et leurs réactions aux nouveaux produits. </p>
         </div>
