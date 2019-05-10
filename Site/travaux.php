@@ -15,7 +15,7 @@ include("entete.php");
       </div>
     </div>
 
-    <!--1er paragraphe-->
+    <!--1st paragraphe-->
     <div class="container is-fluid">
       <div class="notification">
         <h1 class="title is-1">Une bibliothèque Python adapté : Tweepy </h1>
@@ -31,7 +31,7 @@ include("entete.php");
         </div>
       </div>
     </div>
-    <!--1er paragraphe-->
+    <!--1st paragraphe-->
     </br>
     <!--2nd paragraphe-->
     <div class="container is-fluid">
@@ -59,6 +59,47 @@ include("entete.php");
       </div>
     </div>
     <!--2nd paragraphe-->
+    </br>
+    <!--3rd paragraphe-->
+    <div class="container is-fluid">
+      <div class="notification">
+        <h1 class="title is-1 has-text-centered">Un développement en 3 parties</h1>
+      </div>
+      <div class="notification">
+        <h2 class="title is-2">Un code multifonction</h2>
+        <div class="columns">
+          <div class="column about-single-element-1">
+            <p>Nous sommes une équipe de 3 développeurs et nous avons fait le choix de coder en utilisant la plateforme github 
+              qui est une solution de contrôle de version de code très performante et largement utilisé.</p>
+            <p>L'intégralité de notre code se trouve par ailleurs sur notre <a href="https://github.com/Madmax21x/TER_twitter_API.git">github</a></p>
+            <p>La 1ère étape fut tout d'abord de récupérer les <strong>identifiants développeurs</strong> twitter permettant de se connecter à leurs API.</p>
+            <p>Ainsi nous disposons des accès de base à leurs données qui est limité, mais il est possible de payer pour avoir accès à plus de fonctionnalités.</p>
+          </div>
+          <div class="column about-single-element-1">
+            <center>
+              <img src="src/img/credencials_img.png" class="is-rounded" style="position: relative; width: 300px;">
+            </center>
+          </div>
+        </div>
+        <div>
+          <div class="columns">
+            <div class="column about-single-element-1">
+              <center>
+                <img src="src/img/code1.png" class="is-rounded" style="position: relative; width: 400px;">
+              </center>
+            </div>
+            <div class="column about-single-element-1">
+                <h3 class="subtitle is-3">Différentes classes pour différents usages :</h3>
+                <p class="subtitle is-5"> - TwitterAuthenticator :</p>
+                <p>TwitterAuthenticator est une classe qui sert à récupérer nos identifiants développeurs twitter pour seconnecter à leurs API.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!--3rd paragraphe-->
+
+
 <?php
 include("pied.php");
 ?>
