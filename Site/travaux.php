@@ -202,10 +202,10 @@ include("entete.php");
               </center>
           </div>
         <div>
-          <p>Ici il est par exemple intéressant de s'intéresser au pic autour de la date du 15 avril 2019.</p>
-          <p>Après quelques recherches il est facile de trouver qu'il sagit d'un tweet posté lors de l'incendie
+          <p>Ici, il est par exemple intéressant de s'intéresser au pic autour de la date du 15 avril 2019.</p>
+          <p>Après quelques recherches, il est facile de trouver qu'il s'agit d'un tweet posté lors de l'incendie
             de notre Dame.</p>
-          <p><strong>Le tweet en question :</strong></p>
+          <p><strong>Le tweet en question:</strong></p>
         </div>
         <div class="column about-single-element-1">
           <center>
