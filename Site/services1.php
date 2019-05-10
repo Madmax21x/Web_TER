@@ -463,7 +463,7 @@ include("entete.php");
 
               <div class="column about-single-element-1">
                 <center>
-                <img src="src/img/question.jpg" class="is-rounded" style="position: relative; width:450px;">
+                <img src="src/img/question_.jpg" class="is-rounded" style="position: relative; width:450px;">
               </center>
               </div>
 
@@ -527,7 +527,7 @@ include("entete.php");
             <div class="columns">
               <div class="column about-single-element-1">
                 <center>
-                <img src="src/img/open2.jpg" class="is-rounded" style="position: relative; width:500px;">
+                <img src="src/img/open2_.jpg" class="is-rounded" style="position: relative; width:500px;">
               </center>
               </div>
 

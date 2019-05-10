@@ -32,7 +32,7 @@ include("entete.php");
         <div class="columns">
             <div class="column about-single-element">
               <i class="fas fa-envelope-open-text icon"></i>
-              <p>ter.twitter@gmail.com</p>
+              <p>pie2eat@gmail.com</p>
             </div>
 
             <div class="column about-single-element">
@@ -41,12 +41,66 @@ include("entete.php");
               </div>
             <div class="column about-single-element">
               <i class="fas fa-phone icon"></i>
-              <p>06 07 82 30 54</p>
+              <p>06 07 82 ** **</p>
             </div>
         </div>
       </div>
     </div>
+    <br/>
+    <br/>
+    <br/>
 
+    <div class="container is-fluid">
+      <div class="notification is-white">
+        <br/>
+        <br/>
+        <div class="block">
+          <br/>
+          <div class="container about">
+            <div class="columns">
+                <div class="column about-single-element-1" style="text-align:justify;">
+      <p>Ce site a été créé dans le cadre du TER (Travail d'Etude et de Recherche) au cours
+        de la Licence 3 MIASHS (Mathématiques et Informatique appliquées aux sciences humaines et sociales).</p>
+        <br/>
+      <p><strong>Sujet :</strong></p>
+      <p>Les APIs des réseaux sociaux: nouveaux outils de gestion</p>
+        <br/>
+        <p><strong>Tuteurs :</strong></p>
+        <p>Michel Nefti et Christophe Schlick</p>
+        <br/>
+        <p><strong>Par les étudiants :</strong><p>
+        <p>Charles Defontaine, Maxence Mazurier et Julietta Andreasyan</p>
+        <br/>
+        <p><strong>Remerciements :</strong>
+        <p>Nous remercions Maxime Chabaud (Community and content Manager à la Cité du Vin),
+          Timothée Binet (Développeur SI & Multimédia à la Cité du Vin) et Loïc Graniczny
+          (Chargé de projet web & digital à l'Office de Tourisme à Bordeaux) d'avoir accepté de nous accorder de leur temps
+          et d'être interviewé. Nous remercions Romain Damian (Data Scientist chez Liegey Muller Pons à Paris) d'avoir répondu
+          à nos questions.
+       </p>
+       <p>Nous remercions également tous les professeurs de la licence qui nous ont permis tout au long du cursus d'acquérir des connaissances
+       diverses et variées. La pluridisciplinarité des enseignements reçus nous a apporté de solides bases pour mener ce projet à bien. </p>
+       <p>Nous remercions également nos tuteurs Michel Nefti et Christophe Schlick de nous avoir accompagné tout au
+         long du TER.</p>
+
+      </div>
+
+      <div class="column about-single-element-1">
+        <center>
+        <br/>
+        <br/>
+        <figure class="image is-320x320">
+        <img src="src/img/ter_groupe.jpg" class="is-rounded">
+        </figure>
+      </center>
+      </div>
+
+    </div>
+  </div>
+</div>
+     </div>
+      </div>
+    </div>
     <!-- Contact -->
 
 <?php
