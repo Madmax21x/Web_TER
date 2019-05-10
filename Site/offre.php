@@ -51,26 +51,19 @@ include("entete.php");
     <br/>
     <div class="container is-fluid">
       <div class="notification">
-        <div class="block">
         <br/>
-        <div class="container about">
           <div class="columns">
-
-            <div class="column about-single-element-1" style="text-align:justify; ">
+            <div class="column about-single-element-1">
                 <center>
-                <img src="src/img/Boeing_wordcloud.png" class="is-rounded" style="position: relative;">
+                <img src="src/img/Boeing_wordcloud.png" class="is-rounded" style="position: relative; width: 500px;">
               </center>
             </div>
-
-            <div class="column about-single-element-1" style="text-align:center; top:50%;">
-              <h2 class="subtitle heading-site-1" style= "margin-left: 5%; font-size: 30px;">Pie2Eat étudie les tendances associées à votre marque</h2>
+            <div class="column about-single-element-1">
+              <h3 class="subtitle is-3 has-text-centered">Pie2Eat étudie les tendances associées à votre marque</h2>
                 <p> Pie2Eat identifie les hashtags associés à votre nom et les mots les plus
                   fréquents dans les tweets où votre nom a été mentionné. </p>
             </div>
-
-            </div>
           </div>
-        </div>
       </div>
     </div>
 
