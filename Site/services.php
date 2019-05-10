@@ -12,113 +12,104 @@ include("entete.php");
       </div>
     </div>
 
-    <!-- <div class="container">
-      <div style="font-size: 20px;">
-        <p><a href="#reseaux" style="text-decoration:none; color: #636e72;"><i class="far fa-lightbulb-on icon" style="font-size: 60px; margin-left:10%;margin-top:7%;"></i>
-          Pourquoi s'intéresser aux réseaux sociaux?</p></a>
-          <p><a href="#" style="text-decoration:none; color: #636e72;"><i class="far fa-lightbulb-on icon" style="font-size: 60px; margin-left:10%;"></i>
-            Quels sont les services que nous vous proposons?</p></a>
-      </div>
-    </div> -->
-
     <div class="container">
-    <div>
-        <br/>
-        <h1 class="title is-1" style="color:#718093; text-align: center; margin-top: 7%; "><i class="fas fa-question-circle"></i> Pourquoi s'intéresser aux réseaux sociaux?</h1>
+      <div>
+          <br/>
+          <h1 class="title is-1" style="color:#718093; text-align: center; margin-top: 7%; "><i class="fas fa-question-circle"></i> Pourquoi s'intéresser aux réseaux sociaux?</h1>
+        </div>
       </div>
-    </div>
 
     <div class="container is-fluid">
-    <div class="block">
-      <br/>
-      <br/>
-      <br/>
-      <h2 id="reseaux" class="subtitle heading-site-1" style= "margin-left: 10%; font-size: 30px;">Les réseaux sociaux et les consommateurs</h2>
-      <br/>
-      <div class="container about">
-        <div class="columns">
+      <div class="block">
+        <br/>
+        <br/>
+        <br/>
+        <h2 id="reseaux" class="subtitle heading-site-1" style= "margin-left: 10%; font-size: 30px;">Les réseaux sociaux et les consommateurs</h2>
+        <br/>
+        <div class="container about">
+          <div class="columns">
 
-            <div class="column about-single-element-1">
-              <center>
-              <img src="src/img/reseau.jpg" class="is-rounded" style="position: relative; width:500px;">
-            </center>
-            </div>
+              <div class="column about-single-element-1">
+                <center>
+                <img src="src/img/reseau.jpg" class="is-rounded" style="position: relative; width:500px;">
+              </center>
+              </div>
 
-            <div class="column about-single-element-1" style="text-align:justify;">
-              <p>L’émergence et la multiplication des réseaux sociaux ont révolutionné notre
-                manière de partager, dénoncer, nous exprimer, informer… Les individus partagent
-                de plus en plus leurs quotidiens, leurs centres d'intérêts, leurs émotions, leurs valeurs,
-                leurs habitudes de consommateurs.
-              Le fait de partager permet de renforcer son "self-esteem" en suscitant des réactions parmi
-            ses amis (likes, re-partages, retweets, commentaires) mais aussi de se sentir populaire ou influent.
-            Pour avoir du succès, les contenus qu'on partage doivent créer de l'émotion, de l'admiration,
-            de l'amusement chez les autres internautes. Il faut du contenu qui capte l'attention à travers le
-            visuel (images, vidéos, gifs..). Les réseaux sociaux permettent aux individus de confronter
-            leurs opinions et de débattre autour d’un sujet d’actualité ou partager de l'information.
-          Les réseaux sociaux ont changé notre façon de consommer. Il devient indispensable
-            pour les entreprises de changer leurs manières de communiquer.</p>
-        </div>
-      </div>
-    </div>
-
-    <div class="block">
-      <br/>
-      <br/>
-      <div class="container about">
-        <div class="columns">
-            <div class="column about-single-element-1" style="text-align:justify;">
-              <p> La communication se fait
-                désormais dans les deux sens. Les publicités ne suffisent plus. La voix des consommateurs
-                est plus qu'importante. Désormais les marques communiquent, les internautes interpellent
-                et il faut que les marques répondent en retour. Les réseaux sociaux permettent de communiquer
-              avec une masse, un groupe, ou une communauté.
-            Ils présentent de nombreux avantages pour les entreprises qui franchissent le pas. </p>
-            <div style="text-align:center;">
-
-              <p><span class="italique" style="font-style: italic;">"On a une stratégie qui est omnicanale, on va communiquer sur plusieurs sites..
-              On est sur plusieures plateformes: Facebook, Twitter et Instagram pour les principales.
-              Sur Facebook, on essaie de bien équilibrer entre du contenu commercial (pas plus de 30%),
-              du contenuu d’inspiration (il faut jouer sur les émotions) et du contenu pratique pour
-              essayer de se rendre utile et indispensable. Ce n’est pas qu’une plateforme qu’on utilise
-              pour faire de la pub, bien qu’on utilise beaucoup de campagnes sponsorisées sur Facebook.
-              On va laisser les internautes partager les publications et c’est les amis des amis qui vont les voir, les aimer.."</span></p>
-              <br/>
-              <p style="font-weight:bold;">Loïc Graniczny, Chargé de projet web & digital à l'Office de Tourisme à Bordeaux</p>
-            </div>
-
-          </div>
-
-          <div class="column about-single-element-1" style="text-align:justify; ">
-            <p>C'est un très bon moyen pour rencontrer et se rapprocher de ses clients. Les réseaux sociaux soutiennent
-            les entreprises dans l'amélioration de l'image de leurs marques, l'accroissement de la notoriété
-          et de la visibilité. L'activité sur réseaux sociaux peut impacter positivement la
-        fidélisation des clients, créer de la récurrence d'achat et de la valeur pour l'entreprise. Les
-      réseaux sociaux ont un impact réel sur le comportement d'achat des internautes... </p>
-            <div style="text-align: center;">
-            <br/>
-            <p><span class="italique" style="font-style: italic;">"Un grand avantage des réseaux sociaux pour le
-              marketing est quand même que cela permet de parler directement aux consommateurs si besoin,
-              comme un espèce de tchat public.
-              C'est ce que fait beaucoup Décathlon par exemple (la polémique autour de leur hijab
-              pour la course à pied), et ça permet une gestion de la clientèle beaucoup plus proche des
-              clients qu'on ne le faisait avant."</span></p>
-              <br/>
-              <p style="font-weight:bold;">Romain Damian, Data Scientist chez Liegey Muller Pons à Paris.</p>
-          </div>
-        </div>
+              <div class="column about-single-element-1" style="text-align:justify;">
+                <p>L’émergence et la multiplication des réseaux sociaux ont révolutionné notre
+                  manière de partager, dénoncer, nous exprimer, informer… Les individus partagent
+                  de plus en plus leurs quotidiens, leurs centres d'intérêts, leurs émotions, leurs valeurs,
+                  leurs habitudes de consommateurs.
+                Le fait de partager permet de renforcer son "self-esteem" en suscitant des réactions parmi
+              ses amis (likes, re-partages, retweets, commentaires) mais aussi de se sentir populaire ou influent.
+              Pour avoir du succès, les contenus qu'on partage doivent créer de l'émotion, de l'admiration,
+              de l'amusement chez les autres internautes. Il faut du contenu qui capte l'attention à travers le
+              visuel (images, vidéos, gifs..). Les réseaux sociaux permettent aux individus de confronter
+              leurs opinions et de débattre autour d’un sujet d’actualité ou partager de l'information.
+            Les réseaux sociaux ont changé notre façon de consommer. Il devient indispensable
+              pour les entreprises de changer leurs manières de communiquer.</p>
           </div>
         </div>
       </div>
-    </div>
 
-    <div class="block">
-      <br/>
-      <br/>
-      <br/>
-      <h2 id="conso" class="subtitle heading-site-1" style= "margin-left: 10%; font-size: 30px;">Le comportement et le choix du consommateur</h2>
-      <br/>
-      <div class="container about">
-        <div class="columns">
+      <div class="block">
+        <br/>
+        <br/>
+        <div class="container about">
+          <div class="columns">
+              <div class="column about-single-element-1" style="text-align:justify;">
+                <p> La communication se fait
+                  désormais dans les deux sens. Les publicités ne suffisent plus. La voix des consommateurs
+                  est plus qu'importante. Désormais les marques communiquent, les internautes interpellent
+                  et il faut que les marques répondent en retour. Les réseaux sociaux permettent de communiquer
+                avec une masse, un groupe, ou une communauté.
+              Ils présentent de nombreux avantages pour les entreprises qui franchissent le pas. </p>
+              <div style="text-align:center;">
+
+                <p><span class="italique" style="font-style: italic;">"On a une stratégie qui est omnicanale, on va communiquer sur plusieurs sites..
+                On est sur plusieures plateformes: Facebook, Twitter et Instagram pour les principales.
+                Sur Facebook, on essaie de bien équilibrer entre du contenu commercial (pas plus de 30%),
+                du contenuu d’inspiration (il faut jouer sur les émotions) et du contenu pratique pour
+                essayer de se rendre utile et indispensable. Ce n’est pas qu’une plateforme qu’on utilise
+                pour faire de la pub, bien qu’on utilise beaucoup de campagnes sponsorisées sur Facebook.
+                On va laisser les internautes partager les publications et c’est les amis des amis qui vont les voir, les aimer.."</span></p>
+                <br/>
+                <p style="font-weight:bold;">Loïc Graniczny, Chargé de projet web & digital à l'Office de Tourisme à Bordeaux</p>
+              </div>
+
+            </div>
+
+            <div class="column about-single-element-1" style="text-align:justify; ">
+              <p>C'est un très bon moyen pour rencontrer et se rapprocher de ses clients. Les réseaux sociaux soutiennent
+              les entreprises dans l'amélioration de l'image de leurs marques, l'accroissement de la notoriété
+            et de la visibilité. L'activité sur réseaux sociaux peut impacter positivement la
+          fidélisation des clients, créer de la récurrence d'achat et de la valeur pour l'entreprise. Les
+        réseaux sociaux ont un impact réel sur le comportement d'achat des internautes... </p>
+              <div style="text-align: center;">
+              <br/>
+              <p><span class="italique" style="font-style: italic;">"Un grand avantage des réseaux sociaux pour le
+                marketing est quand même que cela permet de parler directement aux consommateurs si besoin,
+                comme un espèce de tchat public.
+                C'est ce que fait beaucoup Décathlon par exemple (la polémique autour de leur hijab
+                pour la course à pied), et ça permet une gestion de la clientèle beaucoup plus proche des
+                clients qu'on ne le faisait avant."</span></p>
+                <br/>
+                <p style="font-weight:bold;">Romain Damian, Data Scientist chez Liegey Muller Pons à Paris.</p>
+            </div>
+          </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="block">
+        <br/>
+        <br/>
+        <br/>
+        <h2 id="conso" class="subtitle heading-site-1" style= "margin-left: 10%; font-size: 30px;">Le comportement et le choix du consommateur</h2>
+        <br/>
+        <div class="container about">
+          <div class="columns">
             <div class="column about-single-element-1" style="text-align:justify;">
               <p>Il est intéressant d'étudier le comportement du consommateur. <span style="font-weight:bold;">Herbert Simon</span>,
                 un économiste et sociologue américain a étudié la manière dont les individus prennent
@@ -136,95 +127,66 @@ include("entete.php");
               des solutions déjà utilisées dans des circonstances qui lui
               apparaissent grossièrement similaires et qui s’étaient révélées satisfaisantes. Mais si la
               situation apparaît différente, il va chercher une solution nouvelle.</p>
-
-    </div>
-
+            </div>
 
             <div class="column about-single-element-1">
               <center>
-              <img src="src/img/decision.jpg" class="banner-image" style="position: relative; margin-top:3%;">
-            </center>
-            </div>
-          </div>
-          </div>
-          </div>
-
-        <div class="block">
-          <br/>
-          <br/>
-          <div class="container about">
-            <div class="columns">
-                <div class="column about-single-element-1" style="text-align:justify;">
-                  <p> La communication se fait
-                    désormais dans les deux sens. Les publicités ne suffisent plus. La voix des consommateurs
-                    est plus qu'importante. Désormais les marques communiquent, les internautes interpellent
-                    et il faut que les marques répondent en retour. Les réseaux sociaux permettent de communiquer
-                  avec une masse, un groupe, ou une communauté.
-                Ils présentent de nombreux avantages pour les entreprises qui franchissent le pas. </p>
-                <div style="text-align:center;">
-
-                  <p><span class="italique" style="font-style: italic;">"On a une stratégie qui est omnicanale, on va communiquer sur plusieurs sites..
-                  On est sur plusieures plateformes: Facebook, Twitter et Instagram pour les principales.
-                  Sur Facebook, on essaie de bien équilibrer entre du contenu commercial (pas plus de 30%),
-                  du contenuu d’inspiration (il faut jouer sur les émotions) et du contenu pratique pour
-                  essayer de se rendre utile et indispensable. Ce n’est pas qu’une plateforme qu’on utilise
-                  pour faire de la pub, bien qu’on utilise beaucoup de campagnes sponsorisées sur Facebook.
-                  On va laisser les internautes partager les publications et c’est les amis des amis qui vont les voir, les aimer.."</span></p>
-                  <br/>
-                  <p style="font-weight:bold;">Loïc Graniczny, Chargé de projet web & digital à l'Office de Tourisme à Bordeaux</p>
-                </div>
-
-              </div>
-
-              <div class="column about-single-element-1" style="text-align:justify; ">
-                <p>C'est un très bon moyen pour rencontrer et se rapprocher de ses clients. Les réseaux sociaux soutiennent
-                les entreprises dans l'amélioration de l'image de leurs marques, l'accroissement de la notoriété
-              et de la visibilité. L'activité sur réseaux sociaux peut impacter positivement la
-            fidélisation des clients, créer de la récurrence d'achat et de la valeur pour l'entreprise. Les
-          réseaux sociaux ont un impact réel sur le comportement d'achat des internautes... </p>
-                <div style="text-align: center;">
-                <br/>
-                <p><span class="italique" style="font-style: italic;">"Un grand avantage des réseaux sociaux pour le
-                  marketing est quand même que cela permet de parler directement aux consommateurs si besoin,
-                  comme un espèce de tchat public.
-                  C'est ce que fait beaucoup Décathlon par exemple (la polémique autour de leur hijab
-                  pour la course à pied), et ça permet une gestion de la clientèle beaucoup plus proche des
-                  clients qu'on ne le faisait avant."</span></p>
-                  <br/>
-                  <p style="font-weight:bold;">Romain Damian, Data Scientist chez Liegey Muller Pons à Paris.</p>
-              </div>
-            </div>
-              </div>
+                <img src="src/img/decision.jpg" class="banner-image" style="position: relative; margin-top:3%;">
+              </center>
             </div>
           </div>
         </div>
+      </div>
 
-        <div class="block">
-          <br/>
-          <br/>
-          <br/>
-          <h2 id="conso" class="subtitle heading-site-1" style= "margin-left: 10%; font-size: 30px;">Le comportement et le choix du consommateur</h2>
-          <br/>
-          <div class="container about">
-            <div class="columns">
-                <div class="column about-single-element-1" style="text-align:justify;">
-                  <p>Il est intéressant d'étudier le comportement du consommateur. <span style="font-weight:bold;">Herbert Simon</span>,
-                    un économiste et sociologue américain a étudié la manière dont les individus prennent
-                    leurs décisions.
-                    Les individus sont rationnels, c’est-à-dire qu’ils ont des buts et agissent
-                    en fonction de leur réalisation. Or cette rationalité n’est pas absolue, elle
-                    est limitée. Cette notion de rationalité limitée montre que
-                    les individus ne sont pas capables de traiter l'ensemble des informations à leur
-                    disposition et qu’ils prennent leurs décisions en fonction des buts qu’ils visent
-                    et de leur environnement. Ces buts sont souvent concrets, à court terme et influencent leur
-                    comportement et leurs stratégies. <p/>
-                <p> Dans la plupart des cas, confronté à un choix, l’individu construit un modèle simplifié
-                  de la réalité, une définition de la situation à son échelle et avec ses moyens. Celle-ci
-                  est d’abord essentiellement fondée sur son expérience passée. Souvent il se replie sur
-                  des solutions déjà utilisées dans des circonstances qui lui
-                  apparaissent grossièrement similaires et qui s’étaient révélées satisfaisantes. Mais si la
-                  situation apparaît différente, il va chercher une solution nouvelle.</p>
+      <div class="block">
+        <br/>
+        <br/>
+        <div class="container about">
+          <div class="columns">
+              <div class="column about-single-element-1" style="text-align:justify;">
+                <p> La communication se fait
+                  désormais dans les deux sens. Les publicités ne suffisent plus. La voix des consommateurs
+                  est plus qu'importante. Désormais les marques communiquent, les internautes interpellent
+                  et il faut que les marques répondent en retour. Les réseaux sociaux permettent de communiquer
+                avec une masse, un groupe, ou une communauté.
+              Ils présentent de nombreux avantages pour les entreprises qui franchissent le pas. </p>
+              <div style="text-align:center;">
 
+                <p><span class="italique" style="font-style: italic;">"On a une stratégie qui est omnicanale, on va communiquer sur plusieurs sites..
+                On est sur plusieures plateformes: Facebook, Twitter et Instagram pour les principales.
+                Sur Facebook, on essaie de bien équilibrer entre du contenu commercial (pas plus de 30%),
+                du contenuu d’inspiration (il faut jouer sur les émotions) et du contenu pratique pour
+                essayer de se rendre utile et indispensable. Ce n’est pas qu’une plateforme qu’on utilise
+                pour faire de la pub, bien qu’on utilise beaucoup de campagnes sponsorisées sur Facebook.
+                On va laisser les internautes partager les publications et c’est les amis des amis qui vont les voir, les aimer.."</span></p>
+                <br/>
+                <p style="font-weight:bold;">Loïc Graniczny, Chargé de projet web & digital à l'Office de Tourisme à Bordeaux</p>
+              </div>
+
+            </div>
+
+            <div class="column about-single-element-1" style="text-align:justify; ">
+              <p>C'est un très bon moyen pour rencontrer et se rapprocher de ses clients. Les réseaux sociaux soutiennent
+              les entreprises dans l'amélioration de l'image de leurs marques, l'accroissement de la notoriété
+            et de la visibilité. L'activité sur réseaux sociaux peut impacter positivement la
+          fidélisation des clients, créer de la récurrence d'achat et de la valeur pour l'entreprise. Les
+        réseaux sociaux ont un impact réel sur le comportement d'achat des internautes... </p>
+              <div style="text-align: center;">
+              <br/>
+              <p><span class="italique" style="font-style: italic;">"Un grand avantage des réseaux sociaux pour le
+                marketing est quand même que cela permet de parler directement aux consommateurs si besoin,
+                comme un espèce de tchat public.
+                C'est ce que fait beaucoup Décathlon par exemple (la polémique autour de leur hijab
+                pour la course à pied), et ça permet une gestion de la clientèle beaucoup plus proche des
+                clients qu'on ne le faisait avant."</span></p>
+                <br/>
+                <p style="font-weight:bold;">Romain Damian, Data Scientist chez Liegey Muller Pons à Paris.</p>
+            </div>
+          </div>
+            </div>
+          </div>
+        </div>
+      </div>
 
     <div class="block">
       <br/>
@@ -314,8 +276,8 @@ include("entete.php");
             <br/>
             <p style="font-weight:bold;">Loïc Graniczny, Chargé de projet web & digital à l'Office de Tourisme à Bordeaux</p>
 
+        </div>
       </div>
-    </div>
   </div>
 </div>
 
