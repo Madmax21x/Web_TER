@@ -25,7 +25,7 @@ include("entete.php");
             <div class="tile">
               <div class="tile is-parent is-vertical">
                 <article class="tile is-child notification ">
-                  <p class="title"><a href="services11.php#reseaux" style="text-decoration:none">Pourquoi s'intéresser aux réseaux sociaux?</a></p></p>
+                  <p class="title"><a href="services1.php#reseaux" style="text-decoration:none">Pourquoi s'intéresser aux réseaux sociaux?</a></p></p>
                   <p class="subtitle"><a href="services1.php#reseaux" style="text-decoration:none">- Les réseaux sociaux et les consommateurs</a></p>
                   <p class="subtitle"><a href="services1.php#api" style="text-decoration:none">- Qu'est-ce qu'une API?</a></p>
                 </article>
