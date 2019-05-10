@@ -6,12 +6,6 @@ include("entete.php");
     <div class ="block" >
       <div class="banner" >
           <img src="src/img/power.jpg" class="banner-image" style="position: relative;">
-          <div class="banner-content-1" style="position: absolute; top: 25%; left: 5%;" >
-              <h1 class="subtitle" style="color: #FFFFFF; font-size: 60px;">Découvrez nos ressources!</h1>
-          </div>
-          <div class="banner-content-1" style="position: absolute; bottom: 2%; left: 30%;" >
-              <h1 class="subtitle" style="color:#FFFFFF; font-size: 60px;">Un développement 100% Python</h1>
-          </div>
       </div>
     </div>
 
@@ -31,9 +25,10 @@ include("entete.php");
         </div>
       </div>
     </div>
-    <!--1st paragraphe-->
+    <!--1st paragraph-->
     </br>
-    <!--2nd paragraphe-->
+  
+    <!--2nd paragraph-->
     <div class="container is-fluid">
       <div class="notification">
         <h1 class="title is-1">Mais pas que... </h1>
@@ -58,15 +53,16 @@ include("entete.php");
         </div>
       </div>
     </div>
-    <!--2nd paragraphe-->
+    <!--2nd paragraph-->
     </br>
-    <!--3rd paragraphe-->
+  
+    <!--3rd paragraph-->
     <div class="container is-fluid">
       <div class="notification">
         <h1 class="title is-1 has-text-centered">Un développement en 3 parties</h1>
       </div>
       <div class="notification">
-        <!--Part 1-->
+        <!--Part 1.1-->
         <h2 class="title is-2">Un code multifonction</h2>
         <div class="columns">
           <div class="column about-single-element-1">
@@ -82,11 +78,12 @@ include("entete.php");
             </center>
           </div>
         </div>
-        <!--Part 1-->
-        <!--Part 2-->
+        <!--Part 1.1-->
+        <!--Part 1.2-->
         <div>
           <div class="columns">
             <div class="column about-single-element-1">
+              <br/>
               <center>
                 <img src="src/img/code1.png" class="is-rounded" style="position: relative; width: 400px;">
               </center>
@@ -96,37 +93,80 @@ include("entete.php");
                 <p class="subtitle is-5"> - TwitterAuthenticator :</p>
                 <p>TwitterAuthenticator est une classe qui sert à récupérer nos identifiants développeurs twitter pour seconnecter à leurs API.</p>
                 <br/>
-                <p class="subtitle is-5"> - TwitterStreamer:</p>
-                <p>TwitterStreamer permet de traiter en temps réel les tweets.</p>
+                <p class="subtitle is-5"> - FollowerAnalyzer :</p>
+                <p>Permet de récupérer et stocker des informations précises sur les followers d'un compte (ex : son nom, sa localisation, 
+                si il/elle est vérifié(e), son nombre de followers, d'ami(e)s etc)
+                </p>
             </div>
             <div class="column about-single-element-1">
-                <br/>
                 <p class="subtitle is-5"> -  TweetAnalyser :</p>
                 <p>Permet de nettoyer les tweets récupérés de tout caractères inutiles mais aussi de faire l'analyse sentimatale des tweets 
                     ainsi que la répartition dans un tableau de données des informations spécifiques récupérés par tweet. </p>
                 <br/>
                 <p class="subtitle is-5"> - TwitterListener :</p>
                 <p>TwitterListener permet quand à lui de stocker un grand nombre de tweet dans un fichier ".txt".</p>
+                <br/>
+                <p class="subtitle is-5"> - TwitterStreamer:</p>
+                <p>TwitterStreamer permet de traiter en temps réel les tweets.</p>
             </div>
           </div>
         </div>
-        <!--Part 2-->
-        <!--Part 3-->
+        <!--Part 1.2-->
+        <!--Part 1.3-->
         <div>
           <div class="columns">
             <div class="column about-single-element-1">
+              <p class="subtitle is-5"><strong> - TwitterClient</strong> :</p>
+              <p>Fonciton la plus importante du code, elle permet premièrerement en appellant <em>TwitterAuthenticator</em> de se connecter 
+              s'hautentifier auprès de twitter et via son API nous donner accès à différentes fonctionnalités.
+              Nous nous sommes donc concentrés sur l'accès à certains types de données via différentes fonctions :</p>
+              <br/>
+              <ol>
+                <li>get_user_timeline_tweets : renvoit un nombre prédéfini de tweets disponibles sur la timeline d'un utilisateur.</li>
+                <li>get_friend_list : renvoit un nombre prédéfini d'ami(e)s pour un utilisateur donné.</li>
+                <li>get_follower_list : renvoit un nombre prédéfini de followers pour un utilisateur donné.</li>
+                <li>get_home_timeline_tweets : renvoit un nombre prédéfini de tweets disponibles sur la timeline du compte utilisateur.</li>
+                <li>get_hashtag_tweets : Permet de récupérer tous les tweets qui ont un hashtag prédéfini dans leur texte.</li>
+                <li>get_other_hashtag : Permet de récupérer les mots ou hashtag les plus fréquents qui sont associés avec un hashtag prédéfini.</li>
+                <li>get_trends : Permet de récupérer les tendances par localisation (avec un code WOE_ID prédéfini).</li>
+              </ol>
+
             </div>
             <div class="column about-single-element-1">
               <center>
-                  <img src="src/img/code2.png" class="is-rounded" style="position: relative; width: 400px;">
+                  <img src="src/img/code3.png" class="is-rounded" style="position: relative; width: 400px;">
               </center>
             </div>
           </div>
         </div>
-        <!--Part 3-->
+        <!--Part 1.3-->
       </div>
     </div>
-    <!--3rd paragraphe-->
+    <!--3rd paragraph-->
+    <br/>
+    
+    <!--4th paragraph-->
+    <div class="container is-fluid">
+      <div class="notification">
+        <h2 class="title is-2">Accèder à votre demande en quelques secondes...</h2>
+        <div class="columns">
+            <div class="column about-single-element-1">
+              <p>
+              La seconde partie du développement à été de se concentrer à créer une interface permettant 
+              d'automatiser les demandes de données et via un ensemble de questions qui sont posés à l'utilisateur
+              afin ensuite de lui fournir un accès ces données et un premier traintement approprié.
+              </p>
+            </div>
+            <div class="column about-single-element-1">
+              <center>
+                
+              </center>
+            </div>
+        </div>
+      </div>
+    </div>
+
+
 
 
 <?php
