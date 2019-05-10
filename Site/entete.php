@@ -58,6 +58,7 @@
 
               <div class="navbar-dropdown">
                 <a class="navbar-item" href="travaux.php">Nos travaux</a>
+                <a class="navbar-item" href="offre.php">Nos offres</a>
                 <a class="navbar-item" href="presse.php">Presse</a>
                 <a class="navbar-item" href="contact.php">Contact</a>
                 <hr class="navbar-divider">
