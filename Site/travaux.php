@@ -19,7 +19,7 @@ include("entete.php");
     
     <div class="container is-fluid">
       <div class="notification">
-        <h1 class="title is-1">Un développement 100% python</h1>
+        <h1 class="title is-1">Une bibliothèque Python adapté</h1>
         <p>This container is <strong>fluid</strong>: it will have a 32px gap on either side, on any viewport size.</p>
       </div>
     </div>
