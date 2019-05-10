@@ -28,7 +28,7 @@ include("entete.php");
       </div>
     </div>
 
-
+    <div class="container is-fluid">
     <div class="block">
       <br/>
       <br/>
@@ -37,8 +37,11 @@ include("entete.php");
       <br/>
       <div class="container about">
         <div class="columns">
+
             <div class="column about-single-element-1">
-              <img src="src/img/reseau.jpg" class="banner-image" style="position: relative; width:500px; margin-left:5%; margin-right:5%;">
+              <center>
+              <img src="src/img/reseau.jpg" class="is-rounded" style="position: relative; width:500px;">
+            </center>
             </div>
 
             <div class="column about-single-element-1" style="text-align:justify;">
@@ -138,7 +141,9 @@ include("entete.php");
 
 
             <div class="column about-single-element-1">
-              <img src="src/img/decision.jpg" class="banner-image" style="position: relative; margin-right:10%; width:500px ; margin-left:10%; margin-top:3%;">
+              <center>
+              <img src="src/img/decision.jpg" class="banner-image" style="position: relative; margin-top:3%;">
+            </center>
             </div>
           </div>
           </div>
@@ -193,7 +198,9 @@ include("entete.php");
 
           <div class="column about-single-element-1">
             <br/>
-            <img src="src/img/logos.jpg" class="banner-image" style="position: relative; width: 350px; margin-left: 20%;">
+            <center>
+            <img src="src/img/logos.jpg" class="is-rounded" style="position: relative; width: 350px;">
+          </center>
           </div>
 
             <div class="column about-single-element-1" style="text-align:justify;">
@@ -217,10 +224,9 @@ include("entete.php");
           </p>
         </div>
 
-
-
       </div>
     </div>
+  </div>
 
     <div class="block">
       <br/>
@@ -272,6 +278,8 @@ include("entete.php");
 
       </div>
     </div>
+  </div>
+</div>
 
     <div class="block">
       <br/>
@@ -300,10 +308,13 @@ include("entete.php");
         </div>
 
         <div class="column about-single-element-1">
-          <img src="src/img/chess.jpg" class="banner-image" style="position: relative; width:500px; margin-left:5%;">
+          <center>
+          <img src="src/img/chess.jpg" class="is-rounded" style="position: relative; width:500px;">
+        </center>
         </div>
       </div>
     </div>
+  </div>
 
     <div class="block">
       <br/>
@@ -324,9 +335,9 @@ include("entete.php");
               <p>Certaines entreprises sont plus conscientes que d'autres des opportunités que leurs réservent les réseaux
                 sociaux. On distingue alors deux types d'entreprises: les data conscious et les moins avertis. </p>
 
-        </div>
+              </div>
 
-        <div class="column about-single-element-1" style="text-align:justify;">
+          <div class="column about-single-element-1" style="text-align:justify;">
         <p>Les data conscious
           sont ceux qui sont conscients de la richesse des données clients exploitables en recherche d’insights
           sur les réseaux sociaux et qui les utilisent dans leur communication, dans leur développement produit
@@ -335,7 +346,7 @@ include("entete.php");
           opportunités business s’y trouvent.
         <br/>
         </span></p>
-        <div style="text-align:center;">
+          <div style="text-align:center;">
           <br/>
         <p><span class="italique" style="font-style: italic; text-align:center;">
           "Les 20 % du budget marketing sont consacrés au suivi des réseaux sociaux. Je pense que le budget est conséquent.
@@ -345,11 +356,11 @@ include("entete.php");
         <br/>
         <p style="font-weight:bold;">Maxime Chabaud, Community and content Manager à la Cité du Vin.</p>
 
-      </div>
+        </div>
+        </div>
       </div>
     </div>
-
-
+  </div>
 
         <div class="block">
           <br/>
@@ -360,8 +371,9 @@ include("entete.php");
             <div class="columns">
                 <div class="column about-single-element-1">
                   <br/>
-                  <img src="src/img/big_data.jpg" class="banner-image" style="position: relative; width:500px; margin-left:5%;">
-
+                  <center>
+                  <img src="src/img/big_data.jpg" class="is-rounded" style="position: relative; width:500px;">
+                  </center>
                 </div>
 
                 <div class="column about-single-element-1" style="text-align:justify;">
@@ -384,6 +396,7 @@ include("entete.php");
             </div>
           </div>
         </div>
+      </div>
 
         <div class="block">
           <br/>
@@ -438,7 +451,6 @@ include("entete.php");
               </div>
             </div>
           </div>
-        </div>
 
 
         <div class="block">
@@ -464,12 +476,15 @@ include("entete.php");
               </div>
 
               <div class="column about-single-element-1">
-                <img src="src/img/question.jpg" class="is-rounded" style="position: relative; width:450px; margin-left:10%; margin-right:10%;">
+                <center>
+                <img src="src/img/question.jpg" class="is-rounded" style="position: relative; width:450px;">
+              </center>
               </div>
 
 
           </div>
         </div>
+      </div>
 
         <div class="block">
           <br/>
@@ -515,7 +530,7 @@ include("entete.php");
               </div>
             </div>
           </div>
-        </div>
+
 
         <div class="block">
           <br/>
@@ -525,7 +540,9 @@ include("entete.php");
           <div class="container about">
             <div class="columns">
               <div class="column about-single-element-1">
-                <img src="src/img/open2.jpg" class="is-rounded" style="position: relative; width:500px; margin-left:5%; margin-right:5%;">
+                <center>
+                <img src="src/img/open2.jpg" class="is-rounded" style="position: relative; width:500px;">
+              </center>
               </div>
 
               <div class="column about-single-element-1" style="text-align:justify;">
@@ -544,6 +561,7 @@ include("entete.php");
               </div>
           </div>
         </div>
+      </div>
 
 
         <div class="block">
@@ -582,7 +600,7 @@ include("entete.php");
               </div>
             </div>
           </div>
-        </div>
+
 
 
 
@@ -609,7 +627,9 @@ include("entete.php");
               </div>
 
               <div class="column about-single-element-1">
-                <img src="src/img/network.jpg" class="is-rounded" style="position: relative; width:500px; height:300px; margin-left:10%; margin-right:10%;">
+                <center>
+                <img src="src/img/network.jpg" class="is-rounded" style="position: relative; width:500px; height:300px;">
+              </center>
               </div>
 
           </div>
@@ -669,10 +689,11 @@ include("entete.php");
           <div class="columns">
 
             <div class="column about-single-element-1">
+              <center>
               <img src="src/img/linkfluence.jpg" class="is-rounded" style="position: relative; width:300px; margin-left:5%; margin-right:5%;">
               <br/>
               <img src="src/img/talkwalker.jpg" class="is-rounded" style="position: relative; width:300px; margin-left:35%; margin-right:5%;">
-
+            </center>
             </div>
 
             <div class="column about-single-element-1" style="text-align:justify;">
@@ -690,6 +711,7 @@ include("entete.php");
 
         </div>
       </div>
+    </div>
 
       <div class="block">
         <br/>
@@ -742,6 +764,7 @@ include("entete.php");
         </div>
       </div>
 
+
       <div class="container">
         <div>
           <br/>
@@ -773,13 +796,17 @@ include("entete.php");
 
             <div class="column about-single-element-1" style="text-align:justify; ">
               <div>
-                <img src="src/img/network.jpg" class="is-rounded" style="position: relative; width:500px; height:300px; margin-left:10%; margin-right:10%;">
+                <center>
+                <img src="src/img/network.jpg" class="is-rounded" style="position: relative; width:500px; height:300px;">
+              </center>
             </div>
             </div>
 
           </div>
         </div>
       </div>
+
+    </div>
 
 
 <?php
