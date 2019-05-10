@@ -47,6 +47,7 @@ include("entete.php");
 </div>
 
 <br/>
+<br/>
 <div class="container is-fluid">
   <div class="notification">
     <div class="block">
@@ -73,6 +74,7 @@ include("entete.php");
 </div>
 
 <br/>
+<br/>
 <div class="container is-fluid">
   <div class="notification">
     <div class="block">
@@ -82,12 +84,15 @@ include("entete.php");
 
         <div class="column about-single-element-1" style="text-align:center; top:50%;">
           <h2 class="subtitle heading-site-1" style= "margin-left: 5%; font-size: 30px;">Pie2Eat étudie les hashtags les plus intéressants</h2>
+            <p>Pie2Eat étudie tous les tweets où un hashtag intéressant pour vous a
+              été mentionné (exemple #votremarque) et étudie leur efficacité avec l'évolution du nombre
+              de likes et retweets.</p>
             <p>Si vous avez créé un hashtag intéressant, Pie2Eat identifie pour vous les tweets dans lesquels ce hashtag a été retrouvé.</p>
         </div>
 
         <div class="column about-single-element-1" style="text-align:justify; ">
             <center>
-
+              <img src="src/img/boeing-likes.jpg" class="is-rounded" style="position: relative;">
           </center>
       </div>
         </div>
@@ -96,6 +101,7 @@ include("entete.php");
   </div>
 </div>
 
+<br/>
 <br/>
 <div class="container is-fluid">
   <div class="notification">
@@ -106,7 +112,7 @@ include("entete.php");
 
         <div class="column about-single-element-1" style="text-align:justify; ">
             <center>
-
+              <img src="src/img/hashtag-boeing.jpg" class="is-rounded" style="position: relative;">
           </center>
       </div>
 
@@ -123,6 +129,7 @@ include("entete.php");
   </div>
 </div>
 
+<br/>
 <br/>
 <div class="container is-fluid">
   <div class="notification">
@@ -142,9 +149,9 @@ include("entete.php");
             <p>Avec l’analyse du « best list » vous pouvez repérer des influenceurs parmi
               vos followers: ceux qui ont le plus de followers, tweets.. </p>
         </div>
-        <div class="column about-single-element-1" style="text-align:justify; ">
+        <div class="column about-single-element-1" style="text-align:justify; margin-top:10%;">
             <center>
-
+              <img src="src/img/followers1.jpg" class="is-rounded" style="position: relative;">
           </center>
         </div>
 
@@ -155,6 +162,7 @@ include("entete.php");
 </div>
 
 <br/>
+<br/>
 <div class="container is-fluid">
   <div class="notification">
     <div class="block">
@@ -163,7 +171,8 @@ include("entete.php");
       <div class="columns">
         <div class="column about-single-element-1" style="text-align:justify; ">
             <center>
-
+              <br/>
+              <img src="src/img/trends.jpg" class="is-rounded" style="position: relative;">
           </center>
         </div>
         <div class="column about-single-element-1" style="text-align:center; top:50%;">
