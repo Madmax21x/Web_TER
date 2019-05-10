@@ -35,7 +35,7 @@ include("entete.php");
 
         <div class="column about-single-element-1" style="text-align:justify; ">
           <div>
-            <a href="src/img/pie_plot.html"></a>
+            <a href="src/img/pie_plot.png" class="is-rounded" style="position: relative; width:500px; height:300px;">
         </div>
         </div>
       </div>
