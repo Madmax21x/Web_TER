@@ -18,7 +18,7 @@ include("entete.php");
     <br/>
     <div class="container about">
       <div class="columns">
-        <div class="column about-single-element-1" style="text-align:center; ">
+        <div class="column about-single-element-1" style="text-align:center; top:50%;">
           <h2 class="subtitle heading-site-1" style= "margin-left: 5%; font-size: 30px;">Pie2Eat fait l'étude de votre e-réputation</h2>
           <div>
             <p> Pie2Eat vous aide à soigner votre e-réputation en identifiant les
@@ -35,7 +35,9 @@ include("entete.php");
 
         <div class="column about-single-element-1" style="text-align:justify; ">
           <div>
-            <a href="src/img/pie_plot.png" class="is-rounded" style="position: relative; width:500px; height:300px;">
+            <center>
+            <img src="src/img/pie_plot.png" class="is-rounded" style="position: relative;">
+          </center>
         </div>
         </div>
       </div>
