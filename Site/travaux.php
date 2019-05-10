@@ -229,14 +229,14 @@ include("entete.php");
             </p>
             <br/>
             <p>
-              Pour commencer, nous utilisons une version amélioré de <strong>TwitterClient </strong>vue précèdement qui s'occupe ici
-              précisément de récupéer un grand nombre de tweet (1000 ici) pour un certain mot clée (Boeing ici).
+              Pour commencer, nous utilisons une version améliorée de <strong>TwitterClient </strong>vue précèdement qui s'occupe ici
+              précisément de récupéer un grand nombre de tweets (1000 ici) pour un certain mot clé (Boeing ici).
             </p>
             <br/>
-            <p>Toute ces données sont sotckées pour ensuite être traité par une seconde partie via
-              <strong>analyse_tweet</strong> qui permet de nettoyé les tweets, faire une analyse sentimentale tu texte,
+            <p>Toutes ces données sont stockées pour ensuite être traitées par une seconde partie via
+              <strong>analyse_tweet</strong> qui permet de nettoyer les tweets, faire une analyse sentimentale du texte,
               générer un diagramme circulaire de sentiments, générer un wordcloud des mots les plus fréquents dans cet
-              ensemble de tweets et enfin d'afficher cette fréquence de mots sous al forme d'un diagramme en baton.
+              ensemble de tweets et enfin d'afficher cette fréquence de mots sous la forme d'un diagramme en baton.
             </p>
           </div>
           <div class="column about-single-element-1">
