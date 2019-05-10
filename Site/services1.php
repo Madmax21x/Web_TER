@@ -677,7 +677,7 @@ include("entete.php");
               <center>
               <img src="src/img/linkfluence.jpg" class="is-rounded" style="position: relative; width:300px; margin-left:5%; margin-right:5%;">
               <br/>
-              <img src="src/img/talkwalker.jpg" class="is-rounded" style="position: relative; width:300px; margin-left:35%; margin-right:5%;">
+              <img src="src/img/talkwalker.jpg" class="is-rounded" style="position: relative; width:300px; margin-left:30%; margin-right:5%;">
               </center>
             </div>
 
