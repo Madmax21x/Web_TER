@@ -46,7 +46,33 @@ include("entete.php");
         </div>
       </div>
     </div>
+    <br/>
+    <br/>
+    <br/>
 
+    <div class="container is-fluid">
+      <div class="notification is-white">
+        <br/>
+        <br/>
+        <div style="margin-left:15%; margin-right:15%; margin-bottom:10%; text-align:center;">
+      <p>Ce site a été créé dans le cadre du TER (Travaux encadrés de recherche) au cours
+        de la Licence 3 MIASHS (Mathématiques et Informatique appliquées aux sciences humaines et sociales).</p>
+        <br/>
+      <h1 class="title is-2" style="color:#7f8c8d; text-align: center; margin-top: 5%; ">Sujet</h1>
+      <p>Les APIs des réseaux sociaux: nouveaux outils de gestion</p>
+
+
+        <h1 class="title is-2" style="color:#7f8c8d; text-align: center; margin-top: 5%; ">Tuteurs</h1>
+        <p>Michel Nefti et Christophe Schlick</p>
+
+        <h1 class="title is-2" style="color:#7f8c8d; text-align: center; margin-top: 5%; ">Etudiants</h1>
+        <p>Charles Defontaine, Maxence Mazurier et Julietta Andreasyan</p>
+
+     </div>
+
+
+      </div>
+    </div>
     <!-- Contact -->
 
 <?php
