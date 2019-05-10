@@ -5,9 +5,13 @@ include("entete.php");
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
     <div class ="block" >
       <div class="banner" >
-          <img src="src/img/bg10.jpg" class="banner-image" style="position: relative;">
+          <img src="src/img/power.jpg" class="banner-image" style="position: relative;">
           <div class="banner-content-1" style="position: absolute; top: 25%; left: 5%;" >
               <h1 class="subtitle" style="color:#FFFFFF; font-size: 60px;">Découvrez nos ressources!</h1>
+          </div>
+          <div class="banner-content-1" style="position: absolute; bottom: 2%; left: 30%;" >
+              <h1 class="subtitle" style="color:#FFFFFF; font-size: 60px;">Un développement 100% Python</h1>
+          </div>
       </div>
     </div>
 
