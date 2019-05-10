@@ -103,8 +103,10 @@ include("entete.php");
               </div>
             <div class="column about-single-element">
               <i class="fab fa-twitter icon"></i>
-              <p>Utilisation des APIs de twitter</p>
+              <p>Utilisation des APIs de Twitter</p>
             </div>
+          <br/>
+          <br/>
         </div>
       </div>
     </div>
