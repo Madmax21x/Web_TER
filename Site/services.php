@@ -35,7 +35,7 @@ include("entete.php");
       <br/>
       <h2 id="reseaux" class="subtitle heading-site-1" style= "margin-left: 10%; font-size: 30px;">Les réseaux sociaux et les consommateurs</h2>
       <br/>
-      <div class="container about">
+      <div class="container is-fluid">
         <div class="columns">
 
             <div class="column about-single-element-1">
@@ -43,8 +43,7 @@ include("entete.php");
               <img src="src/img/reseau.jpg" class="is-rounded" style="position: relative; width:500px;">
             </center>
             </div>
-
-            <div class="column about-single-element-1" style="text-align:justify;">
+            <div class="column about-single-element-1" style="text-align:justify; margin-left:5%; margin-right:5%;">
               <p>L’émergence et la multiplication des réseaux sociaux ont révolutionné notre
                 manière de partager, dénoncer, nous exprimer, informer… Les individus partagent
                 de plus en plus leurs quotidiens, leurs centres d'intérêts, leurs émotions, leurs valeurs,
@@ -64,7 +63,7 @@ include("entete.php");
     <div class="block">
       <br/>
       <br/>
-      <div class="container about">
+      <div class="container is-fluid">
         <div class="columns">
             <div class="column about-single-element-1" style="text-align:justify;">
               <p> La communication se fait
@@ -117,7 +116,7 @@ include("entete.php");
       <br/>
       <h2 id="conso" class="subtitle heading-site-1" style= "margin-left: 10%; font-size: 30px;">Le comportement et le choix du consommateur</h2>
       <br/>
-      <div class="container about">
+      <div class="container is-fluid">
         <div class="columns">
             <div class="column about-single-element-1" style="text-align:justify;">
               <p>Il est intéressant d'étudier le comportement du consommateur. <span style="font-weight:bold;">Herbert Simon</span>,
@@ -137,7 +136,7 @@ include("entete.php");
               apparaissent grossièrement similaires et qui s’étaient révélées satisfaisantes. Mais si la
               situation apparaît différente, il va chercher une solution nouvelle.</p>
 
-    </div>
+            </div>
 
 
             <div class="column about-single-element-1">
@@ -146,13 +145,13 @@ include("entete.php");
             </center>
             </div>
           </div>
-          </div>
-          </div>
+        </div>
+      </div>
 
         <div class="block">
           <br/>
           <br/>
-          <div class="container about">
+          <div class="container is-fluid">
             <div class="columns">
                 <div class="column about-single-element-1" style="text-align:justify;">
                   <p> La communication se fait
@@ -199,39 +198,12 @@ include("entete.php");
           </div>
         </div>
 
-        <div class="block">
-          <br/>
-          <br/>
-          <br/>
-          <h2 id="conso" class="subtitle heading-site-1" style= "margin-left: 10%; font-size: 30px;">Le comportement et le choix du consommateur</h2>
-          <br/>
-          <div class="container about">
-            <div class="columns">
-                <div class="column about-single-element-1" style="text-align:justify;">
-                  <p>Il est intéressant d'étudier le comportement du consommateur. <span style="font-weight:bold;">Herbert Simon</span>,
-                    un économiste et sociologue américain a étudié la manière dont les individus prennent
-                    leurs décisions.
-                    Les individus sont rationnels, c’est-à-dire qu’ils ont des buts et agissent
-                    en fonction de leur réalisation. Or cette rationalité n’est pas absolue, elle
-                    est limitée. Cette notion de rationalité limitée montre que
-                    les individus ne sont pas capables de traiter l'ensemble des informations à leur
-                    disposition et qu’ils prennent leurs décisions en fonction des buts qu’ils visent
-                    et de leur environnement. Ces buts sont souvent concrets, à court terme et influencent leur
-                    comportement et leurs stratégies. <p/>
-                <p> Dans la plupart des cas, confronté à un choix, l’individu construit un modèle simplifié
-                  de la réalité, une définition de la situation à son échelle et avec ses moyens. Celle-ci
-                  est d’abord essentiellement fondée sur son expérience passée. Souvent il se replie sur
-                  des solutions déjà utilisées dans des circonstances qui lui
-                  apparaissent grossièrement similaires et qui s’étaient révélées satisfaisantes. Mais si la
-                  situation apparaît différente, il va chercher une solution nouvelle.</p>
-
-
     <div class="block">
       <br/>
       <br/>
       <h2 id="e_reputation" class="subtitle heading-site-1" style= "margin-left: 10%; font-size: 30px;">L'e-réputation à travers les réseaux sociaux</h2>
       <br/>
-      <div class="container about">
+      <div class="container is-fluid">
         <div class="columns">
 
           <div class="column about-single-element-1">
@@ -269,7 +241,7 @@ include("entete.php");
     <div class="block">
       <br/>
       <br/>
-      <div class="container about">
+      <div class="container is-fluid">
         <div class="columns">
 
             <div class="column about-single-element-1" style="text-align:center;">
@@ -324,7 +296,7 @@ include("entete.php");
       <br/>
       <h2 id="strategy" class="subtitle heading-site-1" style= "margin-left: 5%; font-size: 30px;">L'e-réputation dans la stratégie des entreprises</h2>
       <br/>
-      <div class="container about">
+      <div class="container is-fluid">
         <div class="columns">
 
 
@@ -357,7 +329,7 @@ include("entete.php");
     <div class="block">
       <br/>
       <br/>
-      <div class="container about">
+      <div class="container is-fluid">
         <div class="columns">
             <div class="column about-single-element-1" style="text-align:justify;">
                 <p>Les internautes sont libres de partager leurs avis et leurs opinions sur les
@@ -413,7 +385,7 @@ include("entete.php");
           <br/>
           <h2 id="e_reputation" class="subtitle heading-site-1" style= "margin-left: 10%; font-size: 30px;">L'e-réputation à travers les réseaux sociaux</h2>
           <br/>
-          <div class="container about">
+          <div class="container is-fluid">
             <div class="columns">
                 <div class="column about-single-element-1">
                   <br/>
@@ -452,7 +424,7 @@ include("entete.php");
         <div class="block">
           <br/>
           <br/>
-          <div class="container about">
+          <div class="container is-fluid">
             <div class="columns">
 
                 <div class="column about-single-element-1" style="text-align:center;">
@@ -504,7 +476,7 @@ include("entete.php");
           <br/>
           <h2 id="strategy" class="subtitle heading-site-1" style= "margin-left: 5%; font-size: 30px;">L'e-réputation dans la stratégie des entreprises</h2>
           <br/>
-          <div class="container about">
+          <div class="container is-fluid">
             <div class="columns">
 
 
@@ -526,7 +498,7 @@ include("entete.php");
         <div class="block">
           <br/>
           <br/>
-          <div class="container about">
+          <div class="container is-fluid">
             <div class="columns">
                 <div class="column about-single-element-1" style="text-align:justify;">
                     <p>Les internautes sont libres de partager leurs avis et leurs opinions sur les
@@ -574,7 +546,7 @@ include("entete.php");
             <br/>
             <h2 class="subtitle heading-site-1" style= "margin-left: 5%; font-size: 30px;">Le Social Data et les réseaux sociaux</h2>
             <br/>
-            <div class="container about">
+            <div class="container is-fluid">
               <div class="columns">
                   <div class="column about-single-element-1">
                     <br/>
@@ -606,7 +578,7 @@ include("entete.php");
           <div class="block">
             <br/>
             <br/>
-            <div class="container about">
+            <div class="container is-fluid">
               <div class="columns">
                   <div class="column about-single-element-1" style="text-align:justify;">
                   <p>L'analyse du Social data permet également aux entreprises de cibler les personnes
@@ -664,7 +636,7 @@ include("entete.php");
           <br/>
           <h2 class="subtitle heading-site-1" style= "margin-left: 5%; font-size: 30px;">Les APIs: ouvertes ou fermées</h2>
           <br/>
-          <div class="container about">
+          <div class="container is-fluid">
             <div class="columns">
               <div class="column about-single-element-1">
                 <center>
@@ -679,7 +651,7 @@ include("entete.php");
             <br/>
             <h2 class="subtitle heading-site-1" style= "margin-left: 5%; font-size: 30px;">Les APIs: ouvertes ou fermées</h2>
             <br/>
-            <div class="container about">
+            <div class="container is-fluid">
               <div class="columns">
                 <div class="column about-single-element-1">
                   <img src="src/img/open2.jpg" class="is-rounded" style="position: relative; width:500px; margin-left:5%; margin-right:5%;">
@@ -706,7 +678,7 @@ include("entete.php");
           <div class="block">
             <br/>
             <br/>
-            <div class="container about">
+            <div class="container is-fluid">
               <div class="columns">
                   <div class="column about-single-element-1" style="text-align:justify;">
                     <p>On distingue les APIs fermées des APIs ouvertes. Les APIs fermées permettent le
@@ -750,7 +722,7 @@ include("entete.php");
             <br/>
             <h2 class="subtitle heading-site-1" style= "margin-left: 5%; font-size: 30px;">Les APIs des réseaux sociaux</h2>
             <br/>
-            <div class="container about">
+            <div class="container is-fluid">
               <div class="columns">
 
                 <div class="column about-single-element-1" style="text-align:justify;">
@@ -777,7 +749,7 @@ include("entete.php");
 
         <div class="block">
           <br/>
-          <div class="container about">
+          <div class="container is-fluid">
             <div class="columns">
                 <div class="column about-single-element-1" style="text-align:justify;">
                   <p>Twitter, par exemple, continue à donner accès à différentes versions de son API. Certaines
@@ -824,7 +796,7 @@ include("entete.php");
           <br/>
           <h2 class="subtitle heading-site-1" style= "margin-left: 5%; font-size: 30px;">Linkfluence et Talkwalker</h2>
           <br/>
-          <div class="container about">
+          <div class="container is-fluid">
             <div class="columns">
 
               <div class="column about-single-element-1">
@@ -889,7 +861,7 @@ include("entete.php");
           </div>
         </div>
 
-        <div class="container">
+        <div class="container is-fluid">
           <div>
             <br/>
             <h1 id="services" class="title is-1" style="color:#718093; text-align: center; margin-top: 7%; "><i class="fas fa-question-circle"></i> Quels sont les services que nous vous proposons?</h1>
@@ -897,13 +869,13 @@ include("entete.php");
         </div>
 
 
-      <div class="container">
+      <div class="container is-fluid">
         <div>
           <br/>
           <br/>
           <br/>
           <br/>
-          <div class="container about">
+          <div class="container is-fluid">
             <div class="columns">
               <div class="column about-single-element-1" style="text-align:center; ">
                 <h2 class="subtitle heading-site-1" style= "margin-left: 5%; font-size: 30px;">Pie2Eat fait l'étude de votre e-réputation</h2>
