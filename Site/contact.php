@@ -75,7 +75,7 @@ include("entete.php");
         <p>Nous remercions Maxime Chabaud (Community and content Manager à la Cité du Vin),
           Timothée Binet (Développeur SI & Multimédia à la Cité du Vin) et Loïc Graniczny
           (Chargé de projet web & digital à l'Office de Tourisme à Bordeaux) d'avoir accepté de nous accorder de leur temps
-          et d'être interviewé. Nous remercions Romain Damian (Data Scientist chez Liegey Muller Pons à Paris) d'avoir répondu
+          et d'être interviewés. Nous remercions Romain Damian (Data Scientist chez Liegey Muller Pons à Paris) d'avoir répondu
           à nos questions.
        </p>
        <p>Nous remercions également tous les professeurs de la licence qui nous ont permis tout au long du cursus d'acquérir des connaissances
