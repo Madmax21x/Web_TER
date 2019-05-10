@@ -12,15 +12,6 @@ include("entete.php");
       </div>
     </div>
 
-    <!-- <div class="container">
-      <div style="font-size: 20px;">
-        <p><a href="#reseaux" style="text-decoration:none; color: #636e72;"><i class="far fa-lightbulb-on icon" style="font-size: 60px; margin-left:10%;margin-top:7%;"></i>
-          Pourquoi s'intéresser aux réseaux sociaux?</p></a>
-          <p><a href="#" style="text-decoration:none; color: #636e72;"><i class="far fa-lightbulb-on icon" style="font-size: 60px; margin-left:10%;"></i>
-            Quels sont les services que nous vous proposons?</p></a>
-      </div>
-    </div> -->
-
     <div class="container">
       <div>
         <br/>
