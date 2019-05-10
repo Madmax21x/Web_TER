@@ -62,7 +62,7 @@ include("entete.php");
         <h1 class="title is-1 has-text-centered">Un développement en 3 parties</h1>
       </div>
       <div class="notification">
-        <!--Part 1.1-->
+        <!--Part 3.1-->
         <h2 class="title is-2">Un code multifonction</h2>
         <div class="columns">
           <div class="column about-single-element-1">
@@ -78,8 +78,8 @@ include("entete.php");
             </center>
           </div>
         </div>
-        <!--Part 1.1-->
-        <!--Part 1.2-->
+        <!--Part 3.1-->
+        <!--Part 3.2-->
         <div>
           <div class="columns">
             <div class="column about-single-element-1">
@@ -111,8 +111,8 @@ include("entete.php");
             </div>
           </div>
         </div>
-        <!--Part 1.2-->
-        <!--Part 1.3-->
+        <!--Part 3.2-->
+        <!--Part 3.3-->
         <div>
           <div class="columns">
             <div class="column about-single-element-1">
@@ -139,7 +139,7 @@ include("entete.php");
             </div>
           </div>
         </div>
-        <!--Part 1.3-->
+        <!--Part 3.3-->
       </div>
     </div>
     <!--3rd paragraph-->
@@ -200,11 +200,46 @@ include("entete.php");
               <center>
                 <img src="src/img/testcode_3.png" class="is-rounded" style="position: relative;">
               </center>
-            </div>
+          </div>
+        <div>
+          <p>Ici il est par exemple intéressant de s'intéresser au pic autour de la date du 15 avril 2019.</p>
+          <p>Après quelques recherches il est facile de trouver qu'il sagit d'un tweet posté lors de l'incendie
+            de notre Dame.</p>
+          <p><strong>Le tweet en question :</strong></p>
+        </div>
+        <div class="column about-single-element-1">
+          <center>
+            <img src="src/img/testcode_4.png" class="is-rounded" style="position: relative;width: 600px;">
+          </center>
+        </div>
 
-       
       </div>
     </div>
+    <!--4th paragraph-->
+    <br/>
+
+    <!--5 paragraph-->
+    <div class="container is-fluid">
+      <div class="notification">
+        <h2 class="title is-2">Big Data, Stockage & Analyse</h2>
+        <div class="columns">
+          <div class="column about-single-element-1">
+            <p>La 3ème et dernière partie concèrne le traitement massif de données quantitatives, son stockage dans 
+              un fichier xlsx et enfin son traitement.
+            </p>
+          </div>
+          <div class="column about-single-element-1">
+            <center>
+              <img src="src/img/credencials_img.png" class="is-rounded" style="position: relative; width: 300px;">
+            </center>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!--5 paragraph-->
+
+
+
 
 
 
