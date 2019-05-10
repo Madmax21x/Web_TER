@@ -59,6 +59,8 @@ include("entete.php");
         </div>
       </div>
     </div>
+  </div>
+</div>
 
     <div class="block">
       <br/>
@@ -108,7 +110,7 @@ include("entete.php");
           </div>
         </div>
       </div>
-    </div>
+
 
     <div class="block">
       <br/>
@@ -196,7 +198,7 @@ include("entete.php");
               </div>
             </div>
           </div>
-        </div>
+
 
     <div class="block">
       <br/>
@@ -448,7 +450,7 @@ include("entete.php");
                   <p style="font-weight:bold;">Maxime Chabaud, Community and content Manager à la Cité du Vin.</p>
 
 
-            </div>
+                </div>
 
             <div class="column about-single-element-1" style="text-align:center;">
               <p> <span class="italique" style="font-style: italic; text-align:center;">
@@ -470,6 +472,9 @@ include("entete.php");
                 <p style="font-weight:bold;">Loïc Graniczny, Chargé de projet web & digital à l'Office de Tourisme à Bordeaux</p>
 
           </div>
+        </div>
+      </div>
+    </div>
 
         <div class="block">
           <br/>
@@ -488,10 +493,6 @@ include("entete.php");
 
             </div>
 
-            <div class="column about-single-element-1">
-              <img src="src/img/chess.jpg" class="banner-image" style="position: relative; width:500px; margin-left:5%;">
-            </div>
-          </div>
         </div>
       </div>
 
