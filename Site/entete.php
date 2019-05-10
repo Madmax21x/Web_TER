@@ -19,8 +19,8 @@
     <!-- Font -->
 
     <!-- meta SEO -->
-    <meta name='description' content='Description de votre site'>
-    <meta name="keywords" content="webdesign, webdeveloppeur">
+    <meta name='description' content='Site de la sartup Pie2Eat sur les API des réseaux sociaux.'>
+    <meta name="keywords" content="API, twitter, e-reputation, data">
     <!-- meta SEO -->
     <script src="src/js/main.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
