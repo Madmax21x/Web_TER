@@ -150,19 +150,59 @@ include("entete.php");
       <div class="notification">
         <h2 class="title is-2">Accèder à votre demande en quelques secondes...</h2>
         <div class="columns">
+          <div class="column about-single-element-1">
+            <p>
+            La seconde partie du développement à été de se concentrer à créer une interface permettant 
+            d'automatiser les demandes de données et via un ensemble de questions qui sont posés à l'utilisateur
+            afin ensuite de lui fournir un accès ces données et un premier traintement approprié.
+            </p>
+            <br/>
+            <p>
+            <strong>Exemple :</strong> Ici on test avec le compte <em>'EmmanuelMacron'</em>, on précise la langue 
+            (fr), le nombre de tweets qu'on veut récupérer sur sa timeline (ici 300), le nombre de tweet que l'on 
+            souhaite voir dans un tableau avec les données récupérées (ici 10).
+            </p>
+            <br/>
+            <p>Nous obtenons certaines statistiques comme la longueur moyenne des tweets de Mr Macron, le nombre 
+            de likes en moyenne, ainsi que le nombre moyen de retweet.
+            </p>
+          </div>
+          <div class="column about-single-element-1">
+            <center>
+              <img src="src/img/testcode_1.png" class="is-rounded" style="position: relative; width: 500px;">
+            </center>
+          </div>
+        </div>
+        <div class="columns">
             <div class="column about-single-element-1">
+              <br/>
+              <p class="subtitle is-5">- Analyse de sentiments -</p>
               <p>
-              La seconde partie du développement à été de se concentrer à créer une interface permettant 
-              d'automatiser les demandes de données et via un ensemble de questions qui sont posés à l'utilisateur
-              afin ensuite de lui fournir un accès ces données et un premier traintement approprié.
+                Nous pouvons ensuite choisir d'afficher un diagramme circulaire des sentiments des tweets de Mr Macron :
+              </p>
+              <br/>
+              <br/>
+              <p class="subtitle is-5">- Graphique like / retweets en fonction du temps -</p>
+              <p>
+              Enfin, nous pouvons choisir d'afficher un graphique de l'évolution des ses likes et retweets au cours de 
+              ses derniers 300 tweets.
               </p>
             </div>
             <div class="column about-single-element-1">
               <center>
-                
+                <figure class="is-320x320"">
+                  <img src="src/img/testcode_2.png" class="is-rounded" style="position: relative; width: 400px;">
+                </figure>
               </center>
             </div>
-        </div>
+          </div>
+          <div class="column about-single-element-1">
+              <center>
+                <img src="src/img/testcode_3.png" class="is-rounded" style="position: relative;">
+              </center>
+            </div>
+
+       
       </div>
     </div>
 
