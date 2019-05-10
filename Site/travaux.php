@@ -66,6 +66,7 @@ include("entete.php");
         <h1 class="title is-1 has-text-centered">Un développement en 3 parties</h1>
       </div>
       <div class="notification">
+        <!--Part 1-->
         <h2 class="title is-2">Un code multifonction</h2>
         <div class="columns">
           <div class="column about-single-element-1">
@@ -81,6 +82,8 @@ include("entete.php");
             </center>
           </div>
         </div>
+        <!--Part 1-->
+        <!--Part 2-->
         <div>
           <div class="columns">
             <div class="column about-single-element-1">
@@ -92,9 +95,35 @@ include("entete.php");
                 <h3 class="subtitle is-3">Différentes classes pour différents usages :</h3>
                 <p class="subtitle is-5"> - TwitterAuthenticator :</p>
                 <p>TwitterAuthenticator est une classe qui sert à récupérer nos identifiants développeurs twitter pour seconnecter à leurs API.</p>
+                <br/>
+                <p class="subtitle is-5"> - TwitterStreamer:</p>
+                <p>TwitterStreamer permet de traiter en temps réel les tweets.</p>
+            </div>
+            <div class="column about-single-element-1">
+                <br/>
+                <p class="subtitle is-5"> -  TweetAnalyser :</p>
+                <p>Permet de nettoyer les tweets récupérés de tout caractères inutiles mais aussi de faire l'analyse sentimatale des tweets 
+                    ainsi que la répartition dans un tableau de données des informations spécifiques récupérés par tweet. </p>
+                <br/>
+                <p class="subtitle is-5"> - TwitterListener :</p>
+                <p>TwitterListener permet quand à lui de stocker un grand nombre de tweet dans un fichier ".txt".</p>
             </div>
           </div>
         </div>
+        <!--Part 2-->
+        <!--Part 3-->
+        <div>
+          <div class="columns">
+            <div class="column about-single-element-1">
+            </div>
+            <div class="column about-single-element-1">
+              <center>
+                  <img src="src/img/code2.png" class="is-rounded" style="position: relative; width: 400px;">
+              </center>
+            </div>
+          </div>
+        </div>
+        <!--Part 3-->
       </div>
     </div>
     <!--3rd paragraphe-->
