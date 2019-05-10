@@ -12,50 +12,50 @@ include("entete.php");
     <!--1st paragraphe-->
     <div class="container is-fluid">
       <div class="notification">
-        <h1 class="title is-1">Une bibliothèque Python adapté : Tweepy </h1>
+        <h1 class="title is-1">Une bibliothèque Python adaptée: Tweepy </h1>
         <p>La bibliothèque<strong> Tweepy </strong> fut le choix adapté pour nous permettre de coder un outil
-        performant et en toute simplicité et ce pour plusieurs raisons : 
+        performant et en toute simplicité et ce pour plusieurs raisons:
         </p>
         <div class="column">
           <ol>
             <li>Une documentation riche et complète :<a href="https://tweepy.readthedocs.io/en/latest/index.html">Tweepy Docs</a></a> </li>
             <li>Une expérience : Existe depuis 2013 et donc possède beaucoup de forum d'aide sur Stack Overflow</li>            </li>
-            <li>Une compatibilité REST API & Sreaming API de Twitter : Ici nous utilisons uniquement les RESTful API</li>
+            <li>Une compatibilité REST API & Sreaming API de Twitter: Ici nous utilisons uniquement les RESTful API</li>
           </ol>
         </div>
       </div>
     </div>
     <!--1st paragraph-->
     </br>
-  
+
     <!--2nd paragraph-->
     <div class="container is-fluid">
       <div class="notification">
         <h1 class="title is-1">Mais pas que... </h1>
         <p>
-          Plusieurs bibliothèques python ont sont nécesssaires au bon fonctionnement de cet outils dont voici la liste et leur dscription : 
+          Plusieurs bibliothèques Python sont nécesssaires au bon fonctionnement de cet outil dont voici la liste et la description:
         </p>
         <div class="column">
           <ol>
-            <li><strong>numpy</strong> : Pour la création de tableaux (array) </li>
+            <li><strong>numpy</strong> : Pour la création de tableaux (array). </li>
             <li><strong>pandas</strong> : Pour la création de tableaux de données (data frame) que l'on peut sauvegarder
-            dans un tableau excel pour ensuite en exploiter les données.</li>
-            <li><strong>textblob</strong> : Permet le traitement de données texte. Il fournit une API simple 
-            permettant le traitement du langage et plus particulièrement : l'analyse de sentiments. </li>
-            <li><strong>re</strong> : Regular expression operations : Permet de nettoyer les tweets des caractères inutiles. </li>
-            <li><strong>matplotlib</strong> : Permet de visualiser les données traités sous forme graphique. </li>
-            <li><strong>json</strong> : Permet de sérialiser ( inclure des données dans un flux ) </li>
+            dans un tableau Excel pour ensuite en exploiter les données.</li>
+            <li><strong>textblob</strong> : Permet le traitement de données texte. Il fournit une API simple
+            permettant le traitement du langage et plus particulièrement: l'analyse de sentiments. </li>
+            <li><strong>re</strong> : Regular expression operations: Permet de nettoyer les tweets des caractères inutiles. </li>
+            <li><strong>matplotlib</strong> : Permet de visualiser les données traitées sous forme graphique. </li>
+            <li><strong>json</strong> : Permet de sérialiser (inclure des données dans un flux). </li>
             <li><strong>collections</strong> : Avec Counter qui permet de compter des élèments.</li>
-            <li><strong>wordcloud</strong> :Permet de générer un nuage de mots de différentes tailles, qui représentent la 
+            <li><strong>wordcloud</strong> :Permet de générer un nuage de mots de différentes tailles, qui représentent la
             fréquence ou l'importance de chaque mot.</li>
-            <li><strong>plotly</strong> : Une bibliothèque qui permet de générér des graphes en ligne (similaire à matplotlib).</li>            
+            <li><strong>plotly</strong> : Une bibliothèque qui permet de générér des graphes en ligne (similaire à matplotlib).</li>
           </ol>
         </div>
       </div>
     </div>
     <!--2nd paragraph-->
     </br>
-  
+
     <!--3rd paragraph-->
     <div class="container is-fluid">
       <div class="notification">
@@ -66,11 +66,11 @@ include("entete.php");
         <h2 class="title is-2">Un code multifonction</h2>
         <div class="columns">
           <div class="column about-single-element-1">
-            <p>Nous sommes une équipe de 3 développeurs et nous avons fait le choix de coder en utilisant la plateforme github 
-              qui est une solution de contrôle de version de code très performante et largement utilisé.</p>
-            <p>L'intégralité de notre code se trouve par ailleurs sur notre <a href="https://github.com/Madmax21x/TER_twitter_API.git">github</a></p>
-            <p>La 1ère étape fut tout d'abord de récupérer les <strong>identifiants développeurs</strong> twitter permettant de se connecter à leurs API.</p>
-            <p>Ainsi nous disposons des accès de base à leurs données qui est limité, mais il est possible de payer pour avoir accès à plus de fonctionnalités.</p>
+            <p>Nous sommes une équipe de 3 développeurs et nous avons fait le choix de coder en utilisant la plateforme Github
+              qui est une solution de contrôle de versions de code très performante et largement utilisée.</p>
+            <p>L'intégralité de notre code se trouve par ailleurs sur notre <a href="https://github.com/Madmax21x/TER_twitter_API.git">Github</a></p>
+            <p>La 1ère étape fut de récupérer les <strong>identifiants développeurs</strong> twitter permettant de se connecter à leurs APIs.</p>
+            <p>Ainsi, nous disposons des accès de base à leurs données qui est limité, mais il est possible de payer pour avoir accès à plus de fonctionnalités.</p>
           </div>
           <div class="column about-single-element-1">
             <center>
@@ -89,22 +89,22 @@ include("entete.php");
               </center>
             </div>
             <div class="column about-single-element-1">
-                <h3 class="subtitle is-3">Différentes classes pour différents usages :</h3>
-                <p class="subtitle is-5"> - TwitterAuthenticator :</p>
-                <p>TwitterAuthenticator est une classe qui sert à récupérer nos identifiants développeurs twitter pour seconnecter à leurs API.</p>
+                <h3 class="subtitle is-3">Différentes classes pour différents usages:</h3>
+                <p class="subtitle is-5"> - TwitterAuthenticator:</p>
+                <p>TwitterAuthenticator est une classe qui sert à récupérer nos identifiants développeurs twitter pour se connecter à leurs APIs.</p>
                 <br/>
-                <p class="subtitle is-5"> - FollowerAnalyzer :</p>
-                <p>Permet de récupérer et stocker des informations précises sur les followers d'un compte (ex : son nom, sa localisation, 
-                si il/elle est vérifié(e), son nombre de followers, d'ami(e)s etc)
+                <p class="subtitle is-5"> - FollowerAnalyzer:</p>
+                <p>Permet de récupérer et stocker des informations précises sur les followers d'un compte (ex: son nom, sa localisation,
+                si il/elle est vérifié(e), son nombre de followers, d'ami(e)s, etc..)
                 </p>
             </div>
             <div class="column about-single-element-1">
-                <p class="subtitle is-5"> -  TweetAnalyser :</p>
-                <p>Permet de nettoyer les tweets récupérés de tout caractères inutiles mais aussi de faire l'analyse sentimatale des tweets 
-                    ainsi que la répartition dans un tableau de données des informations spécifiques récupérés par tweet. </p>
+                <p class="subtitle is-5"> -  TweetAnalyser:</p>
+                <p>Permet de nettoyer les tweets récupérés de tous caractères inutiles mais aussi de faire l'analyse sentimatale des tweets
+                    ainsi que la répartition dans un tableau de données des informations spécifiques récupérées par tweet. </p>
                 <br/>
-                <p class="subtitle is-5"> - TwitterListener :</p>
-                <p>TwitterListener permet quand à lui de stocker un grand nombre de tweet dans un fichier ".txt".</p>
+                <p class="subtitle is-5"> - TwitterListener:</p>
+                <p>TwitterListener permet quant à lui de stocker un grand nombre de tweets dans un fichier ".txt".</p>
                 <br/>
                 <p class="subtitle is-5"> - TwitterStreamer:</p>
                 <p>TwitterStreamer permet de traiter en temps réel les tweets.</p>
@@ -116,19 +116,19 @@ include("entete.php");
         <div>
           <div class="columns">
             <div class="column about-single-element-1">
-              <p class="subtitle is-5"><strong> - TwitterClient</strong> :</p>
-              <p>Fonciton la plus importante du code, elle permet premièrerement en appellant <em>TwitterAuthenticator</em> de se connecter 
-              s'hautentifier auprès de twitter et via son API nous donner accès à différentes fonctionnalités.
-              Nous nous sommes donc concentrés sur l'accès à certains types de données via différentes fonctions :</p>
+              <p class="subtitle is-5"><strong> - TwitterClient</strong>:</p>
+              <p>La fonciton la plus importante du code, elle permet premièrement, en appellant <em>TwitterAuthenticator</em> de se connecter,
+              s'authentifier auprès de Twitter et via son API nous donner accès à différentes fonctionnalités.
+              Nous nous sommes donc concentrés sur l'accès à certains types de données via différentes fonctions:</p>
               <br/>
               <ol>
-                <li>get_user_timeline_tweets : renvoit un nombre prédéfini de tweets disponibles sur la timeline d'un utilisateur.</li>
-                <li>get_friend_list : renvoit un nombre prédéfini d'ami(e)s pour un utilisateur donné.</li>
-                <li>get_follower_list : renvoit un nombre prédéfini de followers pour un utilisateur donné.</li>
-                <li>get_home_timeline_tweets : renvoit un nombre prédéfini de tweets disponibles sur la timeline du compte utilisateur.</li>
-                <li>get_hashtag_tweets : Permet de récupérer tous les tweets qui ont un hashtag prédéfini dans leur texte.</li>
-                <li>get_other_hashtag : Permet de récupérer les mots ou hashtag les plus fréquents qui sont associés avec un hashtag prédéfini.</li>
-                <li>get_trends : Permet de récupérer les tendances par localisation (avec un code WOE_ID prédéfini).</li>
+                <li>get_user_timeline_tweets: renvoit un nombre prédéfini de tweets disponibles sur la timeline d'un utilisateur.</li>
+                <li>get_friend_list: renvoit un nombre prédéfini d'ami(e)s pour un utilisateur donné.</li>
+                <li>get_follower_list: renvoit un nombre prédéfini de followers pour un utilisateur donné.</li>
+                <li>get_home_timeline_tweets: renvoit un nombre prédéfini de tweets disponibles sur la timeline du compte utilisateur.</li>
+                <li>get_hashtag_tweets: Permet de récupérer tous les tweets qui ont un hashtag prédéfini dans leurs textes.</li>
+                <li>get_other_hashtag: Permet de récupérer les mots ou hashtags les plus fréquents qui sont associés avec un hashtag prédéfini.</li>
+                <li>get_trends: Permet de récupérer les tendances par localisation (avec un code WOE_ID prédéfini).</li>
               </ol>
 
             </div>
@@ -144,7 +144,7 @@ include("entete.php");
     </div>
     <!--3rd paragraph-->
     <br/>
-    
+
     <!--4th paragraph-->
     <div class="container is-fluid">
       <div class="notification">
@@ -152,19 +152,19 @@ include("entete.php");
         <div class="columns">
           <div class="column about-single-element-1">
             <p>
-            La seconde partie du développement à été de se concentrer à créer une interface permettant 
-            d'automatiser les demandes de données et via un ensemble de questions qui sont posés à l'utilisateur
-            afin ensuite de lui fournir un accès ces données et un premier traintement approprié.
+            La seconde partie du développement a été de se concentrer à créer une interface permettant
+            d'automatiser les demandes de données et via un ensemble de questions qui sont posées à l'utilisateur
+            lui fournir un accès à ces données et un premier traitement approprié.
             </p>
             <br/>
             <p>
-            <strong>Exemple :</strong> Ici on test avec le compte <em>'EmmanuelMacron'</em>, on précise la langue 
-            (fr), le nombre de tweets qu'on veut récupérer sur sa timeline (ici 300), le nombre de tweet que l'on 
+            <strong>Exemple :</strong> Ici on teste avec le compte <em>'EmmanuelMacron'</em>, on précise la langue
+            (fr), le nombre de tweets qu'on veut récupérer sur sa timeline (ici 300), le nombre de tweet que l'on
             souhaite voir dans un tableau avec les données récupérées (ici 10).
             </p>
             <br/>
-            <p>Nous obtenons certaines statistiques comme la longueur moyenne des tweets de Mr Macron, le nombre 
-            de likes en moyenne, ainsi que le nombre moyen de retweet.
+            <p>Nous obtenons certaines statistiques comme la longueur moyenne des tweets de Mr Macron, le nombre
+            de likes en moyenne, ainsi que le nombre moyen de retweets.
             </p>
           </div>
           <div class="column about-single-element-1">
@@ -178,19 +178,19 @@ include("entete.php");
               <br/>
               <p class="subtitle is-5">- Analyse de sentiments -</p>
               <p>
-                Nous pouvons ensuite choisir d'afficher un diagramme circulaire des sentiments des tweets de Mr Macron :
+                Nous pouvons ensuite choisir d'afficher un diagramme circulaire des sentiments des tweets de Mr Macron:
               </p>
               <br/>
               <br/>
               <p class="subtitle is-5">- Graphique like / retweets en fonction du temps -</p>
               <p>
-              Enfin, nous pouvons choisir d'afficher un graphique de l'évolution des ses likes et retweets au cours de 
+              Enfin, nous pouvons choisir d'afficher un graphique de l'évolution des ses likes et retweets au cours de
               ses derniers 300 tweets.
               </p>
             </div>
             <div class="column about-single-element-1">
               <center>
-                <figure class="is-320x320"">
+                <figure class="is-320x320">
                   <img src="src/img/testcode_2.png" class="is-rounded" style="position: relative; width: 400px;">
                 </figure>
               </center>
@@ -224,44 +224,15 @@ include("entete.php");
         <h2 class="title is-2">Big Data, Stockage & Analyse</h2>
         <div class="columns">
           <div class="column about-single-element-1">
-            <p>La 3ème et dernière partie concèrne le traitement massif de données quantitatives, son stockage dans 
+            <p>La 3ème et dernière partie concèrne le traitement massif de données quantitatives, son stockage dans
               un fichier xlsx et enfin son traitement.
             </p>
-            <br/>
-            <p>
-              Pour commencer, nous utilisons une version amélioré de <strong>TwitterClient </strong>vue précèdement qui s'occupe ici
-              précisément de récupéer un grand nombre de tweet (1000 ici) pour un certain mot clée (Boeing ici).
-            </p>
-            <br/>
-            <p>Toute ces données sont sotckées pour ensuite être traité par une seconde partie via 
-              <strong>analyse_tweet</strong> qui permet de nettoyé les tweets, faire une analyse sentimentale tu texte,
-              générer un diagramme circulaire de sentiments, générer un wordcloud des mots les plus fréquents dans cet 
-              ensemble de tweets et enfin d'afficher cette fréquence de mots sous al forme d'un diagramme en baton.
-            </p>
           </div>
           <div class="column about-single-element-1">
             <center>
-              <img src="src/img/bigdata1.png" class="is-rounded" style="position: relative; width: 600px;">
+              <img src="src/img/credencials_img.png" class="is-rounded" style="position: relative; width: 300px;">
             </center>
           </div>
-        </div>
-        <div class="columns">
-          <div class="column about-single-element-1">
-            <center>
-                <img src="src/img/pie_plot.jpg" class="is-rounded" style="position: relative; width: 360px;">
-            </center>
-          </div>
-          <br/>
-          <div class="column about-single-element-1">
-            <center>
-                <img src="src/img/Boeing_wordcloud.png" class="is-rounded" style="position: relative; width: 460px;">
-            </center>
-          </div>
-        </div>
-        <div class="column about-single-element-1">
-          <center>
-              <img src="src/img/word_frequency.png" class="is-rounded" style="position: relative; width: 800px;">
-          </center>
         </div>
       </div>
     </div>

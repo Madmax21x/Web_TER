@@ -11,7 +11,16 @@ include("entete.php");
       </div>
     </div>
 
+    <br/>
+    <br/>
+    <div class="container is-fluid">
+      <div class="notification">
 
+        <center>
+        <h1 class="title is-3">Vous trouverez ici les sources de notre travail</h1>
+      </center>
+      </div>
+    </div>
     <br/>
     <br/>
     <br/>
@@ -168,7 +177,7 @@ include("entete.php");
           <div class="card notification is-light">
             <div class="card-content">
               <p class="title">
-                C’est quoi une API ?
+                C’est quoi une API?
               </p>
               <p class="subtitle">
                 By Rémi Mercier
