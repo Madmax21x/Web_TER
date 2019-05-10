@@ -8,7 +8,7 @@
 
   <!-- body -->
   <center>
-    <footer style="bottom: 0; margin-bottom:0; position: relative; margin-top: 30px;">
+    <footer style="bottom: 0; margin-bottom:0; position: relative; margin-top: 100px;">
     <div class="footer-informations" style="margin-bottom: 100px;">
       <p> Université de Bordeaux</p>
       <p> 33 076 Bordeaux CEDEX</p>
