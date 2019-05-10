@@ -26,7 +26,7 @@ include("entete.php");
           <ol>
             <li>Une documentation riche et complète :<a href="https://tweepy.readthedocs.io/en/latest/index.html">Tweepy Docs</a></a> </li>
             <li>Une expérience : Existe depuis 2013 et donc possède beaucoup de forum d'aide sur Stack Overflow</li>            </li>
-            <li>Une compatibilité REST API & Sreaming API : Ici nous utilisons uniquement les RESTful API</li>
+            <li>Une compatibilité REST API & Sreaming API de Twitter : Ici nous utilisons uniquement les RESTful API</li>
           </ol>
         </div>
       </div>
@@ -45,12 +45,15 @@ include("entete.php");
             <li><strong>numpy</strong> : Pour la création de tableaux (array) </li>
             <li><strong>pandas</strong> : Pour la création de tableaux de données (data frame) que l'on peut sauvegarder
             dans un tableau excel pour ensuite en exploiter les données.</li>
-            <li><strong>textblob</strong> : Permet le traitement de données texte. Il fournit une API simple permettant le traitement
-            du langage et plus particulièrement : l'analyse de sentiments. </li>
+            <li><strong>textblob</strong> : Permet le traitement de données texte. Il fournit une API simple 
+            permettant le traitement du langage et plus particulièrement : l'analyse de sentiments. </li>
             <li><strong>re</strong> : Regular expression operations : Permet de nettoyer les tweets des caractères inutiles. </li>
             <li><strong>matplotlib</strong> : Permet de visualiser les données traités sous forme graphique. </li>
             <li><strong>json</strong> : Permet de sérialiser ( inclure des données dans un flux ) </li>
-            <li><strong>collections</strong> : Counter</li>
+            <li><strong>collections</strong> : Avec Counter qui permet de compter des élèments.</li>
+            <li><strong>wordcloud</strong> :Permet de générer un nuage de mots de différentes tailles, qui représentent la 
+            fréquence ou l'importance de chaque mot.</li>
+            <li><strong>plotly</strong> : Une bibliothèque qui permet de générér des graphes en ligne (similaire à matplotlib).</li>            
           </ol>
         </div>
       </div>
