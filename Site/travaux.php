@@ -224,7 +224,7 @@ include("entete.php");
         <h2 class="title is-2">Big Data, Stockage & Analyse</h2>
         <div class="columns">
           <div class="column about-single-element-1">
-            <p>La 3ème et dernière partie concèrne le traitement massif de données quantitatives, son stockage dans
+            <p>La 3ème et dernière partie concèrne le traitement massif de données quantitatives, leurs stockages dans
               un fichier xlsx et enfin son traitement.
             </p>
             <br/>
