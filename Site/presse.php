@@ -313,15 +313,15 @@ include("entete.php");
     <div class="column">
       <div class="card notification is-light">
         <div class="card-content">
-          <p class="title">Exploiter les données de réseaux sociaux en 5 étapes</p>
+          <p class="title">Stream tweets in under 15 lines of code + some interactive data visualization</p>
           <p class="subtitle">
-            By Ecosystème Digital et Data, Social networks
+            By Omar Aref, Data Scientist
           </p>
         </div>
         <footer class="card-footer">
           <p class="card-footer-item">
             <span>
-              Voir le lien <a href="https://www.linkfluence.com/fr/social-data-research">ici</a>
+              Voir le lien <a href="https://oaref.blogspot.com/2019/01/stream-tweets-in-under-15-lines-of-code.html">ici</a>
             </span>
           </p>
         </footer>
@@ -330,8 +330,163 @@ include("entete.php");
 
 </div>
 
+<div class="columns">
 
+  <div class="column">
+    <div class="card notification is-light ">
+      <div class="card-content">
+        <p class="title">
+          Pour costruire ses plots..
+        </p>
+        <p class="subtitle">
+          @plotly
+        </p>
+      </div>
+      <footer class="card-footer">
+        <p class="card-footer-item">
+          <span>
+            Voir le lien <a href="https://plot.ly/feed/#/">ici</a>
+          </span>
+        </p>
+      </footer>
+    </div>
   </div>
+
+  <div class="column">
+
+    <div class="card notification is-dark">
+      <div class="card-content">
+        <p class="title">
+          Tutorial: Working with Streaming Data and the Twitter API in Python
+        </p>
+        <p class="subtitle">
+          @DataQuest
+        </p>
+      </div>
+      <footer class="card-footer">
+        <p class="card-footer-item">
+          <span>
+            Voir le lien <a href="https://www.dataquest.io/blog/streaming-data-python/">ici</a>
+          </span>
+        </p>
+      </footer>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card ">
+      <div class="card-content">
+        <p class="title">Tweepy Documentation</p>
+        <p class="subtitle">
+          @tweepy
+        </p>
+      </div>
+      <footer class="card-footer">
+        <p class="card-footer-item">
+          <span>
+            Voir le lien <a href="https://tweepy.readthedocs.io/en/latest/">ici</a>
+          </span>
+        </p>
+      </footer>
+    </div>
+  </div>
+
+</div>
+
+<div class="columns">
+
+  <div class="column">
+    <div class="card notification is-primary ">
+      <div class="card-content">
+        <p class="title">
+          TextBlob: Simplified Text Processing
+        </p>
+        <p class="subtitle">
+          @textblob
+        </p>
+      </div>
+      <footer class="card-footer">
+        <p class="card-footer-item">
+          <span>
+            Voir le lien <a href="https://textblob.readthedocs.io/en/dev/">ici</a>
+          </span>
+        </p>
+      </footer>
+    </div>
+  </div>
+
+  <div class="column">
+
+    <div class="card">
+      <div class="card-content">
+        <p class="title">
+          Twitter libraries
+        </p>
+        <p class="subtitle">
+          @twitter
+        </p>
+      </div>
+      <footer class="card-footer">
+        <p class="card-footer-item">
+          <span>
+            Voir le lien <a href="https://developer.twitter.com/en/docs/developer-utilities/twitter-libraries.html">ici</a>
+          </span>
+        </p>
+      </footer>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card notification is-light">
+      <div class="card-content">
+        <p class="title">Accessing the Twitter API with Python</p>
+        <p class="subtitle">
+          By Mihajlo Pavloski
+        </p>
+      </div>
+      <footer class="card-footer">
+        <p class="card-footer-item">
+          <span>
+            Voir le lien <a href="https://stackabuse.com/accessing-the-twitter-api-with-python/">ici</a>
+          </span>
+        </p>
+      </footer>
+    </div>
+  </div>
+
+</div>
+
+<div class="columns">
+
+  <div class="column">
+  </div>
+
+  <div class="column">
+    <div class="card notification is-light ">
+      <div class="card-content">
+        <p class="title">
+          Generating WordClouds in Python
+        </p>
+        <p class="subtitle">
+          @Duong Vu
+        </p>
+      </div>
+      <footer class="card-footer">
+        <p class="card-footer-item">
+          <span>
+            Voir le lien <a href="https://www.datacamp.com/community/tutorials/wordcloud-python">ici</a>
+          </span>
+        </p>
+      </footer>
+    </div>
+  </div>
+
+  <div class="column">
+  </div>
+
+</div>
+
+</div>
 
 
 
