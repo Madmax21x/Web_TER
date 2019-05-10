@@ -227,12 +227,41 @@ include("entete.php");
             <p>La 3ème et dernière partie concèrne le traitement massif de données quantitatives, son stockage dans 
               un fichier xlsx et enfin son traitement.
             </p>
+            <br/>
+            <p>
+              Pour commencer, nous utilisons une version amélioré de <strong>TwitterClient </strong>vue précèdement qui s'occupe ici
+              précisément de récupéer un grand nombre de tweet (1000 ici) pour un certain mot clée (Boeing ici).
+            </p>
+            <br/>
+            <p>Toute ces données sont sotckées pour ensuite être traité par une seconde partie via 
+              <strong>analyse_tweet</strong> qui permet de nettoyé les tweets, faire une analyse sentimentale tu texte,
+              générer un diagramme circulaire de sentiments, générer un wordcloud des mots les plus fréquents dans cet 
+              ensemble de tweets et enfin d'afficher cette fréquence de mots sous al forme d'un diagramme en baton.
+            </p>
           </div>
           <div class="column about-single-element-1">
             <center>
-              <img src="src/img/credencials_img.png" class="is-rounded" style="position: relative; width: 300px;">
+              <img src="src/img/bigdata1.png" class="is-rounded" style="position: relative; width: 600px;">
             </center>
           </div>
+        </div>
+        <div class="columns">
+          <div class="column about-single-element-1">
+            <center>
+                <img src="src/img/pie_plot.jpg" class="is-rounded" style="position: relative; width: 360px;">
+            </center>
+          </div>
+          <br/>
+          <div class="column about-single-element-1">
+            <center>
+                <img src="src/img/Boeing_wordcloud.png" class="is-rounded" style="position: relative; width: 460px;">
+            </center>
+          </div>
+        </div>
+        <div class="column about-single-element-1">
+          <center>
+              <img src="src/img/word_frequency.png" class="is-rounded" style="position: relative; width: 800px;">
+          </center>
         </div>
       </div>
     </div>
