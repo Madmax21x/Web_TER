@@ -36,7 +36,7 @@ include("entete.php");
         <div class="column about-single-element-1" style="text-align:justify; ">
           <div>
             <center>
-            <img src="src/img/pie_plot.png" class="is-rounded" style="position: relative;">
+            <img src="src/img/pie_plot.jpg" class="is-rounded" style="position: relative;">
           </center>
         </div>
         </div>
@@ -46,6 +46,140 @@ include("entete.php");
 </div>
 </div>
 
+<br/>
+<div class="container is-fluid">
+  <div class="notification">
+    <div class="block">
+    <br/>
+    <div class="container about">
+      <div class="columns">
+
+        <div class="column about-single-element-1" style="text-align:justify; ">
+            <center>
+            <img src="src/img/Boeing_wordcloud.png" class="is-rounded" style="position: relative;">
+          </center>
+        </div>
+
+        <div class="column about-single-element-1" style="text-align:center; top:50%;">
+          <h2 class="subtitle heading-site-1" style= "margin-left: 5%; font-size: 30px;">Pie2Eat étudie les tendances associées à votre marque</h2>
+            <p> Pie2Eat identifie les hashtags associés à votre nom et les mots les plus
+              fréquents dans les tweets où votre nom a été mentionné. </p>
+        </div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<br/>
+<div class="container is-fluid">
+  <div class="notification">
+    <div class="block">
+    <br/>
+    <div class="container about">
+      <div class="columns">
+
+        <div class="column about-single-element-1" style="text-align:center; top:50%;">
+          <h2 class="subtitle heading-site-1" style= "margin-left: 5%; font-size: 30px;">Pie2Eat étudie les hashtags les plus intéressants</h2>
+            <p>Si vous avez créé un hashtag intéressant, Pie2Eat identifie pour vous les tweets dans lesquels ce hashtag a été retrouvé.</p>
+        </div>
+
+        <div class="column about-single-element-1" style="text-align:justify; ">
+            <center>
+
+          </center>
+      </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<br/>
+<div class="container is-fluid">
+  <div class="notification">
+    <div class="block">
+    <br/>
+    <div class="container about">
+      <div class="columns">
+
+        <div class="column about-single-element-1" style="text-align:justify; ">
+            <center>
+
+          </center>
+      </div>
+
+        <div class="column about-single-element-1" style="text-align:center; top:50%;">
+          <h2 class="subtitle heading-site-1" style= "margin-left: 5%; font-size: 30px;">Pie2Eat mesure votre efficacité sur les réseaux</h2>
+            <p>Pie2Eat mesure l’efficacité de vos tweets et des contenus partagés. Elle identifie pour vous les
+              tweets qui ont le plus marché. Elle vous permet d’améliorer la qualité de votre communication
+              marketing sur les réseaux.</p>
+        </div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<br/>
+<div class="container is-fluid">
+  <div class="notification">
+    <div class="block">
+    <br/>
+    <div class="container about">
+      <div class="columns">
+
+        <div class="column about-single-element-1" style="text-align:center; top:50%;">
+          <h2 class="subtitle heading-site-1" style= "margin-left: 5%; font-size: 30px;">Pie2Eat vous aide à mieux connaître vos consommateurs</h2>
+            <p>Pie2Eat vous aide à connaître vos clients (followers ou amis): leur
+              localisation, le nombre de leurs followers, le nombre de leurs amis et le nombre
+              de fois où ils ont publié un tweet. </p>
+            <p>Connaissant la localisation de vos followers, vous saurez ajuster un bon fuseau horaire
+              pour vos publications afin qu’elles soient perçues par un plus grand monde.
+              Mais aussi, vous saurez communiquer sur des événements proches à leur localisation!</p>
+            <p>Avec l’analyse du « best list » vous pouvez repérer des influenceurs parmi
+              vos followers: ceux qui ont le plus de followers, tweets.. </p>
+        </div>
+        <div class="column about-single-element-1" style="text-align:justify; ">
+            <center>
+
+          </center>
+        </div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<br/>
+<div class="container is-fluid">
+  <div class="notification">
+    <div class="block">
+    <br/>
+    <div class="container about">
+      <div class="columns">
+        <div class="column about-single-element-1" style="text-align:justify; ">
+            <center>
+
+          </center>
+        </div>
+        <div class="column about-single-element-1" style="text-align:center; top:50%;">
+          <h2 class="subtitle heading-site-1" style= "margin-left: 5%; font-size: 30px;">Pie2Eat vous informe sur les tendances du moment</h2>
+            <p>Pie2Eat vous aide à comprendre vos consommateurs, connaître leurs préférences.
+              Elle identifie les tendances du moment, sur lesquelles vous devriez vous baser
+              pour proposer une offre adaptée à la demande des consommateurs. La team Pie2Eat
+              vous aide à anticiper les demandes des consommateurs et leurs réactions aux nouveaux produits. </p>
+        </div>
+
+
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
 
   <?php
   include("pied.php");
