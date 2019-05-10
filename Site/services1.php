@@ -7,29 +7,25 @@ include("entete.php");
       <div class="banner" >
         <img src="src/img/bg12.jpg" class="banner-image" style="position: relative;">
         <div class="banner-content-1" style="position: absolute; top: 25%; left: 5%;" >
-            <h1 class="subtitle" style="color:#FFFFFF; font-size: 60px;">Découvrez nos offres!</h1>
+            <h1 class="subtitle" style="color:#FFFFFF; font-size: 60px;">Découvrez nos solutions!</h1>
         </div>
       </div>
     </div>
 
-    <div class="container">
-      <div>
-        <br/>
-        <h1 class="title is-1" style="color:#718093; text-align: center; margin-top: 7%; "><i class="fas fa-question-circle"></i> Pourquoi s'intéresser aux réseaux sociaux?</h1>
-      </div>
-    </div>
+    <div class="container is-fluid">
+      <div class="notification">
 
 
     <div class="block">
-      <br/>
-      <br/>
-      <br/>
+    <br/>
       <h2 id="reseaux" class="subtitle heading-site-1" style= "margin-left: 10%; font-size: 30px;">Les réseaux sociaux et les consommateurs</h2>
       <br/>
       <div class="container about">
         <div class="columns">
             <div class="column about-single-element-1">
-              <img src="src/img/reseau.jpg" class="banner-image" style="position: relative; width:500px; margin-left:5%; margin-right:5%;">
+              <center>
+              <img src="src/img/reseau.jpg" class="is-rounded" style="position: relative; width:500px;">
+            </center>
             </div>
 
             <div class="column about-single-element-1" style="text-align:justify;">
@@ -48,6 +44,7 @@ include("entete.php");
         </div>
       </div>
     </div>
+  </div>
 
     <div class="block">
       <br/>
@@ -97,7 +94,7 @@ include("entete.php");
           </div>
         </div>
       </div>
-    </div>
+
 
     <div class="block">
       <br/>
@@ -125,15 +122,17 @@ include("entete.php");
               apparaissent grossièrement similaires et qui s’étaient révélées satisfaisantes. Mais si la
               situation apparaît différente, il va chercher une solution nouvelle.</p>
 
-    </div>
+            </div>
 
 
             <div class="column about-single-element-1">
-              <img src="src/img/decision.jpg" class="banner-image" style="position: relative; margin-right:10%; width:500px ; margin-left:10%; margin-top:3%;">
+              <center>
+              <img src="src/img/decision.jpg" class="is-rounded" style="position: relative; width:500px ;">
+            </center>
             </div>
           </div>
-          </div>
-          </div>
+      </div>
+    </div>
 
             <div class="block">
               <br/>
@@ -184,7 +183,9 @@ include("entete.php");
 
           <div class="column about-single-element-1">
             <br/>
-            <img src="src/img/logos.jpg" class="banner-image" style="position: relative; width: 350px; margin-left: 20%;">
+            <center>
+            <img src="src/img/logos.jpg" class="is-rounded" style="position: relative; width: 350px;">
+            </center>
           </div>
 
             <div class="column about-single-element-1" style="text-align:justify;">
@@ -207,11 +208,9 @@ include("entete.php");
                 réseaux sociaux c'est le bad buzz.
           </p>
         </div>
-
-
-
       </div>
     </div>
+  </div>
 
     <div class="block">
       <br/>
@@ -240,9 +239,9 @@ include("entete.php");
               <p style="font-weight:bold;">Maxime Chabaud, Community and content Manager à la Cité du Vin.</p>
 
 
-        </div>
+            </div>
 
-        <div class="column about-single-element-1" style="text-align:center;">
+            <div class="column about-single-element-1" style="text-align:center;">
           <p> <span class="italique" style="font-style: italic; text-align:center;">
             "Ce qui est important, c'est qu'il y a 2 types de structures: celles qui existaient avant les réseaux
             sociaux, comme le Louvre, et des structures comme nous. Des structures comme le Louvre
@@ -261,6 +260,8 @@ include("entete.php");
             <br/>
             <p style="font-weight:bold;">Loïc Graniczny, Chargé de projet web & digital à l'Office de Tourisme à Bordeaux</p>
 
+          </div>
+        </div>
       </div>
     </div>
 
@@ -291,10 +292,11 @@ include("entete.php");
         </div>
 
         <div class="column about-single-element-1">
-          <img src="src/img/chess.jpg" class="banner-image" style="position: relative; width:500px; margin-left:5%;">
+          <img src="src/img/chess.jpg" class="is-rounded" style="position: relative; width:500px;">
         </div>
       </div>
     </div>
+  </div>
 
     <div class="block">
       <br/>
@@ -315,7 +317,7 @@ include("entete.php");
               <p>Certaines entreprises sont plus conscientes que d'autres des opportunités que leurs réservent les réseaux
                 sociaux. On distingue alors deux types d'entreprises: les data conscious et les moins avertis. </p>
 
-        </div>
+              </div>
 
         <div class="column about-single-element-1" style="text-align:justify;">
         <p>Les data conscious
@@ -336,9 +338,12 @@ include("entete.php");
         <br/>
         <p style="font-weight:bold;">Maxime Chabaud, Community and content Manager à la Cité du Vin.</p>
 
-      </div>
+        </div>
       </div>
     </div>
+  </div>
+</div>
+
 
 
 
@@ -351,8 +356,9 @@ include("entete.php");
             <div class="columns">
                 <div class="column about-single-element-1">
                   <br/>
-                  <img src="src/img/big_data.jpg" class="banner-image" style="position: relative; width:500px; margin-left:5%;">
-
+                  <center>
+                  <img src="src/img/big_data.jpg" class="is-rounded" style="position: relative; width:500px;">
+                  </center>
                 </div>
 
                 <div class="column about-single-element-1" style="text-align:justify;">
@@ -375,6 +381,7 @@ include("entete.php");
             </div>
           </div>
         </div>
+      </div>
 
         <div class="block">
           <br/>
@@ -429,7 +436,7 @@ include("entete.php");
               </div>
             </div>
           </div>
-        </div>
+
 
 
         <div class="block">
@@ -455,12 +462,15 @@ include("entete.php");
               </div>
 
               <div class="column about-single-element-1">
-                <img src="src/img/question.jpg" class="is-rounded" style="position: relative; width:450px; margin-left:10%; margin-right:10%;">
+                <center>
+                <img src="src/img/question.jpg" class="is-rounded" style="position: relative; width:450px;">
+              </center>
               </div>
 
 
           </div>
         </div>
+      </div>
 
         <div class="block">
           <br/>
@@ -506,7 +516,7 @@ include("entete.php");
               </div>
             </div>
           </div>
-        </div>
+
 
         <div class="block">
           <br/>
@@ -516,7 +526,9 @@ include("entete.php");
           <div class="container about">
             <div class="columns">
               <div class="column about-single-element-1">
-                <img src="src/img/open2.jpg" class="is-rounded" style="position: relative; width:500px; margin-left:5%; margin-right:5%;">
+                <center>
+                <img src="src/img/open2.jpg" class="is-rounded" style="position: relative; width:500px;">
+              </center>
               </div>
 
               <div class="column about-single-element-1" style="text-align:justify;">
@@ -535,6 +547,7 @@ include("entete.php");
               </div>
           </div>
         </div>
+      </div>
 
 
         <div class="block">
@@ -573,7 +586,6 @@ include("entete.php");
               </div>
             </div>
           </div>
-        </div>
 
 
 
@@ -600,7 +612,9 @@ include("entete.php");
               </div>
 
               <div class="column about-single-element-1">
-                <img src="src/img/network.jpg" class="is-rounded" style="position: relative; width:500px; height:300px; margin-left:10%; margin-right:10%;">
+                <center>
+                <img src="src/img/network.jpg" class="is-rounded" style="position: relative; width:500px; height:300px;">
+              </center>
               </div>
 
           </div>
@@ -660,10 +674,11 @@ include("entete.php");
           <div class="columns">
 
             <div class="column about-single-element-1">
+              <center>
               <img src="src/img/linkfluence.jpg" class="is-rounded" style="position: relative; width:300px; margin-left:5%; margin-right:5%;">
               <br/>
               <img src="src/img/talkwalker.jpg" class="is-rounded" style="position: relative; width:300px; margin-left:35%; margin-right:5%;">
-
+              </center>
             </div>
 
             <div class="column about-single-element-1" style="text-align:justify;">
@@ -677,10 +692,9 @@ include("entete.php");
               <p>Une autre agence de veille et d'analyse des médias sociaux est Talkwalker, une entreprise
                 fondée en 2009 à Luxembourg.
             </div>
-
-
         </div>
       </div>
+    </div>
 
       <div class="block">
         <br/>
@@ -733,44 +747,9 @@ include("entete.php");
         </div>
       </div>
 
-      <div class="container">
-        <div>
-          <br/>
-          <h1 id="services" class="title is-1" style="color:#718093; text-align: center; margin-top: 7%; "><i class="fas fa-question-circle"></i> Quels sont les services que nous vous proposons?</h1>
-        </div>
-      </div>
+  </div>
+</div>
 
-      <div class="block">
-        <br/>
-        <br/>
-        <br/>
-        <br/>
-        <div class="container about">
-          <div class="columns">
-            <div class="column about-single-element-1" style="text-align:center; ">
-              <h2 class="subtitle heading-site-1" style= "margin-left: 5%; font-size: 30px;">Pie2Eat fait l'étude de votre e-réputation</h2>
-              <div>
-                <p> Pie2Eat vous aide à soigner votre e-réputation en identifiant les
-                  commentaires et les tweets négatifs sur votre marque. Elle vous aide à
-                  savoir comment votre marque est-elle perçue sur les réseaux et en
-                  particulier sur Twitter. </p>
-                <p>Pie2Eat identifie tous les tweets où votre nom a été mentionné.
-                  Elle analyse ces tweets pour vous, pour connaître leurs origines,
-                  la date de publication, le nombre de likes, le nombre de retweets,
-                  mais aussi le sentiment: est-ce que le tweet est positif pour votre
-                  marque, négatif ou neutre. </p>
-            </div>
-            </div>
-
-            <div class="column about-single-element-1" style="text-align:justify; ">
-              <div>
-                <img src="src/img/network.jpg" class="is-rounded" style="position: relative; width:500px; height:300px; margin-left:10%; margin-right:10%;">
-            </div>
-            </div>
-
-          </div>
-        </div>
-      </div>
 
 
 <?php

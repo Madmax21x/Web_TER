@@ -51,10 +51,10 @@
           <div class="navbar-start">
             <a class="navbar-item" href="index.php">Accueil</a>
 
-            <a class="navbar-item" href="services1.php">Nos services</a>
+            <a class="navbar-item" href="services1.php">Nos solutions</a>
 
             <div class="navbar-item has-dropdown is-hoverable">
-              <a class="navbar-link">Nos ressources</a>
+              <a class="navbar-link">Nos services</a>
 
               <div class="navbar-dropdown">
                 <a class="navbar-item" href="travaux.php">Nos travaux</a>
