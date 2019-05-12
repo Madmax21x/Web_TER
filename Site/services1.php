@@ -20,7 +20,6 @@ include("entete.php");
     <br/>
       <h2 id="reseaux" class="subtitle heading-site-1" style= "margin-left: 10%; font-size: 30px;">Les réseaux sociaux et les consommateurs</h2>
       <br/>
-      <div class="container about">
         <div class="columns">
             <div class="column about-single-element-1">
               <center>
@@ -42,58 +41,53 @@ include("entete.php");
           Les réseaux sociaux ont changé notre façon de consommer. Il devient indispensable
             pour les entreprises de changer leurs manières de communiquer.</p>
         </div>
-      </div>
     </div>
   </div>
 
     <div class="block">
       <br/>
       <br/>
-      <div class="container about">
         <div class="columns">
             <div class="column about-single-element-1" style="text-align:justify;">
               <p> La communication se fait
                 désormais dans les deux sens. Les publicités ne suffisent plus. La voix des consommateurs
                 est plus qu'importante. Désormais les marques communiquent, les internautes interpellent
                 et il faut que les marques répondent en retour. Les réseaux sociaux permettent de communiquer
-              avec une masse, un groupe, ou une communauté.
-            Ils présentent de nombreux avantages pour les entreprises qui franchissent le pas. </p>
-            <div style="text-align:center;">
-
-              <p><span class="italique" style="font-style: italic;">"On a une stratégie qui est omnicanale, on va communiquer sur plusieurs sites..
-              On est sur plusieurs plateformes: Facebook, Twitter et Instagram pour les principales.
-              Sur Facebook, on essaie de bien équilibrer entre du contenu commercial (pas plus de 30%),
-              du contenu d’inspiration (il faut jouer sur les émotions) et du contenu pratique pour
-              essayer de se rendre utile et indispensable. Ce n’est pas qu’une plateforme qu’on utilise
-              pour faire de la pub, bien qu’on utilise beaucoup de campagnes sponsorisées sur Facebook.
-              On va laisser les internautes partager les publications et c’est les amis des amis qui vont les voir, les aimer.."</span></p>
-              <br/>
-              <p style="font-weight:bold;">Loïc Graniczny, Chargé de projet web & digital à l'Office de Tourisme à Bordeaux</p>
+                avec une masse, un groupe, ou une communauté.
+                Ils présentent de nombreux avantages pour les entreprises qui franchissent le pas. </p>
+              <div style="text-align:center;">
+                <p><span class="italique" style="font-style: italic;">"On a une stratégie qui est omnicanale, on va communiquer sur plusieurs sites..
+                On est sur plusieurs plateformes: Facebook, Twitter et Instagram pour les principales.
+                Sur Facebook, on essaie de bien équilibrer entre du contenu commercial (pas plus de 30%),
+                du contenu d’inspiration (il faut jouer sur les émotions) et du contenu pratique pour
+                essayer de se rendre utile et indispensable. Ce n’est pas qu’une plateforme qu’on utilise
+                pour faire de la pub, bien qu’on utilise beaucoup de campagnes sponsorisées sur Facebook.
+                On va laisser les internautes partager les publications et c’est les amis des amis qui vont les voir, les aimer.."</span></p>
+                <br/>
+                <p style="font-weight:bold;">Loïc Graniczny, Chargé de projet web & digital à l'Office de Tourisme à Bordeaux</p>
+              </div>
             </div>
-
-          </div>
 
           <div class="column about-single-element-1" style="text-align:justify; ">
             <p>C'est un très bon moyen pour rencontrer et se rapprocher de ses clients. Les réseaux sociaux soutiennent
             les entreprises dans l'amélioration de l'image de leurs marques, l'accroissement de la notoriété
-          et de la visibilité. L'activité sur réseaux sociaux peut impacter positivement la
-        fidélisation des clients, créer de la récurrence d'achat et de la valeur pour l'entreprise. Les
-      réseaux sociaux ont un impact réel sur le comportement d'achat des internautes... </p>
+            et de la visibilité. L'activité sur réseaux sociaux peut impacter positivement la
+            fidélisation des clients, créer de la récurrence d'achat et de la valeur pour l'entreprise. Les
+            réseaux sociaux ont un impact réel sur le comportement d'achat des internautes... </p>
             <div style="text-align: center;">
-            <br/>
-            <p><span class="italique" style="font-style: italic;">"Un grand avantage des réseaux sociaux pour le
-              marketing est quand même que cela permet de parler directement aux consommateurs si besoin,
-              comme un espèce de tchat public.
-              C'est ce que fait beaucoup Décathlon par exemple (la polémique autour de leur hijab
-              pour la course à pied), et ça permet une gestion de la clientèle beaucoup plus proche des
-              clients qu'on ne le faisait avant."</span></p>
               <br/>
-              <p style="font-weight:bold;">Romain Damian, Data Scientist chez Liegey Muller Pons à Paris.</p>
+              <p><span class="italique" style="font-style: italic;">"Un grand avantage des réseaux sociaux pour le
+                marketing est quand même que cela permet de parler directement aux consommateurs si besoin,
+                comme un espèce de tchat public.
+                C'est ce que fait beaucoup Décathlon par exemple (la polémique autour de leur hijab
+                pour la course à pied), et ça permet une gestion de la clientèle beaucoup plus proche des
+                clients qu'on ne le faisait avant."</span></p>
+                <br/>
+                <p style="font-weight:bold;">Romain Damian, Data Scientist chez Liegey Muller Pons à Paris.</p>
+              </div>
           </div>
         </div>
-          </div>
-        </div>
-      </div>
+    </div>
 
 
     <div class="block">
@@ -102,74 +96,65 @@ include("entete.php");
       <br/>
       <h2 id="conso" class="subtitle heading-site-1" style= "margin-left: 10%; font-size: 30px;">Le comportement et le choix du consommateur</h2>
       <br/>
-      <div class="container about">
-        <div class="columns">
-            <div class="column about-single-element-1" style="text-align:justify;">
-              <p>Il est intéressant d'étudier le comportement du consommateur. <span style="font-weight:bold;">Herbert Simon</span>,
-                un économiste et sociologue américain a étudié la manière dont les individus prennent
-                leurs décisions.
-                Les individus sont rationnels, c’est-à-dire qu’ils ont des buts et agissent
-                en fonction de leur réalisation. Or cette rationalité n’est pas absolue, elle
-                est limitée. Cette notion de rationalité limitée montre que
-                les individus ne sont pas capables de traiter l'ensemble des informations à leur
-                disposition et qu’ils prennent leurs décisions en fonction des buts qu’ils visent
-                et de leur environnement. Ces buts sont souvent concrets, à court terme et influencent leur
-                comportement et leurs stratégies. <p/>
-            <p> Dans la plupart des cas, confronté à un choix, l’individu construit un modèle simplifié
-              de la réalité, une définition de la situation à son échelle et avec ses moyens. Celle-ci
-              est d’abord essentiellement fondée sur son expérience passée. Souvent il se replie sur
-              des solutions déjà utilisées dans des circonstances qui lui
-              apparaissent grossièrement similaires et qui s’étaient révélées satisfaisantes. Mais si la
-              situation apparaît différente, il va chercher une solution nouvelle.</p>
-
-            </div>
-
-
-            <div class="column about-single-element-1">
-              <center>
-              <img src="src/img/decision.jpg" class="is-rounded" style="position: relative; width:500px ;">
-            </center>
-            </div>
-          </div>
+      <div class="columns">
+        <div class="column about-single-element-1" style="text-align:justify;">
+          <p>Il est intéressant d'étudier le comportement du consommateur. <span style="font-weight:bold;">Herbert Simon</span>,
+            un économiste et sociologue américain a étudié la manière dont les individus prennent
+            leurs décisions.
+            Les individus sont rationnels, c’est-à-dire qu’ils ont des buts et agissent
+            en fonction de leur réalisation. Or cette rationalité n’est pas absolue, elle
+            est limitée. Cette notion de rationalité limitée montre que
+            les individus ne sont pas capables de traiter l'ensemble des informations à leur
+            disposition et qu’ils prennent leurs décisions en fonction des buts qu’ils visent
+            et de leur environnement. Ces buts sont souvent concrets, à court terme et influencent leur
+            comportement et leurs stratégies. <p/>
+          <p> Dans la plupart des cas, confronté à un choix, l’individu construit un modèle simplifié
+            de la réalité, une définition de la situation à son échelle et avec ses moyens. Celle-ci
+            est d’abord essentiellement fondée sur son expérience passée. Souvent il se replie sur
+            des solutions déjà utilisées dans des circonstances qui lui
+            apparaissent grossièrement similaires et qui s’étaient révélées satisfaisantes. Mais si la
+            situation apparaît différente, il va chercher une solution nouvelle.</p>
+        </div>
+        <div class="column about-single-element-1">
+          <center>
+          <img src="src/img/decision.jpg" class="is-rounded" style="position: relative; width:500px ;">
+        </center>
+        </div>
       </div>
     </div>
 
-            <div class="block">
-              <br/>
-              <div class="container about">
-                <div class="columns">
-                    <div class="column about-single-element-1" style="text-align:justify;">
-                <p>Les questions du jugement et du choix sont centrales dans la problématique de la
-                  décision d’achat. Le processus de choix est d'autant plus important que la décision
-                  que l'individu va prendre. L’analyse psychologique du processus d’achat du consommateur
-                  vient renforcer la vision de la rationalité. La première phase du choix du consommateur
-                  se fonde sur la sensation et la perception. Mais la perception n'est pas neutre. Le
-                  consommateur sélectionne les informations qu'il voit. Dans son article <span style="font-weight:bold;">"Constructive costumer
-                  choice processes"</span>, <span style="font-weight:bold;">James R. Bettman</span> propose les quatre motivations les plus actives dans la
-                  prise de décision des consommateurs: <span class="italique" style="font-style: italic;">
-                  maximisation de la pertinence du choix, minimisation de l'effort cognitif, minimisation
-                des émotions négatives, maximisation de la facilité de justifier son choix.</span>
-            </p>
-            <p>Le comportement des consommateurs a évolué avec la multiplication des e-commerces et
-              des réseaux sociaux. Désormais la plupart des consommateurs se renseignent en ligne
-              avant d'acheter en magasin. </p>
-                </div>
-
-              <div class="column about-single-element-1" style="text-align:justify;">
-                <p>L’abondance d’informations disponibles sur Internet conduit
-                  l’internaute à rechercher l’environnement qui lui ressemble le plus pour sa prise de décision.
-                En effet, les réseaux sociaux hébergent des communautés (groupes) en ligne : communautés
-              d'état (femmes enceintes, patients, étudiants..), communautés de passion (sport, arts…),
-              communautés d’objectif (partage d’appartement, fraudeurs…), communauté d’usage (jeux vidéos,
-              logiciels..) ou encore communautés de valeur (religion, politique..). Au sein de ces communautés
+    <div class="block">
+      <br/>
+      <div class="columns">
+        <div class="column about-single-element-1" style="text-align:justify;">
+          <p>Les questions du jugement et du choix sont centrales dans la problématique de la
+            décision d’achat. Le processus de choix est d'autant plus important que la décision
+            que l'individu va prendre. L’analyse psychologique du processus d’achat du consommateur
+            vient renforcer la vision de la rationalité. La première phase du choix du consommateur
+            se fonde sur la sensation et la perception. Mais la perception n'est pas neutre. Le
+            consommateur sélectionne les informations qu'il voit. Dans son article <span style="font-weight:bold;">"Constructive costumer
+            choice processes"</span>, <span style="font-weight:bold;">James R. Bettman</span> propose les quatre motivations les plus actives dans la
+            prise de décision des consommateurs: <span class="italique" style="font-style: italic;">
+            maximisation de la pertinence du choix, minimisation de l'effort cognitif, minimisation
+            des émotions négatives, maximisation de la facilité de justifier son choix.</span>
+          </p>
+          <p>Le comportement des consommateurs a évolué avec la multiplication des e-commerces et
+            des réseaux sociaux. Désormais la plupart des consommateurs se renseignent en ligne
+            avant d'acheter en magasin. </p>
+        </div>
+        <div class="column about-single-element-1" style="text-align:justify;">
+          <p>L’abondance d’informations disponibles sur Internet conduit
+            l’internaute à rechercher l’environnement qui lui ressemble le plus pour sa prise de décision.
+            En effet, les réseaux sociaux hébergent des communautés (groupes) en ligne : communautés
+            d'état (femmes enceintes, patients, étudiants..), communautés de passion (sport, arts…),
+            communautés d’objectif (partage d’appartement, fraudeurs…), communauté d’usage (jeux vidéos,
+            logiciels..) ou encore communautés de valeur (religion, politique..). Au sein de ces communautés
             les gens partagent les mêmes valeurs et les centres d'intérêt. Les consommateurs peuvent alors
             avoir recours à ces communautés pour s'en inspirer dans leurs choix de consommation. L'existence
-          de ces groupes est un très bon moyen pour les entreprises pour construire des cibles marketing.</p>
-              </div>
-
-            </div>
-          </div>
+            de ces groupes est un très bon moyen pour les entreprises pour construire des cibles marketing.</p>
         </div>
+      </div>
+    </div>
 
 
 
@@ -178,44 +163,40 @@ include("entete.php");
       <br/>
       <h2 id="e_reputation" class="subtitle heading-site-1" style= "margin-left: 10%; font-size: 30px;">L'e-réputation à travers les réseaux sociaux</h2>
       <br/>
-      <div class="container about">
-        <div class="columns">
+      <div class="columns">
+        <div class="column about-single-element-1">
+          <br/>
+          <center>
+          <img src="src/img/logos.jpg" class="is-rounded" style="position: relative; width: 350px;">
+          </center>
+        </div>
 
-          <div class="column about-single-element-1">
-            <br/>
-            <center>
-            <img src="src/img/logos.jpg" class="is-rounded" style="position: relative; width: 350px;">
-            </center>
-          </div>
+        <div class="column about-single-element-1" style="text-align:justify;">
+          <p>L'e-réputation est la perception qu'ont les internautes d'une entreprise,
+            de sa marque ou de ses employés. C'est une représentation que les internautes
+            se constituent en fonction des flux d'informations qu'ils rencontrent sur internet.
+            Désormais, la réputation d'une entreprise peut se mesurer en nombre d’avis, de
+            recommandations ou de citations spontanément émis sur la marque dans les conversations en ligne.
+            On s'intéresse surtout aux informations trouvées sur les réseaux sociaux.
+            Maîtriser son e-réputation sur les réseaux sociaux est devenu une nécessité absolue
+            pour les entreprises et les marques.
 
-            <div class="column about-single-element-1" style="text-align:justify;">
-              <p>L'e-réputation est la perception qu'ont les internautes d'une entreprise,
-                de sa marque ou de ses employés. C'est une représentation que les internautes
-                se constituent en fonction des flux d'informations qu'ils rencontrent sur internet.
-                Désormais, la réputation d'une entreprise peut se mesurer en nombre d’avis, de
-                recommandations ou de citations spontanément émis sur la marque dans les conversations en ligne.
-                On s'intéresse surtout aux informations trouvées sur les réseaux sociaux.
-                Maîtriser son e-réputation sur les réseaux sociaux est devenu une nécessité absolue
-                pour les entreprises et les marques.
-
-                Lorsqu'un internaute tape le nom d'une marque ou d'une entreprise sur internet, il tombe
-                facilement sur des résultats issus des réseaux sociaux. Ces résultats représentent l'image
-                de la marque et la réputation de l'entreprise. Les réseaux sociaux permettent aux consommateurs
-                d'être mieux informés sur les produits et les services qu'ils recherchent. Ils peuvent facilement
-                vérifier ce qu'ont laissé comme avis (ou commentaires) d'autres utilisateurs et en prendre
-                compte avant leur achat. Or ce que les internautes découvrent sur une marque, ils peuvent le
-                dénoncer et tout peut se savoir. Le plus gros risque que peut craindre une entreprise sur les
-                réseaux sociaux c'est le bad buzz.
+            Lorsqu'un internaute tape le nom d'une marque ou d'une entreprise sur internet, il tombe
+            facilement sur des résultats issus des réseaux sociaux. Ces résultats représentent l'image
+            de la marque et la réputation de l'entreprise. Les réseaux sociaux permettent aux consommateurs
+            d'être mieux informés sur les produits et les services qu'ils recherchent. Ils peuvent facilement
+            vérifier ce qu'ont laissé comme avis (ou commentaires) d'autres utilisateurs et en prendre
+            compte avant leur achat. Or ce que les internautes découvrent sur une marque, ils peuvent le
+            dénoncer et tout peut se savoir. Le plus gros risque que peut craindre une entreprise sur les
+            réseaux sociaux c'est le bad buzz.
           </p>
         </div>
       </div>
     </div>
-  </div>
 
     <div class="block">
       <br/>
       <br/>
-      <div class="container about">
         <div class="columns">
 
             <div class="column about-single-element-1" style="text-align:center;">
@@ -262,7 +243,6 @@ include("entete.php");
 
           </div>
         </div>
-      </div>
     </div>
 
     <div class="block">
@@ -270,38 +250,33 @@ include("entete.php");
       <br/>
       <h2 id="strategy" class="subtitle heading-site-1" style= "margin-left: 5%; font-size: 30px;">L'e-réputation dans la stratégie des entreprises</h2>
       <br/>
-      <div class="container about">
-        <div class="columns">
+      <div class="columns">
+          <div class="column about-single-element-1" style="text-align:justify;">
+            <p>L'e-réputation d'une entreprise peut être anticipée, modifiée et maîtrisée
+              comme n'importe quel autre type de publicité. La gestion de l'e-réputation
+              doit être prise en compte dans la stratégie d'une organisation.
+              Les entreprises doivent donc veiller constamment sur leur e-réputation, pour
+              pouvoir en tirer du bénéfice.
+              Une entreprise doit construire elle-même son e-réputation et contrôler soi-même
+              ses informations. Elle doit par ailleurs la protéger pour éviter qu'elle soit
+              entachée par des avis peu élogieux. Il faut essayer d'être toujours informé en
+              temps réel d'un changement de situation et savoir vite réagir. Un seul avis
+              négatif suffit pour changer la perception qu'ont les internautes sur la marque de
+              l'entreprise. Lorsque les internautes cherchent de l'information sur une entreprise,
+              c'est pour trouver plus de crédibilité en la marque et un mauvais avis peut faire
+              perdre des clients potentiels à l'entreprise. </p>
 
+          </div>
 
-            <div class="column about-single-element-1" style="text-align:justify;">
-              <p>L'e-réputation d'une entreprise peut être anticipée, modifiée et maîtrisée
-                comme n'importe quel autre type de publicité. La gestion de l'e-réputation
-                doit être prise en compte dans la stratégie d'une organisation.
-                Les entreprises doivent donc veiller constamment sur leur e-réputation, pour
-                pouvoir en tirer du bénéfice.
-                Une entreprise doit construire elle-même son e-réputation et contrôler soi-même
-                ses informations. Elle doit par ailleurs la protéger pour éviter qu'elle soit
-                entachée par des avis peu élogieux. Il faut essayer d'être toujours informé en
-                temps réel d'un changement de situation et savoir vite réagir. Un seul avis
-                négatif suffit pour changer la perception qu'ont les internautes sur la marque de
-                l'entreprise. Lorsque les internautes cherchent de l'information sur une entreprise,
-                c'est pour trouver plus de crédibilité en la marque et un mauvais avis peut faire
-                perdre des clients potentiels à l'entreprise. </p>
-
-        </div>
-
-        <div class="column about-single-element-1">
-          <img src="src/img/chess.jpg" class="is-rounded" style="position: relative; width:500px;">
-        </div>
+          <div class="column about-single-element-1">
+            <img src="src/img/chess.jpg" class="is-rounded" style="position: relative; width:500px;">
+          </div>
       </div>
     </div>
-  </div>
 
     <div class="block">
       <br/>
       <br/>
-      <div class="container about">
         <div class="columns">
             <div class="column about-single-element-1" style="text-align:justify;">
                 <p>Les internautes sont libres de partager leurs avis et leurs opinions sur les
@@ -319,132 +294,124 @@ include("entete.php");
 
               </div>
 
-        <div class="column about-single-element-1" style="text-align:justify;">
-        <p>Les data conscious
-          sont ceux qui sont conscients de la richesse des données clients exploitables en recherche d’insights
-          sur les réseaux sociaux et qui les utilisent dans leur communication, dans leur développement produit
-          et fluidification de la relation client. Les moins avertis sont ceux en totale découverte. Ils sont présents
-          sur les réseaux sociaux et les considèrent comme un canal à part sans forcément penser que des
-          opportunités business s’y trouvent.
-        <br/>
-        </span></p>
-        <div style="text-align:center;">
-          <br/>
-        <p><span class="italique" style="font-style: italic; text-align:center;">
-          "Les 20 % du budget marketing sont consacrés au suivi des réseaux sociaux. Je pense que le budget est conséquent.
-          Mon poste a été créé la deuxième année, donc il y a eu une prise de conscience de l’importance des réseaux sociaux."
-
-      </span></p>
-        <br/>
-        <p style="font-weight:bold;">Maxime Chabaud, Community and content Manager à la Cité du Vin.</p>
-
+            <div class="column about-single-element-1" style="text-align:justify;">
+              <p>Les data conscious
+                sont ceux qui sont conscients de la richesse des données clients exploitables en recherche d’insights
+                sur les réseaux sociaux et qui les utilisent dans leur communication, dans leur développement produit
+                et fluidification de la relation client. Les moins avertis sont ceux en totale découverte. Ils sont présents
+                sur les réseaux sociaux et les considèrent comme un canal à part sans forcément penser que des
+                opportunités business s’y trouvent.
+              <br/>
+              </span></p>
+              <div style="text-align:center;">
+                <br/>
+                <p><span class="italique" style="font-style: italic; text-align:center;">
+                  "Les 20 % du budget marketing sont consacrés au suivi des réseaux sociaux. Je pense que le budget est conséquent.
+                  Mon poste a été créé la deuxième année, donc il y a eu une prise de conscience de l’importance des réseaux sociaux."
+                </span></p>
+                <br/>
+                <p style="font-weight:bold;">Maxime Chabaud, Community and content Manager à la Cité du Vin.</p>
+              </div>
+            </div>
         </div>
-      </div>
     </div>
-  </div>
-</div>
 
 
 
 
-        <div class="block">
-          <br/>
-          <br/>
-          <h2 class="subtitle heading-site-1" style= "margin-left: 5%; font-size: 30px;">Le Social Data et les réseaux sociaux</h2>
-          <br/>
-          <div class="container about">
-            <div class="columns">
-                <div class="column about-single-element-1">
-                  <br/>
-                  <center>
-                  <img src="src/img/big_data.jpg" class="is-rounded" style="position: relative; width:500px;">
-                  </center>
-                </div>
-
-                <div class="column about-single-element-1" style="text-align:justify;">
-                  <p>L'analyse des données générées par les réseaux sociaux, aussi appelée
-                    Social Media Analytics, peut être très utile pour les entreprises de toutes les industries.
-                    En effet, ces données permettent de connaître le ressenti des clients à l’égard d’un
-                    produit, d’un service, ou d’une campagne marketing, mais aussi de vérifier le niveau de
-                    satisfaction des clients, ou encore de surveiller la concurrence.
-                  </p>Mais ces données peuvent être aussi utilisées pour mieux connaître ses clients, leurs
-                  préférences. En effet, toute interaction avec les réseaux sociaux (like, commentaire, partage,
-                  publications,..) laisse des traces. A partir de ces données, il est possible de déterminer
-                  ce qu'aiment les clients et de prédire ce qu'ils vont aimer. En étudiant le profil leurs clients,
-                  les entreprises peuvent connaître le profil socio-démographique des personnes intéressées par leurs offres.
-                  Ils peuvent récupérer des données générales comme l'âge, le sexe, la géolocalisation, mais
-                  aussi des données plus précises comme les préférences politiques, religieuses.. Ainsi, l'analyse du
-                  Social Data peut permettre aux entreprises de cibler les bonnes personnes, au bon moment avec une
-                  offre améliorée et personnalisée.
-                  <p>
-                  </p>
+    <div class="block">
+      <br/>
+      <br/>
+      <h2 class="subtitle heading-site-1" style= "margin-left: 5%; font-size: 30px;">Le Social Data et les réseaux sociaux</h2>
+      <br/>
+        <div class="columns">
+            <div class="column about-single-element-1">
+              <br/>
+              <center>
+              <img src="src/img/big_data.jpg" class="is-rounded" style="position: relative; width:500px;">
+              </center>
             </div>
+
+            <div class="column about-single-element-1" style="text-align:justify;">
+              <p>L'analyse des données générées par les réseaux sociaux, aussi appelée
+                Social Media Analytics, peut être très utile pour les entreprises de toutes les industries.
+                En effet, ces données permettent de connaître le ressenti des clients à l’égard d’un
+                produit, d’un service, ou d’une campagne marketing, mais aussi de vérifier le niveau de
+                satisfaction des clients, ou encore de surveiller la concurrence.
+              </p>
+              <p>Mais ces données peuvent être aussi utilisées pour mieux connaître ses clients, leurs
+              préférences. En effet, toute interaction avec les réseaux sociaux (like, commentaire, partage,
+              publications,..) laisse des traces. A partir de ces données, il est possible de déterminer
+              ce qu'aiment les clients et de prédire ce qu'ils vont aimer. En étudiant le profil leurs clients,
+              les entreprises peuvent connaître le profil socio-démographique des personnes intéressées par leurs offres.
+              Ils peuvent récupérer des données générales comme l'âge, le sexe, la géolocalisation, mais
+              aussi des données plus précises comme les préférences politiques, religieuses.. Ainsi, l'analyse du
+              Social Data peut permettre aux entreprises de cibler les bonnes personnes, au bon moment avec une
+              offre améliorée et personnalisée.
+              </p>
+            </div>
+        </div>
+    </div>
+
+    <div class="block">
+      <br/>
+      <br/>
+        <div class="columns">
+            <div class="column about-single-element-1" style="text-align:justify;">
+            <p>L'analyse du Social data permet également aux entreprises de cibler les personnes
+              susceptibles d'être intéressées par leurs offres. Il suffirait de trouver des internautes
+              qui ont un profil et des centres d'intérêts similaires à leurs abonnés. Ainsi les entreprises pourraient
+              faire des campagnes de pub très ciblées sur des segments de population susceptibles d'aimer leurs produits.<p/>
+            <p>En général, les données qu'on trouve sur les réseaux sociaux sont de bonne qualité, même si on verra dans
+              la suite que ceci peut être discutable. <p/>
+              <div style="text-align:center; ">
+              <br/>
+              <p><span class="italique" style="font-style: italic;">"On a un wifi public et donc un portail
+                pour se connecter dessus, il faut juste mettre son adresse mail, sauf que la plupart
+                des gens mettent une adresse mail quelconque qui respecte juste le format. Sauf que derrière
+                si on envoie un mail à tous ces gens on aura 20 % des adresses qui seront fausses, ce qui fait
+                que quand on envoie une campagne d’e-mailing énorme et si on a 20% des mails qui n’aboutissent pas,
+                ça joue sur notre réputation et on nous considère comme des « spameurs », alors que les mails sont
+                très importants pour faire de la promotion. La solution c’est de mettre les boutons Facebook et
+                Google, pour que les gens ils se connectent avec leurs comptes. Ça va plus vite et on sait que
+                le mail est bon et on a de meilleures données."</span></p>
+                <br/>
+                <p style="font-weight:bold;">Timothée Binet, Développeur SI & Multimédia à la Cité du Vin.</p>
           </div>
         </div>
-      </div>
 
-        <div class="block">
-          <br/>
-          <br/>
-          <div class="container about">
-            <div class="columns">
-                <div class="column about-single-element-1" style="text-align:justify;">
-                <p>L'analyse du Social data permet également aux entreprises de cibler les personnes
-                  susceptibles d'être intéressées par leurs offres. Il suffirait de trouver des internautes
-                  qui ont un profil et des centres d'intérêts similaires à leurs abonnés. Ainsi les entreprises pourraient
-                  faire des campagnes de pub très ciblées sur des segments de population susceptibles d'aimer leurs produits.<p/>
-                <p>En général, les données qu'on trouve sur les réseaux sociaux sont de bonne qualité, même si on verra dans
-                  la suite que ceci peut être discutable. <p/>
-                  <div style="text-align:center; ">
-                  <br/>
-                  <p><span class="italique" style="font-style: italic;">"On a un wifi public et donc un portail
-                    pour se connecter dessus, il faut juste mettre son adresse mail, sauf que la plupart
-                    des gens mettent une adresse mail quelconque qui respecte juste le format. Sauf que derrière
-                    si on envoie un mail à tous ces gens on aura 20 % des adresses qui seront fausses, ce qui fait
-                    que quand on envoie une campagne d’e-mailing énorme et si on a 20% des mails qui n’aboutissent pas,
-                    ça joue sur notre réputation et on nous considère comme des « spameurs », alors que les mails sont
-                    très importants pour faire de la promotion. La solution c’est de mettre les boutons Facebook et
-                    Google, pour que les gens ils se connectent avec leurs comptes. Ça va plus vite et on sait que
-                    le mail est bon et on a de meilleures données."</span></p>
-                    <br/>
-                    <p style="font-weight:bold;">Timothée Binet, Développeur SI & Multimédia à la Cité du Vin.</p>
-              </div>
-            </div>
+          <div class="column about-single-element-1" style="text-align:center; ">
+            <p><span class="italique" style="font-style: italic;">"Aujourd’hui, il existe des entreprises qui font
+              leur business que sur la multiplicité de tous les réseaux, les moyens de communication...
+              Mais finalement ce sont des solutions qui permettent d’agréger toutes les données (mais
+              ça a une limite morale). On connait les utilisateurs à la perfection. Il y a tous les
+              processus de transformation dès lors où on récupère une adresse mail sans rien sur la
+              personne jusqu’à avoir nom, prénom, âge, localisation, etc.. Ce sont des choses qui existent
+              mais qui sont très compliquées à mettre en place. On a 75000 contacts, des fois on envoie
+              des mails à 50000 personnes. Il y a plein de sources pour avoir ces contacts: les gens
+              qui se connectent à notre wifi, qui viennent visiter, qui achètent notre billetterie en
+              ligne. Il y a un degré de qualification de ces gens: soit on a leurs mails, soit leurs
+              noms, prénoms. Comme ça on peut communiquer avec eux, les faire venir à la Cité du Vin s’ils
+              sont pas venus. Plus on avance et plus les réseaux sociaux, ça match, car on arrive à
+              plus faire le lien entre les mails et Facebook. On peut juste récupérer des adresses mails
+              et les donner à Facebook qui va nous donner un amalgame. C’est ce qui fait qu’aujourd’hui
+              Facebook est leader sur le marketing et la pub. Tu leur dit j’ai une adresse mail, ce gars
+              il est de Bordeaux, il est venu à la Cité du Vin, je veux la même personne. Il peut te
+              trouver les 50000 personnes qui ressemblent aux 50000 personnes de tes contacts."</span></p>
+              <br/>
+              <p style="font-weight:bold;">Maxime Chabaud, Community and content Manager à la Cité du Vin.</p>
 
-              <div class="column about-single-element-1" style="text-align:center; ">
-                <p><span class="italique" style="font-style: italic;">"Aujourd’hui, il existe des entreprises qui font
-                  leur business que sur la multiplicité de tous les réseaux, les moyens de communication...
-                  Mais finalement ce sont des solutions qui permettent d’agréger toutes les données (mais
-                  ça a une limite morale). On connait les utilisateurs à la perfection. Il y a tous les
-                  processus de transformation dès lors où on récupère une adresse mail sans rien sur la
-                  personne jusqu’à avoir nom, prénom, âge, localisation, etc.. Ce sont des choses qui existent
-                  mais qui sont très compliquées à mettre en place. On a 75000 contacts, des fois on envoie
-                  des mails à 50000 personnes. Il y a plein de sources pour avoir ces contacts: les gens
-                  qui se connectent à notre wifi, qui viennent visiter, qui achètent notre billetterie en
-                  ligne. Il y a un degré de qualification de ces gens: soit on a leurs mails, soit leurs
-                  noms, prénoms. Comme ça on peut communiquer avec eux, les faire venir à la Cité du Vin s’ils
-                  sont pas venus. Plus on avance et plus les réseaux sociaux, ça match, car on arrive à
-                  plus faire le lien entre les mails et Facebook. On peut juste récupérer des adresses mails
-                  et les donner à Facebook qui va nous donner un amalgame. C’est ce qui fait qu’aujourd’hui
-                  Facebook est leader sur le marketing et la pub. Tu leur dit j’ai une adresse mail, ce gars
-                  il est de Bordeaux, il est venu à la Cité du Vin, je veux la même personne. Il peut te
-                  trouver les 50000 personnes qui ressemblent aux 50000 personnes de tes contacts."</span></p>
-                  <br/>
-                  <p style="font-weight:bold;">Maxime Chabaud, Community and content Manager à la Cité du Vin.</p>
-
-              </div>
-              </div>
-            </div>
           </div>
+          </div>
+    </div>
 
 
 
-        <div class="block">
+    <div class="block">
           <br/>
           <br/>
           <h2 id="api" class="subtitle heading-site-1" style= "margin-left: 5%; font-size: 30px;">Qu'est-ce qu'une API?</h2>
           <br/>
-          <div class="container about">
             <div class="columns">
 
               <div class="column about-single-element-1" style="text-align:justify;">
@@ -469,61 +436,53 @@ include("entete.php");
 
 
           </div>
-        </div>
-      </div>
+    </div>
 
-        <div class="block">
-          <br/>
-          <br/>
-          <div class="container about">
-            <div class="columns">
-                <div class="column about-single-element-1" style="text-align:justify;">
-                <p>Une interface de programmation est une façade clairement délimitée par laquelle un logiciel
-                  offre des services à d'autres logiciels. L'objectif est de fournir une porte d'accès à une
-                  fonctionnalité en cachant les détails de la mise en oeuvre. Une interface de programmation est
-                  mise en oeuvre par une "librairie" (bibliothèque logicielle) qui peut être utilisée par d'autres
-                  programmes. Une librairie fournit une solution à un problème informatique en faisant abstraction de
-                  son fonctionnement. L'interface de programmation permet de voir les fonctionnalités offertes par
+    <div class="block">
+      <br/>
+      <br/>
+        <div class="columns">
+            <div class="column about-single-element-1" style="text-align:justify;">
+              <p>Une interface de programmation est une façade clairement délimitée par laquelle un logiciel
+                offre des services à d'autres logiciels. L'objectif est de fournir une porte d'accès à une
+                fonctionnalité en cachant les détails de la mise en oeuvre. Une interface de programmation est
+                mise en oeuvre par une "librairie" (bibliothèque logicielle) qui peut être utilisée par d'autres
+                programmes. Une librairie fournit une solution à un problème informatique en faisant abstraction de
+                son fonctionnement. L'interface de programmation permet de voir les fonctionnalités offertes par
                 le logiciel sans montrer les détails de son fonctionnement. Les interfaces de programmation permettent
-              de gagner du temps par la collaboration. Les programmeurs peuvent utiliser des bibliothèques existantes
-            pour la création de leurs applications au lieu de créer leurs propres logiciels. Pour utiliser un logiciel tierce,
-            il suffit de connaître les noms des fonctions et les paramètres à rentrer. Les programmeurs peuvent ainsi écrire
-            leurs programmes en important les bibliothèques et en utilisant donc les APIs. Les APIs permettent donc à un programmeur
-            de consommer un service à travers un programme. Pour un développeur, utiliser les APIs
-            doit être plus rapide et plus commode que de coder une autre solution. Un exemple d'interface connue
-          est la Windows API qui est une collection de fonctions qui permet à des programmeurs de créer des applications
-        pour les systèmes d'exploitation Windows.</p>
-
-                  </div>
-
-
-              <div class="column about-single-element-1" style="text-align:justify; ">
-                <p>Bien que les APIs connaissent une popularité croissante depuis quelques années, c’est une technologie
-                  qui existait bien avant. Dès 1985, Microsoft a utilisé le pouvoir des APIs pour développer un
-                  avantage concurrentiel. Il a rendu ses APIs accessibles aux développeurs extérieurs qui ont
-                    développé des applications pour MS Windows. Le nombre d'utilisateurs choisissant Microsoft a
-                    fortement augmenté grâce au nombre d'applications disponibles. Mais en plus, ceci a encouragé
-                    d'autres développeurs à vouloir toucher cette même base d'utilisateurs.</p>
-                <p>Les APIs ne se limitent pas au Web. Plusieurs types d'APIs existent. On distingue les APIs
-                  de système d'exploitation qui permettent aux logiciels d'interagir aves le périphériques (webcam),
-                  mais aussi de reconnaître nos gestes sur un écran tactile par exemple. Il y a aussi les APIs de
-                  langage de programmation qui permettent aux développeurs d'utiliser des fonctions prédéfinies.
+                de gagner du temps par la collaboration. Les programmeurs peuvent utiliser des bibliothèques existantes
+                pour la création de leurs applications au lieu de créer leurs propres logiciels. Pour utiliser un logiciel tierce,
+                il suffit de connaître les noms des fonctions et les paramètres à rentrer. Les programmeurs peuvent ainsi écrire
+                leurs programmes en important les bibliothèques et en utilisant donc les APIs. Les APIs permettent donc à un programmeur
+                de consommer un service à travers un programme. Pour un développeur, utiliser les APIs
+                doit être plus rapide et plus commode que de coder une autre solution. Un exemple d'interface connue
+                est la Windows API qui est une collection de fonctions qui permet à des programmeurs de créer des applications
+                pour les systèmes d'exploitation Windows.</p>
+            </div>
+            <div class="column about-single-element-1" style="text-align:justify; ">
+              <p>Bien que les APIs connaissent une popularité croissante depuis quelques années, c’est une technologie
+                qui existait bien avant. Dès 1985, Microsoft a utilisé le pouvoir des APIs pour développer un
+                avantage concurrentiel. Il a rendu ses APIs accessibles aux développeurs extérieurs qui ont
+                  développé des applications pour MS Windows. Le nombre d'utilisateurs choisissant Microsoft a
+                  fortement augmenté grâce au nombre d'applications disponibles. Mais en plus, ceci a encouragé
+                  d'autres développeurs à vouloir toucher cette même base d'utilisateurs.</p>
+              <p>Les APIs ne se limitent pas au Web. Plusieurs types d'APIs existent. On distingue les APIs
+                de système d'exploitation qui permettent aux logiciels d'interagir aves le périphériques (webcam),
+                mais aussi de reconnaître nos gestes sur un écran tactile par exemple. Il y a aussi les APIs de
+                langage de programmation qui permettent aux développeurs d'utiliser des fonctions prédéfinies.
                 On distingue également les APIs du Web. On peut citer par exemple l'utilisation de l'API
-                  Google Maps par d'autres services comme le service Airbnb ou Leboncoin qui transforment les adresses
-                  des biens en points géolocalisés.</p>
-
-              </div>
-              </div>
+                Google Maps par d'autres services comme le service Airbnb ou Leboncoin qui transforment les adresses
+                des biens en points géolocalisés.</p>
             </div>
           </div>
+    </div>
 
 
-        <div class="block">
+    <div class="block">
           <br/>
           <br/>
           <h2 class="subtitle heading-site-1" style= "margin-left: 5%; font-size: 30px;">Les APIs: ouvertes ou fermées</h2>
           <br/>
-          <div class="container about">
             <div class="columns">
               <div class="column about-single-element-1">
                 <center>
@@ -546,55 +505,50 @@ include("entete.php");
 
               </div>
           </div>
-        </div>
-      </div>
+    </div>
 
 
-        <div class="block">
-          <br/>
-          <br/>
-          <div class="container about">
-            <div class="columns">
-                <div class="column about-single-element-1" style="text-align:justify;">
-                  <p>On distingue les APIs fermées des APIs ouvertes. Les APIs fermées permettent le
-                    partage de données ou de fonctionnalités internes à une entreprise ou des développeurs
-                    internes ou prestataires. Par ailleurs, en interne les APIs permettent aux entreprises
-                    d'automatiser des actions existantes et de les rendre plus agiles. Les applications
-                    développées par ces développeurs sont alors
-                    à usage interne et n’exposent l’ensemble de la base de données ni aux usagers, ni
-                    au grand public. Certaines entreprises comme Netflix préfèrent réduire l'accès à leurs APIs
-                    et réserver les informations sur leurs utilisateurs à un petit nombre de partenaires.
-                    En effet, une API fermée permet à une organisation de conserver la main sur ses
-                    données et ses informations partagées. De plus les données échangées via une API peuvent
-                    être de nature sensible (données personnelles, données bancaires..). Une API fermée permet
-                    donc d'identifier et de traiter en amont les problèmes de sécurité.
-                    </p>
-
-                  </div>
+    <div class="block">
+      <br/>
+      <br/>
+        <div class="columns">
+            <div class="column about-single-element-1" style="text-align:justify;">
+              <p>On distingue les APIs fermées des APIs ouvertes. Les APIs fermées permettent le
+                partage de données ou de fonctionnalités internes à une entreprise ou des développeurs
+                internes ou prestataires. Par ailleurs, en interne les APIs permettent aux entreprises
+                d'automatiser des actions existantes et de les rendre plus agiles. Les applications
+                développées par ces développeurs sont alors
+                à usage interne et n’exposent l’ensemble de la base de données ni aux usagers, ni
+                au grand public. Certaines entreprises comme Netflix préfèrent réduire l'accès à leurs APIs
+                et réserver les informations sur leurs utilisateurs à un petit nombre de partenaires.
+                En effet, une API fermée permet à une organisation de conserver la main sur ses
+                données et ses informations partagées. De plus les données échangées via une API peuvent
+                être de nature sensible (données personnelles, données bancaires..). Une API fermée permet
+                donc d'identifier et de traiter en amont les problèmes de sécurité.
+                </p>
+            </div>
 
 
-              <div class="column about-single-element-1" style="text-align:justify; ">
-                <p>Beaucoup d'entreprises décident d'ouvrir leurs APIs au grand public pour
-                  pénétrer et capter un marché d'utilisateurs. Ils donnent ainsi accès à leurs
-                  données et permettent à d'autres entreprises d'innover en utilisant leurs données.
-                  En effet, la plupart des grosses entreprises qui ont énormément de données, fonctionnent
-                  avec de vieux systèmes et ne savent pas en extraire de la valeur. Mais beaucoup
-                  d'entreprises comme Linkedin démarrent avec un accès ouvert et gratuit pour gagner
-                  des marchés et des utilisateurs, puis réduisent l'accès afin de monétiser l'audience
-                  qu'ils ont gagné.</p>
-              </div>
-              </div>
+            <div class="column about-single-element-1" style="text-align:justify; ">
+              <p>Beaucoup d'entreprises décident d'ouvrir leurs APIs au grand public pour
+                pénétrer et capter un marché d'utilisateurs. Ils donnent ainsi accès à leurs
+                données et permettent à d'autres entreprises d'innover en utilisant leurs données.
+                En effet, la plupart des grosses entreprises qui ont énormément de données, fonctionnent
+                avec de vieux systèmes et ne savent pas en extraire de la valeur. Mais beaucoup
+                d'entreprises comme Linkedin démarrent avec un accès ouvert et gratuit pour gagner
+                des marchés et des utilisateurs, puis réduisent l'accès afin de monétiser l'audience
+                qu'ils ont gagné.</p>
             </div>
           </div>
+    </div>
 
 
 
-        <div class="block">
+    <div class="block">
           <br/>
           <br/>
           <h2 class="subtitle heading-site-1" style= "margin-left: 5%; font-size: 30px;">Les APIs des réseaux sociaux</h2>
           <br/>
-          <div class="container about">
             <div class="columns">
 
               <div class="column about-single-element-1" style="text-align:justify;">
@@ -616,14 +570,11 @@ include("entete.php");
                 <img src="src/img/network.jpg" class="is-rounded" style="position: relative; width:500px; height:300px;">
               </center>
               </div>
+            </div>
+    </div>
 
-          </div>
-        </div>
-      </div>
-
-      <div class="block">
+    <div class="block">
         <br/>
-        <div class="container about">
           <div class="columns">
               <div class="column about-single-element-1" style="text-align:justify;">
                 <p>Twitter, par exemple, continue à donner accès à différentes versions de son API. Certaines
@@ -662,17 +613,14 @@ include("entete.php");
             </div>
             </div>
           </div>
-        </div>
-      </div>
+    </div>
 
-      <div class="block">
+    <div class="block">
         <br/>
         <br/>
         <h2 class="subtitle heading-site-1" style= "margin-left: 5%; font-size: 30px;">Linkfluence et Talkwalker</h2>
         <br/>
-        <div class="container about">
           <div class="columns">
-
             <div class="column about-single-element-1">
               <center>
               <img src="src/img/linkfluence.jpg" class="is-rounded" style="position: relative; width:300px; margin-left:5%; margin-right:5%;">
@@ -692,14 +640,12 @@ include("entete.php");
               <p>Une autre agence de veille et d'analyse des médias sociaux est Talkwalker, une entreprise
                 fondée en 2009 à Luxembourg.
             </div>
-        </div>
-      </div>
+          </div>
     </div>
 
-      <div class="block">
+    <div class="block">
         <br/>
         <br/>
-        <div class="container about">
           <div class="columns">
             <div class="column about-single-element-1" style="text-align:justify; ">
               <div style="text-align:center;">
@@ -744,8 +690,7 @@ include("entete.php");
             </div>
 
           </div>
-        </div>
-      </div>
+    </div>
 
   </div>
 </div>
