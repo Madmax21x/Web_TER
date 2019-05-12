@@ -61,9 +61,9 @@ include("entete.php");
             <div style="text-align:center;">
 
               <p><span class="italique" style="font-style: italic;">"On a une stratégie qui est omnicanale, on va communiquer sur plusieurs sites..
-              On est sur plusieures plateformes: Facebook, Twitter et Instagram pour les principales.
+              On est sur plusieurs plateformes: Facebook, Twitter et Instagram pour les principales.
               Sur Facebook, on essaie de bien équilibrer entre du contenu commercial (pas plus de 30%),
-              du contenuu d’inspiration (il faut jouer sur les émotions) et du contenu pratique pour
+              du contenu d’inspiration (il faut jouer sur les émotions) et du contenu pratique pour
               essayer de se rendre utile et indispensable. Ce n’est pas qu’une plateforme qu’on utilise
               pour faire de la pub, bien qu’on utilise beaucoup de campagnes sponsorisées sur Facebook.
               On va laisser les internautes partager les publications et c’est les amis des amis qui vont les voir, les aimer.."</span></p>
@@ -147,7 +147,7 @@ include("entete.php");
                   consommateur sélectionne les informations qu'il voit. Dans son article <span style="font-weight:bold;">"Constructive costumer
                   choice processes"</span>, <span style="font-weight:bold;">James R. Bettman</span> propose les quatre motivations les plus actives dans la
                   prise de décision des consommateurs: <span class="italique" style="font-style: italic;">
-                  maximisation de la pertinance du choix, minimisation de l'effort cognitif, minimisation
+                  maximisation de la pertinence du choix, minimisation de l'effort cognitif, minimisation
                 des émotions négatives, maximisation de la facilité de justifier son choix.</span>
             </p>
             <p>Le comportement des consommateurs a évolué avec la multiplication des e-commerces et
@@ -228,10 +228,10 @@ include("entete.php");
                 <p><span class="italique" style="font-style: italic; text-align:center;">
                 Les avis Tripadvisor servent vraiment de baromètre. On a eu une mauvaise note ce mois-ci qu’est-ce qu’il s’est passé?
                 C’est vraiment la différence entre une structure récente et une structure comme le Louvre qui a une histoire que nous
-                ne l'avons pas. On est obligé de s’améliorer grace à ces avis et c’est pour ça qu’on n'a pas de très bonnes notes. Un
+                ne l'avons pas. On est obligé de s’améliorer grâce à ces avis et c’est pour ça qu’on n'a pas de très bonnes notes. Un
                 des reproches qu’on nous fait c’est que quand il y a du monde, l’expérience est horrible ici et les gros WE quand on
                 sait qu’il va y avoir du monde, on sait que le lundi on va s’en prendre sur TripAdvisor, donc on anticipe, on met un
-                petit message « soyez sympa, venez plus tôt, faites un coup de fil … ».  On anticipe les besoins de nos clients grace
+                petit message « soyez sympa, venez plus tôt, faites un coup de fil … ».  On anticipe les besoins de nos clients grâce
                 aux avis."
 
             </span></p>
@@ -246,7 +246,7 @@ include("entete.php");
             "Ce qui est important, c'est qu'il y a 2 types de structures: celles qui existaient avant les réseaux
             sociaux, comme le Louvre, et des structures comme nous. Des structures comme le Louvre
             ont des avis bien supérieurs à la nôtre parce qu’ils ont amélioré leurs musées avant
-            les avis, alors que nous c’est grace aux avis sur TripAdvisor qu’on s’améliore."</span></p>
+            les avis, alors que nous c’est grâce aux avis sur TripAdvisor qu’on s’améliore."</span></p>
             <br/>
             <p style="font-weight:bold;">Timothée Binet, Développeur SI & Multimédia à la Cité du Vin.</p>
             <br/>
@@ -305,7 +305,7 @@ include("entete.php");
         <div class="columns">
             <div class="column about-single-element-1" style="text-align:justify;">
                 <p>Les internautes sont libres de partager leurs avis et leurs opinions sur les
-                  réseaux. C'est ce qui rend le contôle plus difficile pour une entreprise. Lorsque
+                  réseaux. C'est ce qui rend le contrôle plus difficile pour une entreprise. Lorsque
                   ces avis deviennent très nombreux, il devient difficile pour une entreprise de gérer
                   son e-réputation sans avoir recours à des techniques d'automatisation. En effet,
                 afin d'étudier son e-réputation l'entreprise doit d'abord être en capacité de
@@ -368,12 +368,12 @@ include("entete.php");
                     produit, d’un service, ou d’une campagne marketing, mais aussi de vérifier le niveau de
                     satisfaction des clients, ou encore de surveiller la concurrence.
                   </p>Mais ces données peuvent être aussi utilisées pour mieux connaître ses clients, leurs
-                  préferences. En effet, toute interaction avec les réseaux sociaux (like, commentaire, partage,
+                  préférences. En effet, toute interaction avec les réseaux sociaux (like, commentaire, partage,
                   publications,..) laisse des traces. A partir de ces données, il est possible de déterminer
                   ce qu'aiment les clients et de prédire ce qu'ils vont aimer. En étudiant le profil leurs clients,
                   les entreprises peuvent connaître le profil socio-démographique des personnes intéressées par leurs offres.
                   Ils peuvent récupérer des données générales comme l'âge, le sexe, la géolocalisation, mais
-                  aussi des données plus précises comme les préfrences politiques, religieuses.. Ainsi, l'analyse du
+                  aussi des données plus précises comme les préférences politiques, religieuses.. Ainsi, l'analyse du
                   Social Data peut permettre aux entreprises de cibler les bonnes personnes, au bon moment avec une
                   offre améliorée et personnalisée.
                   <p>
@@ -404,7 +404,7 @@ include("entete.php");
                     que quand on envoie une campagne d’e-mailing énorme et si on a 20% des mails qui n’aboutissent pas,
                     ça joue sur notre réputation et on nous considère comme des « spameurs », alors que les mails sont
                     très importants pour faire de la promotion. La solution c’est de mettre les boutons Facebook et
-                    Google, pour que les gens ils se connectent avec leurs comptes. Ca va plus vite et on sait que
+                    Google, pour que les gens ils se connectent avec leurs comptes. Ça va plus vite et on sait que
                     le mail est bon et on a de meilleures données."</span></p>
                     <br/>
                     <p style="font-weight:bold;">Timothée Binet, Développeur SI & Multimédia à la Cité du Vin.</p>
@@ -457,7 +457,7 @@ include("entete.php");
                   ou une autre application souhaite interagir: une application de partage d'images, un portail
                   Open Data.. L'interface c'est ce qui permet d'interagir avec l'application. Quant au
                   programme, c'est une fonction informatique à laquelle un développeur donne des instructions.
-                  Il peut par exemple permettre de récuprérer des données à intervalles régulières..
+                  Il peut par exemple permettre de récupérer des données à intervalles régulières..
                 </p>
               </div>
 
@@ -535,8 +535,8 @@ include("entete.php");
                 <p>Avec l'essor des APIs du Web, les entreprises prennent l'habitude d'importer les
                   données des autres systèmes via leurs APIs au lieu de les produire eux-mêmes et
                   parallèlement exporter leurs données vers d'autres systèmes. On peut prendre
-                  l'exemple de Stripe, Twilio et Algolia en France qui ont dévéloppé des technologies
-                  de paiement, de télécommunicatoin et de moteur de recherche et les ont "exportés"
+                  l'exemple de Stripe, Twilio et Algolia en France qui ont développé des technologies
+                  de paiement, de télécommunication et de moteur de recherche et les ont "exportés"
                   via des APIs au reste du monde. Des millions de sociétés les ont intégré, plutôt que
                   de créer leur propre technologie. Par exemple, Uber utilise la carte de Google via
                   Google Maps, le processing de paiement via Stripe,  envoie les SMS via Twilio...
@@ -563,10 +563,10 @@ include("entete.php");
                     développées par ces développeurs sont alors
                     à usage interne et n’exposent l’ensemble de la base de données ni aux usagers, ni
                     au grand public. Certaines entreprises comme Netflix préfèrent réduire l'accès à leurs APIs
-                    et réserver les informations sur leurs utlisateurs à un petit nombre de partenaires.
+                    et réserver les informations sur leurs utilisateurs à un petit nombre de partenaires.
                     En effet, une API fermée permet à une organisation de conserver la main sur ses
                     données et ses informations partagées. De plus les données échangées via une API peuvent
-                    être de nature sensible (donées personnelles, données bancaires..). Une API fermée permet
+                    être de nature sensible (données personnelles, données bancaires..). Une API fermée permet
                     donc d'identifier et de traiter en amont les problèmes de sécurité.
                     </p>
 
@@ -580,7 +580,7 @@ include("entete.php");
                   En effet, la plupart des grosses entreprises qui ont énormément de données, fonctionnent
                   avec de vieux systèmes et ne savent pas en extraire de la valeur. Mais beaucoup
                   d'entreprises comme Linkedin démarrent avec un accès ouvert et gratuit pour gagner
-                  des marchés et des utilisateurs, puis réduissent l'accès afin de monétiser l'audience
+                  des marchés et des utilisateurs, puis réduisent l'accès afin de monétiser l'audience
                   qu'ils ont gagné.</p>
               </div>
               </div>
@@ -635,8 +635,8 @@ include("entete.php");
                   en temps réel. La version gratuite permet de faire des requêtes à partir d'un nom d'utilisateur ou
                   un hashtag et de récupérer l'ensemble des informations du tweet: contenu, date, description,
                 géolocalisation, etc..</p>
-                <p>Les entreprise peuvent utiliser ces données pour l'étude de leur e-réputations. Twitter développe
-                  des applications comme TweetDeck qui grace aux APIs Twitter permet de consulter et gérer un
+                <p>Les entreprises peuvent utiliser ces données pour l'étude de leur e-réputations. Twitter développe
+                  des applications comme TweetDeck qui grâce aux APIs Twitter permet de consulter et gérer un
                   ou plusieurs comptes Twitter, via une interface graphique composée de plusieurs colonnes.</p>
                 </div>
 
