@@ -33,7 +33,7 @@ include("entete.php");
       <div class="notification">
         <h1 class="title is-1">Mais pas que... </h1>
         <p>
-          Plusieurs bibliothèques Python sont nécesssaires au bon fonctionnement de cet outil dont voici la liste et la description:
+          Plusieurs bibliothèques Python sont nécessaires au bon fonctionnement de cet outil dont voici la liste et la description:
         </p>
         <div class="column">
           <ol>
@@ -45,10 +45,10 @@ include("entete.php");
             <li><strong>re</strong> : Regular expression operations: Permet de nettoyer les tweets des caractères inutiles. </li>
             <li><strong>matplotlib</strong> : Permet de visualiser les données traitées sous forme graphique. </li>
             <li><strong>json</strong> : Permet de sérialiser (inclure des données dans un flux). </li>
-            <li><strong>collections</strong> : Avec Counter qui permet de compter des élèments.</li>
+            <li><strong>collections</strong> : Avec Counter qui permet de compter des éléments.</li>
             <li><strong>wordcloud</strong> :Permet de générer un nuage de mots de différentes tailles, qui représentent la
             fréquence ou l'importance de chaque mot.</li>
-            <li><strong>plotly</strong> : Une bibliothèque qui permet de générér des graphes en ligne (similaire à matplotlib).</li>
+            <li><strong>plotly</strong> : Une bibliothèque qui permet de générer des graphes en ligne (similaire à matplotlib).</li>
           </ol>
         </div>
       </div>
@@ -122,10 +122,10 @@ include("entete.php");
               Nous nous sommes donc concentrés sur l'accès à certains types de données via différentes fonctions:</p>
               <br/>
               <ol>
-                <li>get_user_timeline_tweets: renvoit un nombre prédéfini de tweets disponibles sur la timeline d'un utilisateur.</li>
-                <li>get_friend_list: renvoit un nombre prédéfini d'ami(e)s pour un utilisateur donné.</li>
-                <li>get_follower_list: renvoit un nombre prédéfini de followers pour un utilisateur donné.</li>
-                <li>get_home_timeline_tweets: renvoit un nombre prédéfini de tweets disponibles sur la timeline du compte utilisateur.</li>
+                <li>get_user_timeline_tweets: renvoie un nombre prédéfini de tweets disponibles sur la timeline d'un utilisateur.</li>
+                <li>get_friend_list: renvoie un nombre prédéfini d'ami(e)s pour un utilisateur donné.</li>
+                <li>get_follower_list: renvoie un nombre prédéfini de followers pour un utilisateur donné.</li>
+                <li>get_home_timeline_tweets: renvoie un nombre prédéfini de tweets disponibles sur la timeline du compte utilisateur.</li>
                 <li>get_hashtag_tweets: Permet de récupérer tous les tweets qui ont un hashtag prédéfini dans leurs textes.</li>
                 <li>get_other_hashtag: Permet de récupérer les mots ou hashtags les plus fréquents qui sont associés avec un hashtag prédéfini.</li>
                 <li>get_trends: Permet de récupérer les tendances par localisation (avec un code WOE_ID prédéfini).</li>
@@ -224,19 +224,19 @@ include("entete.php");
         <h2 class="title is-2">Big Data, Stockage & Analyse</h2>
         <div class="columns">
           <div class="column about-single-element-1">
-            <p>La 3ème et dernière partie concèrne le traitement massif de données quantitatives, leurs stockages dans
+            <p>La 3ème et dernière partie concerne le traitement massif de données quantitatives, leurs stockages dans
               un fichier xlsx et enfin son traitement.
             </p>
             <br/>
             <p>
-              Pour commencer, nous utilisons une version améliorée de <strong>TwitterClient </strong>vue précèdement qui s'occupe ici
-              précisément de récupéer un grand nombre de tweets (1000 ici) pour un certain mot clé (Boeing ici).
+              Pour commencer, nous utilisons une version améliorée de <strong>TwitterClient </strong>vue précédement qui s'occupe ici
+              précisément de récupérer un grand nombre de tweets (1000 ici) pour un certain mot clé (Boeing ici).
             </p>
             <br/>
             <p>Toutes ces données sont stockées pour ensuite être traitées par une seconde partie via
               <strong>analyse_tweet</strong> qui permet de nettoyer les tweets, faire une analyse sentimentale du texte,
               générer un diagramme circulaire de sentiments, générer un wordcloud des mots les plus fréquents dans cet
-              ensemble de tweets et enfin d'afficher cette fréquence de mots sous la forme d'un diagramme en baton.
+              ensemble de tweets et enfin d'afficher cette fréquence de mots sous la forme d'un diagramme en bâton.
             </p>
           </div>
           <div class="column about-single-element-1">
